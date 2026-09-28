@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>香港名稱搜尋｜放債人 / 慈善團體</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --card: #1a2332;
+      --border: #2d3a4f;
+      --text: #e7ecf3;
+      --muted: #8b9bb4;
+      --accent: #3b82f6;
+      --green: #22c55e;
+      --orange: #f59e0b;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      line-height: 1.5;
+    }
+    .container { max-width: 920px; margin: 0 auto; padding: 2rem 1.25rem; }
+    h1 { font-size: 1.55rem; font-weight: 700; margin-bottom: 0.3rem; }
+    .sub { color: var(--muted); font-size: 0.9rem; margin-bottom: 1.5rem; }
+    .sub a { color: var(--accent); }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.35rem;
+      margin-bottom: 1.25rem;
+    }
+    .row { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+    input[type="text"] {
+      flex: 1; min-width: 200px;
+      padding: 0.75rem 1rem;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 1rem;
+    }
+    input:focus {
+      outline: none;
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(59,130,246,.25);
+    }
+    button {
+      padding: 0.75rem 1.4rem;
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    button:hover { background: #2563eb; }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .meta { font-size: 0.8rem; color: var(--muted); margin-top: 0.85rem; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+    th, td { padding: 0.85rem 1rem; text-align: left; border-bottom: 1px solid var(--border); vertical-align: top; }
+    th { color: var(--muted); font-size: 0.78rem; text-transform: uppercase; letter-spacing: .04em; }
+    tr:last-child td { border-bottom: none; }
+    .badge {
+      display: inline-flex; align-items: center; gap: .3rem;
+      padding: 0.25rem 0.65rem; border-radius: 999px;
+      font-size: 0.85rem; font-weight: 600;
+    }
+    .yes { background: rgba(34,197,94,.15); color: var(--green); }
+    .no { background: rgba(139,155,180,.12); color: var(--muted); }
+    .hits {
+      margin-top: 0.45rem; font-size: 0.78rem; color: var(--muted);
+      max-height: 160px; overflow-y: auto;
+    }
+    .hits div { padding: 0.2rem 0; border-bottom: 1px dashed var(--border); }
+    .hits div:last-child { border-bottom: none; }
+    .loading { color: var(--orange); }
+    .footer { margin-top: 1.75rem; font-size: 0.75rem; color: var(--muted); text-align: center; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>香港名稱搜尋</h1>
+    <p class="sub">
+      輸入公司／機構名稱，對照
+      <a href="https://www.cr.gov.hk/en/statistics/docs/ml_licensees1.pdf" target="_blank" rel="noopener">放債人牌照名單</a>
+      及
+      <a href="https://www.ird.gov.hk/chi/pdf/s88list_emb.pdf" target="_blank" rel="noopener">稅務條例第88條慈善機構名單</a>
+      。資料由 GitHub Actions 自動更新。
+    </p>
+
+    <div class="card">
+      <form id="form" class="row">
+        <input type="text" id="q" placeholder="輸入名稱（中文或英文）…" autocomplete="off" required />
+        <button type="submit" id="btn">搜尋</button>
+      </form>
+      <div class="meta" id="status">載入資料中…</div>
+    </div>
+
+    <div class="card" id="resultCard" style="display:none">
+      <table>
+        <thead>
+          <tr>
+            <th>名稱</th>
+            <th>放債人</th>
+            <th>慈善團體</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td id="rName"></td>
+            <td id="rMl"></td>
+            <td id="rCh"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="footer">
+      僅供參考，請以官方最新名單為準 · 資料自動更新（GitHub Actions）
+    </div>
+  </div>
+
+  <script>
+    const state = {
+      ready: false,
+      updated: null,
+      mlText: "",
+      chText: "",
+      mlNames: [],
+      chNames: [],
+    };
+
+    function esc(s) {
+      const d = document.createElement("div");
+      d.textContent = s;
+      return d.innerHTML;
+    }
+
+    function findHits(haystack, needle, max = 12) {
+      const n = needle.trim();
+      if (!n || !haystack) return [];
+      const lowerHay = haystack.toLowerCase();
+      const lowerN = n.toLowerCase();
+      const lines = haystack.split("\n");
+      const hits = [];
+      for (let i = 0; i < lines.length; i++) {
+        if (lines[i].toLowerCase().includes(lowerN)) {
+          hits.push({ line: i + 1, text: lines[i].trim() });
+          if (hits.length >= max) break;
+        }
+      }
+      // also check structured names
+      return hits;
+    }
+
+    function nameListHits(list, needle, max = 8) {
+      const n = needle.trim().toLowerCase();
+      if (!n) return [];
+      const hits = [];
+      for (const name of list) {
+        if (name.toLowerCase().includes(n)) {
+          hits.push(name);
+          if (hits.length >= max) break;
+        }
+      }
+      return hits;
+    }
+
+    function renderSide(found, hits, label) {
+      if (!found) {
+        return `<span class="badge no">— 未找到</span>`;
+      }
+      let html = `<span class="badge yes">✓ ${esc(label)}</span>`;
+      if (hits.length) {
+        html += `<div class="hits">` +
+          hits.map(h => {
+            if (typeof h === "string") return `<div>${esc(h)}</div>`;
+            return `<div>L${h.line}: ${esc(h.text.slice(0, 140))}${h.text.length > 140 ? "…" : ""}</div>`;
+          }).join("") +
+          `</div>`;
+      }
+      return html;
+    }
+
+    function search(q) {
+      const mlHitsText = findHits(state.mlText, q);
+      const chHitsText = findHits(state.chText, q);
+      const mlHitsName = nameListHits(state.mlNames, q);
+      const chHitsName = nameListHits(state.chNames, q);
+
+      const mlFound = mlHitsText.length > 0 || mlHitsName.length > 0;
+      const chFound = chHitsText.length > 0 || chHitsName.length > 0;
+
+      // prefer showing name matches, else text line hits
+      const mlShow = mlHitsName.length ? mlHitsName : mlHitsText;
+      const chShow = chHitsName.length ? chHitsName : chHitsText;
+
+      document.getElementById("rName").innerHTML = `<strong>${esc(q)}</strong>`;
+      document.getElementById("rMl").innerHTML = renderSide(mlFound, mlShow, "放債人");
+      document.getElementById("rCh").innerHTML = renderSide(chFound, chShow, "慈善團體");
+      document.getElementById("resultCard").style.display = "block";
+    }
+
+    async function loadData() {
+      const status = document.getElementById("status");
+      try {
+        const [metaRes, mlRes, chRes] = await Promise.all([
+          fetch("data/names.json", { cache: "no-cache" }),
+          fetch("data/ml_full.txt", { cache: "no-cache" }),
+          fetch("data/charity_full.txt", { cache: "no-cache" }),
+        ]);
+        if (!metaRes.ok || !mlRes.ok || !chRes.ok) {
+          throw new Error("無法載入資料檔，請確認 data/ 目錄已部署");
+        }
+        const meta = await metaRes.json();
+        state.updated = meta.updated;
+        state.mlNames = meta.money_lender || [];
+        state.chNames = meta.charity || [];
+        state.mlText = await mlRes.text();
+        state.chText = await chRes.text();
+        state.ready = true;
+        status.innerHTML =
+          `資料更新日期：<strong>${esc(meta.updated || "未知")}</strong>` +
+          ` · 放債人約 ${meta.money_lender_count ?? state.mlNames.length} 筆` +
+          ` · 慈善團體約 ${meta.charity_count ?? state.chNames.length} 筆`;
+        document.getElementById("btn").disabled = false;
+      } catch (e) {
+        status.innerHTML = `<span class="loading">載入失敗：${esc(String(e.message || e))}</span>`;
+      }
+    }
+
+    document.getElementById("form").addEventListener("submit", (e) => {
+      e.preventDefault();
+      if (!state.ready) return;
+      const q = document.getElementById("q").value.trim();
+      if (q) search(q);
+    });
+
+    document.getElementById("btn").disabled = true;
+    loadData();
+  </script>
+</body>
+</html>
