@@ -1,7 +1,6 @@
 # 香港名稱搜尋（放債人 / 慈善團體）
 
 純前端靜態網頁 + **GitHub Actions 自動更新**官方名單。  
-完全免費，唔使 PHP、唔使伺服器。
 
 ## 功能
 
@@ -73,16 +72,6 @@ hk_name_search_static/
 │   └── update-lists.yml       # 自動更新排程
 └── README.md
 ```
-
-## 其他免費託管
-
-同一套靜態檔也可放：
-
-- **Cloudflare Pages**（連 GitHub 自動部署）
-- **Netlify**
-- **Vercel**（Static）
-
-自動更新仍由 GitHub Actions 負責寫入 `data/`，Pages 會跟住最新 commit 重新部署。
 
 ## 注意
 
