@@ -34,9 +34,9 @@
       padding: 1.35rem;
       margin-bottom: 1.25rem;
     }
-    .row { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+    .row { display: flex; gap: 0.75rem; flex-wrap: wrap; align-items: center; }
     input[type="text"] {
-      flex: 1; min-width: 200px;
+      flex: 1; min-width: 180px;
       padding: 0.75rem 1rem;
       border: 1px solid var(--border);
       border-radius: 8px;
@@ -49,19 +49,35 @@
       border-color: var(--accent);
       box-shadow: 0 0 0 3px rgba(59,130,246,.25);
     }
-    button {
-      padding: 0.75rem 1.4rem;
+    button, .btn {
+      padding: 0.75rem 1.25rem;
       background: var(--accent);
       color: #fff;
       border: none;
       border-radius: 8px;
-      font-size: 1rem;
+      font-size: 0.95rem;
       font-weight: 600;
       cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      white-space: nowrap;
     }
-    button:hover { background: #2563eb; }
+    button:hover, .btn:hover { background: #2563eb; }
     button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .btn-secondary {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--muted);
+    }
+    .btn-secondary:hover {
+      border-color: var(--muted);
+      color: var(--text);
+      background: rgba(255,255,255,0.04);
+    }
     .meta { font-size: 0.8rem; color: var(--muted); margin-top: 0.85rem; }
+    .meta a { color: var(--accent); }
     table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
     th, td { padding: 0.85rem 1rem; text-align: left; border-bottom: 1px solid var(--border); vertical-align: top; }
     th { color: var(--muted); font-size: 0.78rem; text-transform: uppercase; letter-spacing: .04em; }
@@ -81,6 +97,13 @@
     .hits div:last-child { border-bottom: none; }
     .loading { color: var(--orange); }
     .footer { margin-top: 1.75rem; font-size: 0.75rem; color: var(--muted); text-align: center; }
+    .hint {
+      margin-top: 0.6rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+      display: none;
+    }
+    .hint.show { display: block; }
   </style>
 </head>
 <body>
@@ -91,14 +114,24 @@
       <a href="https://www.cr.gov.hk/en/statistics/docs/ml_licensees1.pdf" target="_blank" rel="noopener">放債人牌照名單</a>
       及
       <a href="https://www.ird.gov.hk/chi/pdf/s88list_emb.pdf" target="_blank" rel="noopener">稅務條例第88條慈善機構名單</a>
-      。資料由 GitHub Actions 自動更新。
+      。
     </p>
 
     <div class="card">
       <form id="form" class="row">
         <input type="text" id="q" placeholder="輸入名稱（中文或英文）…" autocomplete="off" required />
         <button type="submit" id="btn">搜尋</button>
+        <a class="btn btn-secondary" id="updateBtn"
+           href="https://github.com/jackyson123/address-cr-ird/actions/workflows/update-lists.yml"
+           target="_blank" rel="noopener"
+           title="開啟 GitHub Actions，按 Run workflow 即可手動更新">
+          手動更新
+        </a>
       </form>
+      <div class="hint" id="updateHint">
+        按「手動更新」後：在 GitHub 頁面右邊按 <strong>Run workflow</strong> → <strong>Run workflow</strong>，
+        等綠色 ✓ 完成後，回到本頁 <strong>重新整理</strong> 即可用最新資料。
+      </div>
       <div class="meta" id="status">載入資料中…</div>
     </div>
 
@@ -122,11 +155,15 @@
     </div>
 
     <div class="footer">
-      僅供參考，請以官方最新名單為準 · 資料自動更新（GitHub Actions）
+      僅供參考，請以官方最新名單為準 · 每日自動更新 + 可手動更新（GitHub Actions）
     </div>
   </div>
 
   <script>
+    // 你的 repo；若改名請一併改呢度
+    const REPO_ACTIONS =
+      "https://github.com/jackyson123/address-cr-ird/actions/workflows/update-lists.yml";
+
     const state = {
       ready: false,
       updated: null,
@@ -145,7 +182,6 @@
     function findHits(haystack, needle, max = 12) {
       const n = needle.trim();
       if (!n || !haystack) return [];
-      const lowerHay = haystack.toLowerCase();
       const lowerN = n.toLowerCase();
       const lines = haystack.split("\n");
       const hits = [];
@@ -155,7 +191,6 @@
           if (hits.length >= max) break;
         }
       }
-      // also check structured names
       return hits;
     }
 
@@ -197,7 +232,6 @@
       const mlFound = mlHitsText.length > 0 || mlHitsName.length > 0;
       const chFound = chHitsText.length > 0 || chHitsName.length > 0;
 
-      // prefer showing name matches, else text line hits
       const mlShow = mlHitsName.length ? mlHitsName : mlHitsText;
       const chShow = chHitsName.length ? chHitsName : chHitsText;
 
@@ -207,16 +241,27 @@
       document.getElementById("resultCard").style.display = "block";
     }
 
+    /** 同時支援根目錄同 data/ 資料夾 */
+    async function fetchFirstOk(paths) {
+      for (const p of paths) {
+        try {
+          const res = await fetch(p, { cache: "no-cache" });
+          if (res.ok) return res;
+        } catch (_) {}
+      }
+      return null;
+    }
+
     async function loadData() {
       const status = document.getElementById("status");
       try {
         const [metaRes, mlRes, chRes] = await Promise.all([
-          fetch("data/names.json", { cache: "no-cache" }),
-          fetch("data/ml_full.txt", { cache: "no-cache" }),
-          fetch("data/charity_full.txt", { cache: "no-cache" }),
+          fetchFirstOk(["names.json", "data/names.json"]),
+          fetchFirstOk(["ml_full.txt", "data/ml_full.txt"]),
+          fetchFirstOk(["charity_full.txt", "data/charity_full.txt"]),
         ]);
-        if (!metaRes.ok || !mlRes.ok || !chRes.ok) {
-          throw new Error("無法載入資料檔，請確認 data/ 目錄已部署");
+        if (!metaRes || !mlRes || !chRes) {
+          throw new Error("找不到 names.json / ml_full.txt / charity_full.txt（請確認已上傳到 repo 根目錄或 data/）");
         }
         const meta = await metaRes.json();
         state.updated = meta.updated;
@@ -228,7 +273,8 @@
         status.innerHTML =
           `資料更新日期：<strong>${esc(meta.updated || "未知")}</strong>` +
           ` · 放債人約 ${meta.money_lender_count ?? state.mlNames.length} 筆` +
-          ` · 慈善團體約 ${meta.charity_count ?? state.chNames.length} 筆`;
+          ` · 慈善團體約 ${meta.charity_count ?? state.chNames.length} 筆` +
+          ` · <a href="${REPO_ACTIONS}" target="_blank" rel="noopener">手動更新說明</a>`;
         document.getElementById("btn").disabled = false;
       } catch (e) {
         status.innerHTML = `<span class="loading">載入失敗：${esc(String(e.message || e))}</span>`;
@@ -240,6 +286,10 @@
       if (!state.ready) return;
       const q = document.getElementById("q").value.trim();
       if (q) search(q);
+    });
+
+    document.getElementById("updateBtn").addEventListener("click", () => {
+      document.getElementById("updateHint").classList.add("show");
     });
 
     document.getElementById("btn").disabled = true;
