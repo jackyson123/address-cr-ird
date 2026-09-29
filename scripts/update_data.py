@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
-下載官方 PDF → 轉文字 → 產生 data/ 供前端搜尋
-依賴: curl 或 urllib, pdftotext (poppler-utils)
-在 GitHub Actions (Ubuntu) 可直接跑
+下載官方 PDF → 轉文字 → 寫入 repo 根目錄（配合扁平檔案結構）
+依賴: pdftotext (poppler-utils)
 """
 from __future__ import annotations
 
@@ -14,10 +13,10 @@ import urllib.request
 from datetime import date
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "data"
+# 若 script 在 scripts/ 子目錄，ROOT 係上一層；若在根目錄，ROOT 就係自己所在目錄
+_HERE = Path(__file__).resolve().parent
+ROOT = _HERE if (_HERE / "index.html").exists() or (_HERE / "names.json").exists() else _HERE.parent
 CACHE = ROOT / "cache"
-DATA.mkdir(exist_ok=True)
 CACHE.mkdir(exist_ok=True)
 
 SOURCES = {
@@ -25,13 +24,13 @@ SOURCES = {
         "url": "https://www.cr.gov.hk/en/statistics/docs/ml_licensees1.pdf",
         "pdf": CACHE / "ml_licensees1.pdf",
         "txt": CACHE / "ml_licensees1.txt",
-        "out": DATA / "ml_full.txt",
+        "out": ROOT / "ml_full.txt",
     },
     "charity": {
         "url": "https://www.ird.gov.hk/chi/pdf/s88list_emb.pdf",
         "pdf": CACHE / "s88list_emb.pdf",
         "txt": CACHE / "s88list_emb.txt",
-        "out": DATA / "charity_full.txt",
+        "out": ROOT / "charity_full.txt",
     },
 }
 
@@ -57,7 +56,6 @@ def pdf_to_text(pdf: Path, txt: Path) -> None:
 
 
 def normalize_text(raw: str) -> str:
-    # 保留換行，壓縮多餘空白，方便搜尋
     lines = []
     for line in raw.splitlines():
         line = re.sub(r"[ \t]+", " ", line).strip()
@@ -126,7 +124,6 @@ def main() -> int:
             pdf_to_text(src["pdf"], src["txt"])
         except Exception as e:
             print(f"ERROR updating {key}: {e}", file=sys.stderr)
-            # 若有舊檔就繼續用
             if not src["txt"].exists():
                 return 1
 
@@ -149,7 +146,7 @@ def main() -> int:
         "money_lender": extract_ml_names(ml_text),
         "charity": extract_charity_names(ch_text),
     }
-    names_path = DATA / "names.json"
+    names_path = ROOT / "names.json"
     names_path.write_text(
         json.dumps(meta, ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
