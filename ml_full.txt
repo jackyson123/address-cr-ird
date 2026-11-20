@@ -1,14 +1,14 @@
-現有放債人牌照持牌人名單 (截至 2026年9月30日) (依英文名稱字母次序)
-List of Existing Money Lenders Licensees (as at 30 September 2026) (in alphabetical order of English Name)
+現有放債人牌照持牌人名單 (截至 2026年10月31日) (依英文名稱字母次序)
+List of Existing Money Lenders Licensees (as at 31 October 2026) (in alphabetical order of English Name)
 其他相關的名單 Other relevant lists:
-現有放債人牌照持牌人名單 (截至 2026年9月30日) (依放債人牌照號碼次序)
-List of Existing Money Lenders Licensees (as at 30 September 2026) (in sequential order of Money Lender's Licence No.)
-放債人牌照申請名單 (截至 2026年9月30日)
-List of Applications for Money Lenders Licences (as at 30 September 2026)
-已屆滿的放債人牌照名單 (截至 2026年9月30日)
-List of Expired Money Lenders Licences (as at 30 September 2026)
-已駁回或撤回的放債人牌照申請名單 (截至 2026年9月30日)
-List of Dismissed or Withdrawn Applications for Money Lenders Licences (as at 30 September 2026)
+現有放債人牌照持牌人名單 (截至 2026年10月31日) (依放債人牌照號碼次序)
+List of Existing Money Lenders Licensees (as at 31 October 2026) (in sequential order of Money Lender's Licence No.)
+放債人牌照申請名單 (截至 2026年10月31日)
+List of Applications for Money Lenders Licences (as at 31 October 2026)
+已屆滿的放債人牌照名單 (截至 2026年10月31日)
+List of Expired Money Lenders Licences (as at 31 October 2026)
+已駁回或撤回的放債人牌照申請名單 (截至 2026年10月31日)
+List of Dismissed or Withdrawn Applications for Money Lenders Licences (as at 31 October 2026)
 # 備註 Remarks:
 R - 牌照續期申請進行中 Application for renewal in progress
 放債人牌照號碼 牌照屆滿日
@@ -22,7 +22,7 @@ Licence No. Date
 5873 387/2026 168 Imperial City Finance Limited 168皇城財務有限公司 7-Jan-27
 5415 1730/2025 18 Finance Company Limited 18信貸有限公司 8-Oct-26 R
 6324 931/2026 18 Wealth Limited 18財務有限公司 4-Aug-27
-5227 11/2026 1st Partner Finance Limited 佰立信貸有限公司 1-Nov-26
+5227 11/2026 1st Partner Finance Limited 佰立信貸有限公司 1-Nov-26 R
 3119 95/2026 21 Finance Limited 21財務有限公司 22-Dec-26
 5399 889/2026 28 Loan Company Limited 易發財務有限公司 16-Apr-27
 6396 708/2026 3 Sing (HK) Credit Limited 三昇香港信貸有限公司 23-May-27
@@ -30,7 +30,6 @@ Licence No. Date
 5112 1098/2026 3 Sing Wealth Credit International Limited 三昇國際財富信貸有限公司 19-Jun-27
 4075 940/2026 360 Credit Limited 360信貸有限公司 28-Apr-27
 6682 77/2026 369 Credit Company Limited 369物業信貸有限公司 12-Feb-27
-6370 762/2026 55555 Limited 14-Mar-27
 4857 1519/2025 663 Limited 14-Sep-26 R
 6320 1980/2025 77777 LIMITED 10-Nov-26
 4891 1599/2025 88 Industrial Limited 88實業有限公司 25-Nov-26
@@ -38,9 +37,10 @@ Licence No. Date
 6379 727/2026 A Plus Finance (Hong Kong) Limited 至好財務(香港)有限公司 11-Apr-27
 1059 711/2026 A.A. Finance Limited 17-Mar-27
 6386 1694/2025 A1 Credit Limited 22-Aug-26 R
-5563 1947/2025 AB Capital Management Limited 安本資產管理有限公司 7-Nov-26
+6161 409/2026 A3A Treasury Limited 11-Jan-27
+5563 1947/2025 AB Capital Management Limited 安本資產管理有限公司 7-Nov-26 R
 1903 560/2026 AB International Finance Limited 28-Feb-27
-30.9.2026 頁碼 Page No. : 1 總頁數 Total Pages : 59
+31.10.2026 頁碼 Page No. : 1 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
@@ -48,16 +48,15 @@ MLR No. English Name Chinese Name Remarks
 Licence No. Date
 2528 1795/2025 ABCI Securities Company Limited 農銀國際證券有限公司 4-Oct-26 R
 4562 1669/2025 AccGirl Finance Limited 會計妹財務有限公司 20-Sep-26 R
-6291 107/2026 Ace Crown Hong Kong Trading Limited 11-Oct-26
 6581 1022/2026 Achieve Asset Limited 卓晟資產有限公司 6-May-27
 6337 243/2026 Achieve Credit Limited 13-Dec-26
 3063 791/2026 Acme Finance (H.K.) Limited 益美財務(香港)有限公司 31-Mar-27
-2848 1890/2025 Actex Finance Limited 信昌財務有限公司 26-Oct-26
-3660 23/2026 Adco Fa Limited 啟豪融資有限公司 3-Dec-26
+2848 1890/2025 Actex Finance Limited 信昌財務有限公司 26-Oct-26 R
+3660 23/2026 Adco Fa Limited 啟豪融資有限公司 3-Dec-26 R
 4770 682/2026 Admiralty Capital Limited 海富資本有限公司 23-May-27
-6412 1274/2025 Admire Empire Limited 讚顥有限公司 3-Aug-26 R
+6412 1412/2026 Admire Empire Limited 讚顥有限公司 3-Aug-27
 6204 892/2026 Advance Sane Asset Limited 晉升資產有限公司 14-Apr-27
-6264 1433/2025 Advanz Capital Limited 晉佳資金有限公司 19-Jul-26 R
+6264 1408/2026 Advanz Capital Limited 晉佳資金有限公司 19-Jul-27
 5551 980/2026 AE Finance Limited 阿聯酋財務有限公司 10-May-27
 1219 1438/2025 AEON Credit Service (Asia) Company AEON信貸財務(亞洲)有限公司 7-Aug-26 R
 Limited
@@ -66,10 +65,10 @@ Limited
 5478 979/2026 Affluence Credit Limited 溢豐信貸有限公司 11-Jul-27
 5963 664/2026 Affluence Finance Limited 富年財務有限公司 27-Apr-27
 1525 619/2026 AG Capital Limited 聯合融資有限公司 29-Mar-27
-5957 1200/2026 AG Finance Limited 尊貴財務有限公司 8-Jul-27
+5957 1205/2026 AG Finance Limited 尊貴財務有限公司 8-Jul-27
 3115 913/2026 AGI Property Finance Limited 智通物業信貸有限公司 30-Jul-27
 6395 1054/2026 Air8 (Hong Kong) Limited 昇萃(香港)有限公司 23-May-27
-6174 1787/2025 Airwallex (Hong Kong) Limited 25-Oct-26
+6174 1787/2025 Airwallex (Hong Kong) Limited 25-Oct-26 R
 6488 820/2026 AJI Assets Management Limited 匯安資產管理有限公司 21-May-27
 5455 978/2026 Akita Credit Limited 秋田信貸有限公司 11-Jun-27
 6482 710/2026 All Day Credit Limited 春日信貸有限公司 7-May-27
@@ -80,23 +79,22 @@ Limited
 1593 318/2026 Allied Treasure Investment Limited 齊潤投資有限公司 24-Dec-26
 5895 408/2026 ALMC Limited 19-Jan-27
 3492 280/2026 Alright Finance Services Limited 安諾財務有限公司 5-Feb-27
-30.9.2026 頁碼 Page No. : 2 總頁數 Total Pages : 59
+5235 171/2026 Always Profit Credit Limited 永明信貸有限公司 13-Nov-26
+31.10.2026 頁碼 Page No. : 2 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-5235 171/2026 Always Profit Credit Limited 永明信貸有限公司 13-Nov-26
 6454 351/2026 Amazon Credit Limited 亞馬遜信貸有限公司 11-Jan-27
 5986 312/2026 Amber Credit Limited 琥珀信貸有限公司 2-Jan-27
 5359 798/2026 Amber Hill Advancing Limited 安心貸有限公司 26-Mar-27
-3254 1936/2025 Amberite Finance Limited 安倍財務有限公司 4-Oct-26
 6549 202/2026 Amberly Group Limited 21-Jan-27
 5460 1050/2026 American Express International, Inc. 美國運通國際股份有限公司 20-Jun-27
-3149 740/2026 Ample Corporation Limited 佳誠滙業有限公司 17-Aug-26 R
+3149 1351/2025 Ample Corporation Limited 佳誠滙業有限公司 17-Aug-26 R
 4282 438/2026 Ample Finance Limited 一豐財務有限公司 14-Jan-27
 5714 1015/2026 Ancestry Industry Company Limited 名門實業有限公司 23-Jun-27
-4456 1334/2025 Andy Credit Limited 天時信貸有限公司 5-Sep-26 R
+4456 1313/2026 Andy Credit Limited 天時信貸有限公司 5-Sep-27
 4571 1727/2025 Angel Consultant Service Limited 安祖顧問服務有限公司 6-Sep-26 R
 5504 175/2026 Anglo Chinese Project Finance, Limited 14-Jan-27
 1314 901/2026 Anglo Chinese Securities, Limited 英高證券有限公司 21-Jun-27
@@ -106,29 +104,30 @@ Co., Limited
 6588 897/2026 ANR Credit Limited 安榮財務有限公司 12-Jun-27
 6437 36/2026 Anxindai Finance Group Company Limited 安訊貸財務集團有限公司 2-Nov-26
 6737 1040/2026 Anytime Credit Limited 25-Aug-27
-1163 1348/2025 AP Finance Limited 15-Aug-26 R
-4188 1263/2025 APAC Resources Beijing Limited 亞太資源北京有限公司 13-Aug-26 R
+1163 1303/2026 AP Finance Limited 15-Aug-27
+4188 1312/2026 APAC Resources Beijing Limited 亞太資源北京有限公司 13-Aug-27
 6582 1037/2026 Apanda Credit Limited 磐達信貸有限公司 15-May-27
 5098 217/2026 Apex Finance (HK) Limited 29-Nov-26
 6655 1740/2025 APG Credit Service Limited 16-Dec-26 R
 6186 551/2026 APG Worldwide Limited 智匯通香港有限公司 8-Feb-27
 4348 236/2026 Aplus Solutions Limited 29-Dec-26
+6401 1250/2026 Ark Finance Limited 方舟財務有限公司 6-Oct-27
 6359 576/2026 Arrano Capital Limited 安聯資本有限公司 16-Feb-27
-6308 1977/2025 ARTA Finance Limited 裕承財務有限公司 25-Oct-26
+6308 1977/2025 ARTA Finance Limited 裕承財務有限公司 25-Oct-26 R
 6718 650/2026 Ascari Finance Limited 11-Jun-27
 6712 499/2026 Ascend Finance Company Limited 啟盛財務有限公司 14-May-27
 5502 1471/2025 Ascento Vision Limited 8-Aug-26 R
 3717 655/2026 Asean Finance Company Limited 東亞財務有限公司 11-Mar-27
-4603 1562/2025 Asia Credit Company Limited 亞洲信貸有限公司 26-Sep-26 R
-30.9.2026 頁碼 Page No. : 3 總頁數 Total Pages : 59
+4603 1339/2026 Asia Credit Company Limited 亞洲信貸有限公司 26-Sep-27
+4112 730/2026 Asia Develop Limited 亞洲拓展有限公司 4-Jun-27
+31.10.2026 頁碼 Page No. : 3 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-4112 730/2026 Asia Develop Limited 亞洲拓展有限公司 4-Jun-27
 3706 603/2026 Asia Finance Hong Kong Company Limited 亞洲財務香港有限公司 25-Feb-27
-4518 1192/2026 Asia One Credit Limited 亞洲第一信貸有限公司 7-Jul-27
+4518 1195/2026 Asia One Credit Limited 亞洲第一信貸有限公司 7-Jul-27
 2610 1011/2026 Asia Orient Management Services Limited 滙漢管理服務有限公司 13-Jun-27
 2520 1417/2025 Asia Pacific Finance & Fund Management Co 亞太基金財務有限公司 27-Sep-26 R
 Limited
@@ -140,15 +139,16 @@ Limited
 6452 182/2026 Ask Bing (HK) Co., Limited 有求必應(香港)有限公司 11-Jan-27
 6566 597/2026 ASM Finance Limited 20-Mar-27
 3841 1086/2026 Asset Mortgage Limited 資產按揭有限公司 12-Aug-27
+6752 1395/2026 Astok Fintech Group Limited 27-Oct-27
 3304 394/2026 Aton Mortgage Limited 滙信按揭有限公司 7-Feb-27
 5948 1000/2026 Auspicious Credit Limited 吉祥信貸有限公司 13-Apr-27
 5949 760/2026 Auspicious Finance Limited 吉祥融資有限公司 13-Apr-27
-3862 1940/2025 Auto Italia (Finance) Limited 14-Oct-26
+3862 1940/2025 Auto Italia (Finance) Limited 14-Oct-26 R
 4677 687/2026 Avic Capital International Holding Co., 中航資本國際控股有限公司 18-Jun-27
 Limited
 4168 1467/2025 AXHT Company Limited 安泰亞洲有限公司 4-Aug-26 R
 4502 1141/2026 Azazel Credit Limited 愛信信貸有限公司 21-Jun-27
-5642 1590/2025 Azure Sea Global Limited 蔚洋環球有限公司 7-Oct-26
+5642 1590/2025 Azure Sea Global Limited 蔚洋環球有限公司 7-Oct-26 R
 4692 549/2026 Baili Finance (Asia) Company Limited 百利財務(亞洲)有限公司 2-Feb-27
 6314 964/2026 Balance Developments (Hong Kong) Limited 平衡發展(香港)有限公司 24-Apr-27
 6315 985/2026 Banqi Financial Technology Limited 斑奇金融科技有限公司 24-Apr-27
@@ -156,12 +156,12 @@ Limited
 3535 1045/2026 Barnsley Finance Limited 班士利財務有限公司 16-May-27
 4769 720/2026 BAS Asia Limited 佰思亞洲有限公司 25-May-27
 3193 543/2026 BB Credit Limited 必備信貸有限公司 23-Mar-27
-4508 1314/2025 BBPS Capital Limited 鴻橋資本有限公司 28-Jun-26 R
+4508 1291/2026 BBPS Capital Limited 鴻橋資本有限公司 28-Jun-27
 6593 862/2026 Be One (Asia) Limited 創一(亞洲)有限公司 17-Jun-27
 5819 73/2026 Be Smart Finance Limited 5-Nov-26
 6738 1115/2026 Beauty Advance Limited 美宏有限公司 8-Sep-27
 1437 844/2026 Bectic Finance Company Limited 伯特財務有限公司 16-Jun-27
-30.9.2026 頁碼 Page No. : 4 總頁數 Total Pages : 59
+31.10.2026 頁碼 Page No. : 4 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
@@ -169,38 +169,38 @@ MLR No. English Name Chinese Name Remarks
 Licence No. Date
 6551 494/2026 Bee Rich Finance Limited 奔富財務有限公司 28-Jan-27
 1949 1391/2025 Beijing China Finance Co Limited 北京中國財務有限公司 16-Sep-26 R
-4329 154/2026 BES Group Limited 昌誠集團有限公司 29-Dec-26
+4329 154/2026 BES Group Limited 昌誠集團有限公司 29-Dec-26 R
 4439 420/2026 Best Ace Technology Limited 捷美科技發展有限公司 24-Mar-27
 6243 1186/2026 Best Choice Financial Limited 31-May-27
 4408 272/2026 Best Gold Corporation Limited 金瑞興業有限公司 25-Feb-27
-1305 1983/2025 Best Plan Development Limited 滙業發展有限公司 4-Dec-26
+1305 1983/2025 Best Plan Development Limited 滙業發展有限公司 4-Dec-26 R
 4982 625/2026 Best Practice Limited 僑領有限公司 8-Feb-27
-6082 1645/2025 Bestfine Capital Limited 百富金融有限公司 17-Aug-26 R
+6082 1390/2026 Bestfine Capital Limited 百富金融有限公司 17-Aug-27
 2336 693/2026 Bestlite Industrial Limited 佰輝實業有限公司 5-May-27
 5255 481/2026 Beverley Fintech HK Company Limited 比華利金融科技香港有限公司 17-Jan-27
-6450 254/2026 BEX Capital Limited 貝司資本有限公司 28-Dec-26
+6450 254/2026 BEX Capital Limited 貝司資本有限公司 28-Dec-26 R
 2633 522/2026 BH Capitalink Development Limited 薈聯發展有限公司 17-Apr-27
 5959 982/2026 Big Big Money Fintech Limited 東京金融科技有限公司 27-Apr-27
 4009 607/2026 Big Fung Credit Limited 大豐信貸有限公司 26-Feb-27
 3314 750/2026 Big Time Corporation Limited 鉅時有限公司 20-Mar-27
-6422 1482/2025 Big Vision Capital Limited 大目資本有限公司 7-Sep-26 R
+6422 1248/2026 Big Vision Capital Limited 大目資本有限公司 7-Sep-27
 6677 466/2026 Bigger East Limited 7-May-27
 5183 1782/2025 Billion Business Referrals Company Limited 11-Sep-26 R
 5299 509/2026 Billion Express Finance Limited 億滙財務有限公司 12-Feb-27
 5752 1613/2025 Billion Finance and Credit Limited 千億財務授信有限公司 8-Sep-26 R
 6349 349/2026 Billion On Capital Limited 億安資本有限公司 17-Jan-27
 3060 918/2026 Billion Step Investments Limited 億進投資有限公司 14-Apr-27
-5708 177/2026 Billionaire Finance Limited 澺豪財務有限公司 12-Dec-26
+5708 177/2026 Billionaire Finance Limited 澺豪財務有限公司 12-Dec-26 R
 6583 1109/2026 Billions Finance Limited 仟億財務有限公司 15-May-27
-6047 1478/2025 Bingo Capital Limited 比高金融有限公司 3-Aug-26 R
+6047 1325/2026 Bingo Capital Limited 比高金融有限公司 3-Aug-27
 6736 1114/2026 Birch Credit Limited 樺麟信貸有限公司 8-Sep-27
 6268 1104/2026 Bitlend Limited 26-Jul-27
 6585 967/2026 Bitown Limited 12-Jun-27
 6455 425/2026 Bizhub Finance Limited 必合財務有限公司 18-Jan-27
-6660 1815/2025 BKJ Group Limited 30-Dec-26
+6660 1815/2025 BKJ Group Limited 30-Dec-26 R
 4133 1442/2025 Black Sheep Capital Limited 黑羊資本有限公司 28-Jul-26 R
-4095 1131/2025 BlackMarble Capital Limited 4-Sep-26 R
-30.9.2026 頁碼 Page No. : 5 總頁數 Total Pages : 59
+4095 1358/2026 BlackMarble Capital Limited 4-Sep-27
+31.10.2026 頁碼 Page No. : 5 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
@@ -214,62 +214,61 @@ Licence No. Date
 6595 1231/2026 BNC Finance Co., Limited 17-Jun-27
 5282 423/2026 BNext (Hong Kong) Company Limited 15-Jan-27
 6292 1765/2025 Bolt App Limited 11-Oct-26 R
-5488 1449/2025 Bona Fide Capital Financing Limited 真誠財資有限公司 30-Jul-26 R
+5488 1245/2026 Bona Fide Capital Financing Limited 真誠財資有限公司 30-Jul-27
 3422 338/2026 Bongyan Finance Limited 邦仁財務有限公司 22-Jan-27
 3021 1659/2025 Bonnie Finance Company Limited 邦理財務有限公司 4-Sep-26 R
 6451 445/2026 Boyue Credit Limited 博悅信貸有限公司 8-Feb-27
-4256 152/2026 BP Finance (HK) Limited 寶橋財務貸款有限公司 3-Nov-26
+4256 152/2026 BP Finance (HK) Limited 寶橋財務貸款有限公司 3-Nov-26 R
 1142 370/2026 BPCE Equipment Solutions Hong Kong 9-Jan-27
 Limited
 6377 881/2026 Bri Global Financial Services Company 4-May-27
 Limited
 6423 1791/2025 Bridge Credit Limited 僑泰信貸有限公司 12-Sep-26 R
-5128 1126/2026 Bright Finance Limited 安逸金融有限公司 5-Jul-27
-3278 1989/2025 Bright Future Finance Limited 昌泰財務有限公司 6-Dec-26
-3458 1990/2025 Bright Future Global Capital Limited 昌泰環球金融有限公司 20-Nov-26
-3402 1322/2025 Bright Harvest Holdings Limited 曜鋒控股有限公司 14-Oct-26
+5128 1200/2026 Bright Finance Limited 安逸金融有限公司 5-Jul-27
+3278 1989/2025 Bright Future Finance Limited 昌泰財務有限公司 6-Dec-26 R
+3458 1990/2025 Bright Future Global Capital Limited 昌泰環球金融有限公司 20-Nov-26 R
 6695 468/2026 Bright Sun Finance Limited 輝信信貸有限公司 7-May-27
 6525 124/2026 Brighten Home Loans Limited 鉑騰房貸有限公司 12-Nov-26 R
 6705 448/2026 Brightpine Finance Limited 明松財務有限公司 5-May-27
-3292 131/2026 BSG Finance Limited 寶誠財務有限公司 28-Oct-26
+3292 131/2026 BSG Finance Limited 寶誠財務有限公司 28-Oct-26 R
 5878 688/2026 Buddy Capital (Hong Kong) Limited 友和資本(香港)有限公司 18-Jun-27
-4305 134/2026 Buddy Finance Limited 26-Nov-26
-4927 1755/2025 Building Loan (Hong Kong) Limited 建屋貸款(香港)有限公司 28-Nov-26
+4305 134/2026 Buddy Finance Limited 26-Nov-26 R
+4927 1755/2025 Building Loan (Hong Kong) Limited 建屋貸款(香港)有限公司 28-Nov-26 R
 1741 1062/2026 Business Finance Limited 東隆物業按揭有限公司 18-May-27
 5858 252/2026 Buzz International Limited 巴斯國際有限公司 15-Dec-26
-2583 1370/2025 C C Land Finance Limited 中渝置地財務有限公司 3-Aug-26 R
+2583 1232/2026 C C Land Finance Limited 中渝置地財務有限公司 3-Aug-27
 5872 158/2026 C K Leasing Limited 知機財務有限公司 12-Jan-27
 6392 1020/2026 C.F Mortgage Limited 卓豐按揭有限公司 11-May-27
 3951 281/2026 C.I.F. Financial Limited 中新金財務有限公司 18-Dec-26
-30.9.2026 頁碼 Page No. : 6 總頁數 Total Pages : 59
+6120 1367/2026 California Credit Limited 加洲信貸有限公司 14-Sep-27
+31.10.2026 頁碼 Page No. : 6 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-6120 1808/2025 California Credit Limited 加洲信貸有限公司 14-Sep-26 R
 174 1651/2025 California Insurance Company, Limited 加洲保險有限公司 15-Sep-26 R
 4960 379/2026 Camden Finance Limited 鏗達信貸有限公司 9-Jan-27
 3083 1627/2025 Capital Choice Limited 豪財有限公司 25-Aug-26 R
 6279 221/2026 Capital Credit Limited 國盛資本信貸有限公司 3-Dec-26 R
 3122 471/2026 Capital Dragon Credit Finance Limited 滙龍按揭信貸有限公司 21-Jan-27
 5590 1038/2026 CapitalLink Credit Limited 資本信貸有限公司 25-Aug-27
-3447 1918/2025 Carefree Finance Company Limited 貸輕鬆有限公司 13-Nov-26
+3447 1918/2025 Carefree Finance Company Limited 貸輕鬆有限公司 13-Nov-26 R
 5659 959/2026 Caribbean Credit Limited 加勒比信貸有限公司 7-May-27
-3145 733/2026 Carina Finance Limited 家碧財務有限公司 20-Jul-26 R
-4648 1922/2025 Carlton Finance Limited 瑞生信貸有限公司 15-Dec-26
+3145 1398/2026 Carina Finance Limited 家碧財務有限公司 20-Jul-27
+4648 1922/2025 Carlton Finance Limited 瑞生信貸有限公司 15-Dec-26 R
 5964 878/2026 Cash Back Limited 27-Apr-27
-5531 1708/2025 Cash Buzzer Limited 丞裕有限公司 26-Sep-26 R
+5531 1403/2026 Cash Buzzer Limited 丞裕有限公司 26-Sep-27
 3109 244/2026 Cash Credit Services Limited 御富信貸有限公司 10-Dec-26 R
-5262 196/2026 Cash Dollar Limited 富金亞洲有限公司 13-Dec-26
+5262 196/2026 Cash Dollar Limited 富金亞洲有限公司 13-Dec-26 R
 6692 262/2026 Cash Flow Finance Limited 貸應錢信貸有限公司 26-Mar-27
 5164 1298/2025 Cash Lane Credit Limited 萬進信貸有限公司 14-Aug-26 R
-1998 1235/2025 Cash Link Finance Company Limited 達通財務有限公司 17-Jul-26 R
-5105 1244/2025 Cash Square Limited 錢坊有限公司 15-Aug-26 R
-6058 1573/2025 Cash Station Limited 滙鑄信貸有限公司 5-Aug-26 R
+1998 1279/2026 Cash Link Finance Company Limited 達通財務有限公司 17-Jul-27
+5105 1335/2026 Cash Square Limited 錢坊有限公司 15-Aug-27
+6058 1271/2026 Cash Station Limited 滙鑄信貸有限公司 5-Aug-27
 4070 609/2026 Cashcow Finance (HK) Limited 中投信貸(香港)有限公司 30-Apr-27
 2483 917/2026 Cashflow Credit Limited 加富信貸有限公司 11-May-27
-3521 1312/2025 Cashing Pro Limited 15-Aug-26 R
+3521 1285/2026 Cashing Pro Limited 15-Aug-27
 3954 302/2026 Cater Finance Company Limited 加泰財務有限公司 23-Dec-26
 3259 792/2026 CBG Finance Limited 朗華國際財務有限公司 4-Apr-27
 2733 411/2026 CC Credits Limited 思齊資本信貸有限公司 13-Feb-27
@@ -277,41 +276,41 @@ Licence No. Date
 3557 991/2026 CCIG Credit Limited 城投中國理財有限公司 25-Jun-27
 4393 340/2026 CCIG Financial Services Limited 城投中國金融服務有限公司 28-Jan-27
 5086 1049/2026 CCT Land Finance Limited 中建置地財務有限公司 24-May-27
-6087 1319/2025 CECO Capital Finance Limited 思高資本信貸有限公司 25-Aug-26 R
+6087 1297/2026 CECO Capital Finance Limited 思高資本信貸有限公司 25-Aug-27
 4076 1047/2026 Celebrity Credit Limited 名人信貸有限公司 7-May-27
 5527 1732/2025 Celerity Capital Limited 5-Sep-26 R
-30.9.2026 頁碼 Page No. : 7 總頁數 Total Pages : 59
+1073 712/2026 Celestial Finance Limited 時富財務有限公司 17-Mar-27
+31.10.2026 頁碼 Page No. : 7 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-1073 712/2026 Celestial Finance Limited 時富財務有限公司 17-Mar-27
 2817 205/2026 Centaline Finance Limited 中原財務有限公司 28-Dec-26
 4178 1177/2026 Central International Credit Limited 中滙國際信貸有限公司 11-Aug-27
-5479 1381/2025 Central Link Credit Limited 中正財號信貸有限公司 11-Jul-26 R
+5479 1321/2026 Central Link Credit Limited 中正財號信貸有限公司 11-Jul-27
 3848 1222/2026 Central Link Wealth Management (HK) 香港中鑫財富管理有限公司 28-Aug-27
 Limited
 2575 884/2026 Century Legend Finance Limited 世紀建業融資有限公司 15-Jun-27
 6571 495/2026 CF Capital Group Limited 創旗資本有限公司 3-Apr-27
 6626 1308/2025 CF Credit Limited 晉峰信貸有限公司 9-Oct-26 R
-3646 132/2026 CGNPC Huasheng Investment Limited 中廣核華盛投資有限公司 7-Nov-26
+3646 132/2026 CGNPC Huasheng Investment Limited 中廣核華盛投資有限公司 7-Nov-26 R
 4239 1850/2025 Chak Hoi Finance Limited 澤海信貸有限公司 15-Oct-26 R
 5024 1609/2025 Champion Industrial International Co Limited 大才實業國際有限公司 21-Aug-26 R
-5142 1199/2026 Champoint Limited 冠君策略有限公司 31-Jul-27
+5142 1201/2026 Champoint Limited 冠君策略有限公司 31-Jul-27
 6374 464/2026 Chance Wise Holdings Limited 機穎控股有限公司 4-Apr-27
 6717 631/2026 Chancewell Credit Limited 銓匯信貸有限公司 9-Jun-27
 6678 20/2026 Chang Mei Capital Holding Limited 長美資本控股有限公司 3-Feb-27
-6311 1978/2025 Changenow Finance Limited 18-Oct-26
-4620 1994/2025 Chap Yik Limited 集易有限公司 8-Nov-26
-6651 1624/2025 Charm Focus Limited 曉勢有限公司 27-Nov-26
+6311 1978/2025 Changenow Finance Limited 18-Oct-26 R
+4620 1994/2025 Chap Yik Limited 集易有限公司 8-Nov-26 R
+6651 1624/2025 Charm Focus Limited 曉勢有限公司 27-Nov-26 R
 5904 510/2026 Chartered Financial Capital Limited 中達財務有限公司 4-Feb-27
 4747 624/2026 Cheer Success Holdings Limited 志隆集團有限公司 13-Apr-27
 2991 542/2026 Chengxin Finance Limited 誠信財務有限公司 12-Feb-27
 4252 1682/2025 Cheuk Fai International Group Limited 卓輝國際集團有限公司 3-Nov-26 R
-6415 1811/2025 Cheuk Fung Finance Limited 焯豐財務有限公司 3-Dec-26
+6415 1811/2025 Cheuk Fung Finance Limited 焯豐財務有限公司 3-Dec-26 R
 3485 1490/2025 Chief International Finance Limited 致富國際財務有限公司 11-Aug-26 R
-3261 1961/2025 China Alliance Financial Group Limited 中國聯合金融集團有限公司 18-Oct-26
+3261 1961/2025 China Alliance Financial Group Limited 中國聯合金融集團有限公司 18-Oct-26 R
 4509 113/2026 China Asset Credit Limited 中財信貸有限公司 19-Nov-26
 3788 1085/2026 China Best Finance Limited 國華財務有限公司 10-Jun-27
 2271 450/2026 China Busy International Limited 華勤國際有限公司 23-Mar-27
@@ -319,16 +318,16 @@ Limited
 1443 164/2026 China Central Finance Limited 中國中心財務有限公司 25-Nov-26
 3400 1749/2025 China Cinda (HK) Asset Management Co., 中國信達(香港)資產管理有限公司 11-Sep-26 R
 Limited
-3643 149/2026 China CITIC Financial AMC International 中國中信金融資產國際控股有限公司 12-Nov-26
+3643 149/2026 China CITIC Financial AMC International 中國中信金融資產國際控股有限公司 12-Nov-26 R
 Holdings Limited
 5109 27/2026 China Enterprise Finance Company Limited 華業金控財務有限公司 5-Oct-26 R
-30.9.2026 頁碼 Page No. : 8 總頁數 Total Pages : 59
+1290 108/2026 China Everbright Finance Limited 中國光大財務有限公司 19-Jan-27
+31.10.2026 頁碼 Page No. : 8 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-1290 108/2026 China Everbright Finance Limited 中國光大財務有限公司 19-Jan-27
 3116 321/2026 China Finance (Worldwide) Limited 中國財務(國際)有限公司 29-Dec-26
 5758 1711/2025 China Golden Holdings Limited 中光集團有限公司 8-Sep-26 R
 2176 883/2026 China Hong Kong Capital Finance Limited 中港金融財務有限公司 17-Jun-27
@@ -337,20 +336,20 @@ Company Limited
 887 1484/2025 China Insurance Group Finance Company 中國保險集團財務有限公司 10-Sep-26 R
 Limited
 5268 173/2026 China Links Credit Limited 華聯信貸有限公司 18-Dec-26
-1983 144/2026 China Merchants International Finance 招商局國際財務有限公司 30-Oct-26
+1983 144/2026 China Merchants International Finance 招商局國際財務有限公司 30-Oct-26 R
 Company Limited
 1739 368/2026 China Merchants Properties Development 招商局置業有限公司 21-Apr-27
 Limited
 3489 487/2026 China Orient Asset Management 中國東方資產管理(國際)控股有限公 22-Jan-27
 (International) Holding Limited 司
-6256 1208/2026 China Perseverance Credit Limited 中毅信貸有限公司 21-Jun-27
+6256 1207/2026 China Perseverance Credit Limited 中毅信貸有限公司 21-Jun-27
 3868 1848/2025 China Prestige Capital (Holding) Limited 中國駿匯資本控股有限公司 18-Sep-26 R
-5150 1207/2026 China Prosperity (Hong Kong) Limited 中民集團有限公司 19-Jul-27
+5150 1202/2026 China Prosperity (Hong Kong) Limited 中民集團有限公司 19-Jul-27
 3046 372/2026 China Rise Finance Co., Limited 華晉財務有限公司 5-Feb-27
 5177 1636/2025 China Sky Credit Limited 中天信貸有限公司 23-Aug-26 R
 4735 611/2026 China Sky Development (Hong Kong) Limited 華天發展(香港)有限公司 23-Mar-27
 5595 999/2026 China Southern Limited 南中有限公司 14-May-27
-2945 1159/2025 China Sun Finance Company Limited 中森財務有限公司 26-Jul-26 R
+2945 1233/2026 China Sun Finance Company Limited 中森財務有限公司 26-Jul-27
 3533 827/2026 China System Finance Limited 華信財務有限公司 16-May-27
 5781 385/2026 China United Merchants Finance Company 新華國通財務有限公司 21-Jan-27
 Limited
@@ -360,23 +359,22 @@ Limited
 2962 1658/2025 China Yinsheng Finance (Holding) Limited 中國銀盛金融信貸控股有限公司 11-Sep-26 R
 3592 1663/2025 China Yinsheng Finance Limited 中國銀盛財務有限公司 27-Aug-26 R
 4143 996/2026 Chinawide International Finance Limited 中匯國際財務有限公司 2-Jul-27
-3383 1512/2025 Chinese Financial Limited 華人金融信貸有限公司 31-Jul-26 R
-5208 1900/2025 Chinese Legends Wealth Management Limited 中創金融有限公司 11-Oct-26
-3593 1664/2025 Chit Shing Finance Limited 捷成財務有限公司 5-Sep-26 R
+3383 1376/2026 Chinese Financial Limited 華人金融信貸有限公司 31-Jul-27
+3593 1357/2026 Chit Shing Finance Limited 捷成財務有限公司 5-Sep-27
 2378 1043/2026 Chong Yip Finance Limited 創業財務有限公司 14-Jul-27
 6230 1435/2025 Chuang Ming Services Limited 創銘服務有限公司 30-Oct-26 R
-1090 1275/2025 Chuang's Credit Limited 莊士金融有限公司 29-Jul-26 R
+1090 1350/2026 Chuang's Credit Limited 莊士金融有限公司 29-Jul-27
 5799 1503/2025 Chuen Hing Investment Holdings Company 全興投資控股有限公司 20-Oct-26 R
 Limited
 4719 732/2026 Chuen Shing (Hong Kong) Holdings Limited 全盛(香港)控股有限公司 14-Mar-27
-30.9.2026 頁碼 Page No. : 9 總頁數 Total Pages : 59
+2820 1676/2025 Chun Fung Finance Company Limited 駿豐財務有限公司 4-Sep-26 R
+5346 797/2026 Chun Hong Capital Investment Limited 晉航創富財務有限公司 26-Mar-27
+31.10.2026 頁碼 Page No. : 9 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-2820 1676/2025 Chun Fung Finance Company Limited 駿豐財務有限公司 4-Sep-26 R
-5346 797/2026 Chun Hong Capital Investment Limited 晉航創富財務有限公司 26-Mar-27
 4038 795/2026 Chun King Credit and Finance Company 駿景信貸有限公司 26-Mar-27
 Limited
 4615 1753/2025 Chun Link Hong Kong Limited 駿嶺香港有限公司 3-Nov-26 R
@@ -385,7 +383,6 @@ Limited
 6260 1189/2026 Chun On Finance Limited 浚安投資有限公司 28-Jun-27
 5762 1340/2025 Chun Shing Finance Limited 進誠財務有限公司 8-Sep-26 R
 4340 283/2026 Chun Wan Finance Company Limited 駿環財務有限公司 31-Dec-26
-391 1884/2025 Chung Kiu Finance Company 中僑財務公司 4-Oct-26
 6481 780/2026 Chung Yick Tung Finance Technology 中易通金融科技有限公司 18-Apr-27
 Limited
 4658 360/2026 CIS Finance Limited 順安貸款有限公司 29-Dec-26
@@ -398,7 +395,7 @@ Limited
 5584 141/2026 City Credit Finance Limited 26-Nov-26
 4243 1097/2026 City Global Finance Limited 斯特環球金融有限公司 23-Jun-27
 5431 817/2026 City Hong Kong Limited 16-May-27
-2126 1558/2025 City Motor Finance Limited 城市汽車財務有限公司 13-Aug-26 R
+2126 1328/2026 City Motor Finance Limited 城市汽車財務有限公司 13-Aug-27
 3288 279/2026 CLC Finance Limited 昌利財務有限公司 12-Jan-27
 4754 733/2026 CLK Development Company Limited 進利佳發展有限公司 6-Apr-27
 4101 1123/2026 CMB International Finance Limited 招銀國際財務有限公司 21-May-27
@@ -408,57 +405,57 @@ Limited
 6226 819/2026 Coins Hit Credit Limited 晉銀信貸有限公司 17-May-27
 3257 1960/2025 Colbert Finance Limited 高佰金融有限公司 18-Oct-26 R
 6122 1506/2025 Collectius Limited 23-Sep-26 R
-4856 1469/2025 Com Po Financial Holdings Limited 金寶金融控股有限公司 12-Sep-26 R
+4856 1334/2026 Com Po Financial Holdings Limited 金寶金融控股有限公司 12-Sep-27
 6731 934/2026 Come Finance Limited 多多來財務有限公司 4-Aug-27
-30.9.2026 頁碼 Page No. : 10 總頁數 Total Pages : 59
+4943 116/2026 Concentric Global Limited 同心環球有限公司 14-Dec-26
+5473 1384/2026 Constant Credit Limited 銀信財務有限公司 4-Jul-27
+4830 1239/2026 Convenience Finance Company Limited 珺薈融資有限公司 15-Aug-27
+31.10.2026 頁碼 Page No. : 10 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-4943 116/2026 Concentric Global Limited 同心環球有限公司 14-Dec-26
-5473 1361/2025 Constant Credit Limited 銀信財務有限公司 4-Jul-26 R
-4830 1203/2025 Convenience Finance Company Limited 珺薈融資有限公司 15-Aug-26 R
 2766 1820/2025 Convoy Collateral Limited 康宏財務有限公司 13-Nov-26
 3758 605/2026 Conway Finance Limited 匡宏信貸有限公司 24-Apr-27
 6403 744/2026 Cooley Credit Limited 13-Jun-27
 3080 1584/2025 Cordoba Homes Finance Limited 13-Aug-26 R
 2089 502/2026 Core Asia Limited 廣利佳有限公司 5-Feb-27
 2884 715/2026 Core Pacific-Yamaichi Finance Limited 京華山一財務有限公司 12-Apr-27
-5106 1165/2025 Corn Rich Finance Limited 康德財務有限公司 14-Jun-26 R
-4208 151/2026 Cornell Finance Limited 恒康財務有限公司 3-Dec-26
+5106 1241/2026 Corn Rich Finance Limited 康德財務有限公司 14-Jun-27
+4208 151/2026 Cornell Finance Limited 恒康財務有限公司 3-Dec-26 R
 3917 1634/2025 Cornerstone Financial Leasing Hong Kong 基石融資租賃香港有限公司 25-Aug-26 R
 Company Limited
-2840 0970/2025 Cosmos Tech Limited 利信達有限公司 21-Jun-26 R
+2840 1281/2026 Cosmos Tech Limited 利信達有限公司 21-Jun-27
 3249 673/2026 Create Profit Enterprises Limited 盈創企業有限公司 5-Mar-27
-5797 1973/2025 Credit 2 Financial Limited 貸2信貸有限公司 20-Oct-26
+5797 1973/2025 Credit 2 Financial Limited 貸2信貸有限公司 20-Oct-26 R
 6085 1364/2025 Credit Alliance Finance Limited 17-Aug-26 R
 6224 963/2026 Credit Asset Company Limited 信譽資產有限公司 19-May-27
 5615 176/2026 Credit Dynasty Limited 信貸王朝有限公司 14-Jan-27
-5808 1974/2025 Credit Eleven Limited 信貸便利店有限公司 20-Oct-26
-5816 1949/2025 Credit Express Limited 路路通信貸有限公司 5-Nov-26
+5808 1974/2025 Credit Eleven Limited 信貸便利店有限公司 20-Oct-26 R
+5816 1949/2025 Credit Express Limited 路路通信貸有限公司 5-Nov-26 R
 2751 866/2026 Credit Finance Investments Company Limited 信用財務投資有限公司 11-Jun-27
 2928 2/2026 Credit Gain Finance Company Limited 領達財務有限公司 14-Nov-26
 4337 1752/2025 Credit Hong Kong Holdings Limited 智本信貸有限公司 17-Sep-26 R
 6319 1950/2025 Credit Ko Company Limited 瀚浩控股有限公司 8-Nov-26
 4568 1377/2025 Credit Mall Limited 信貸廣場有限公司 30-Aug-26 R
 5806 1931/2025 Credit Mate Limited 正浩信貸有限公司 20-Oct-26 R
-3389 1440/2025 Credit One Finance Limited 保信財務有限公司 7-Aug-26 R
+3389 1345/2026 Credit One Finance Limited 保信財務有限公司 7-Aug-27
 5229 156/2026 Credit One Fintech Limited 保信金融科技有限公司 15-Nov-26
-4523 1444/2025 Credit One Group Limited 保信信貸有限公司 14-Jul-26 R
+4523 1346/2026 Credit One Group Limited 保信信貸有限公司 14-Jul-27
 6418 1674/2025 Credit Pro Finance Limited 29-Aug-26 R
 5754 1475/2025 Credit Pro Limited 信貸達人有限公司 8-Sep-26 R
 6330 1809/2025 Credit Rise Capital Limited 逸升資本有限公司 17-Nov-26 R
-5163 1335/2025 Credit Station Limited 信貸站有限公司 21-Aug-26 R
-30.9.2026 頁碼 Page No. : 11 總頁數 Total Pages : 59
+5163 1319/2026 Credit Station Limited 信貸站有限公司 21-Aug-27
+6307 1410/2026 Credit Three Six Six Limited 信貸366有限公司 29-Sep-27
+6078 1597/2025 Credit Trustful Limited 卓豐信貸有限公司 12-Oct-26 R
+5751 1203/2026 Creditpal Limited 7-May-27
+31.10.2026 頁碼 Page No. : 11 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-6307 1414/2025 Credit Three Six Six Limited 信貸366有限公司 29-Sep-26 R
-6078 1597/2025 Credit Trustful Limited 卓豐信貸有限公司 12-Oct-26 R
-5751 1202/2026 Creditpal Limited 7-May-27
 3751 772/2026 Crown Credit Finance Limited 皇冠信貸財務有限公司 24-Apr-27
 4629 114/2026 CRRC Hongkong Capital Management Co., 中國中車香港資本管理有限公司 22-Nov-26
 Limited
@@ -466,9 +463,8 @@ Limited
 3793 938/2026 CSC Futures (HK) Limited 群益期貨(香港)有限公司 10-Jun-27
 6011 1133/2026 CT Lender (Hong Kong) Limited 17-Jun-27
 4970 456/2026 CTI Capital Finance Limited 23-Jan-27
-5547 1502/2025 Cullinan (Asia) Limited 天璽(亞洲)有限公司 8-Oct-26
+6744 1300/2026 Cullinan Sky Hong Kong Limited 天璽香港有限公司 27-Oct-27
 2704 1745/2025 Culture Finance Limited 文化財務有限公司 26-Sep-26 R
-2602 1509/2025 Currency Fortune Property & Finance Limited 銀富物業按揭有限公司 5-Oct-26
 5246 157/2026 Currenxie Limited 11-Dec-26
 6492 1056/2026 Cuttle Card Limited 幸運來信貸有限公司 23-May-27
 2900 1118/2026 CW Financing Limited 30-May-27
@@ -480,50 +476,50 @@ Limited
 6508 1037/2025 Danu Finance Limited 19-Aug-26 R
 4221 1824/2025 Davisons Capital Limited 戴維信資本有限公司 22-Sep-26 R
 3467 1121/2026 DBL Financial Limited 孖寶財務有限公司 15-Jun-27
-6280 1526/2025 DCS Fintech (Hong Kong) Limited 18-Aug-26 R
+6280 1273/2026 DCS Fintech (Hong Kong) Limited 18-Aug-27
 5153 1499/2025 Deep Billion Limited 兆深有限公司 9-Aug-26 R
-4260 6/2026 Delight Sky Finance Limited 喜天財務有限公司 3-Nov-26
+4260 6/2026 Delight Sky Finance Limited 喜天財務有限公司 3-Nov-26 R
 5125 1224/2026 Delightful Aesthetics Investment Limited 愉悅醫美投資有限公司 5-Jul-27
 3339 793/2026 Delta Asia Capital Limited 滙業財富有限公司 8-May-27
-5218 138/2026 Delta Capital Finance Limited 德滙興業財務有限公司 1-Nov-26
+5218 138/2026 Delta Capital Finance Limited 德滙興業財務有限公司 1-Nov-26 R
 6703 447/2026 Delta Credit Limited 騰達信貸有限公司 5-May-27
 2971 1701/2025 Delta Wealth Finance Limited 融富財務有限公司 27-Sep-26 R
 1514 226/2026 Denker Investment Limited 駿佳投資有限公司 9-Feb-27
 6714 520/2026 Destiny Finance Limited 千遇財務有限公司 19-May-27
-30.9.2026 頁碼 Page No. : 12 總頁數 Total Pages : 59
+3354 1044/2026 DeTai Finance Limited 德泰財務有限公司 22-May-27
+4146 1289/2026 DFL-Shutoken Leasing (Hong Kong) 9-Jul-27
+Company Limited
+2478 1063/2026 Diamond Dragon Finance Company 鑽龍財務公司 12-May-27
+4520 1921/2025 Dian Holding Limited 鈿資本有限公司 8-Oct-26 R
+31.10.2026 頁碼 Page No. : 12 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-3354 1044/2026 DeTai Finance Limited 德泰財務有限公司 22-May-27
-4146 1376/2025 DFL-Shutoken Leasing (Hong Kong) 9-Jul-26 R
-Company Limited
-2478 1063/2026 Diamond Dragon Finance Company 鑽龍財務公司 12-May-27
-4520 1921/2025 Dian Holding Limited 鈿資本有限公司 8-Oct-26 R
 5423 307/2026 Dickson Holdings Limited 廸生控股有限公司 22-Dec-26
 5495 118/2026 Digital Technology Finance Limited 數碼科技財務有限公司 12-Dec-26
 3946 324/2026 Dingyi Financial Services Investment Limited 鼎億金融服務投資有限公司 18-Dec-26
 5876 296/2026 Divit Limited 2-Apr-27
-4360 195/2026 DLO International Credit Limited 12-Jan-27
+4360 195/2026 DLO International Credit Limited 12-Jan-27 R
 5242 1945/2025 Dollar Lead Assets Limited 達利資產有限公司 15-Nov-26
 6617 1151/2025 Doo Money Lender Limited 9-Sep-26 R
-5874 53/2026 Double Cash Finance Limited 萬貫財務有限公司 7-Jan-27
+5874 53/2026 Double Cash Finance Limited 萬貫財務有限公司 7-Jan-27 R
 4666 213/2026 Double Treasure International Limited 二寶國際有限公司 22-Dec-26
 4135 870/2026 Dragon Credits Limited 中譽信貸有限公司 5-May-27
 6183 253/2026 Dragon King Group Limited 龍皇集團有限公司 8-Feb-27
-5221 29/2026 Dragon Rise Finance Limited 龍豐財務有限公司 30-Oct-26
+5221 29/2026 Dragon Rise Finance Limited 龍豐財務有限公司 30-Oct-26 R
 5519 1783/2025 DT Financial Limited 大田財務有限公司 19-Nov-26 R
 6540 332/2026 DTCPay Credit Limited 24-Dec-26 R
 5271 380/2026 Dun Man Secretarial And Management 敦文秘書及管理服務有限公司 3-Jan-27
 Services Limited
-5211 1926/2025 Dupont Finance Limited 杜邦財務有限公司 11-Oct-26
+5211 1926/2025 Dupont Finance Limited 杜邦財務有限公司 11-Oct-26 R
 6116 1693/2025 E & L Finance Company Limited 國金財富信貸有限公司 21-Sep-26 R
 5450 818/2026 E Capital Financial Limited 2資本財務有限公司 30-May-27
 4962 956/2026 E Capital Limited 億資本有限公司 3-May-27
-5853 143/2026 E Cash Fintech Limited 易金融科技有限公司 8-Dec-26
+5853 143/2026 E Cash Fintech Limited 易金融科技有限公司 8-Dec-26 R
 4850 1635/2025 E Cash Limited 現金易有限公司 7-Sep-26 R
-3322 1374/2025 E Finance Limited 易財務有限公司 17-Jul-26 R
+3322 1259/2026 E Finance Limited 易財務有限公司 17-Jul-27
 5578 199/2026 E King Money Limited 日景資本信貸有限公司 19-Nov-26
 5923 536/2026 E Loan Finance Company Limited 爾貸財務有限公司 2-Mar-27
 2447 79/2026 EAA Finance Limited 東美財務有限公司 12-Jan-27
@@ -531,17 +527,17 @@ Services Limited
 6147 292/2026 Ease and Wealth Limited 易盈富有限公司 23-Dec-26
 3003 1137/2026 Ease Benefit Investment Limited 逸益投資有限公司 22-May-27
 3792 1703/2025 Ease Choice Finance Limited 怡選財務有限公司 16-Sep-26 R
-30.9.2026 頁碼 Page No. : 13 總頁數 Total Pages : 59
-放債人牌照號碼 牌照屆滿日
-檔案號碼 英文名稱 中文名稱 備註 #
-Money Lender's Licence Expiry
-MLR No. English Name Chinese Name Remarks
-Licence No. Date
 5361 873/2026 Ease Treasure Finance Limited 騰寶財務有限公司 9-May-27
 5404 1146/2026 East Fortune Finance Limited 東源財務有限公司 4-Jun-27
 5977 1074/2026 East Wind Finance Limited 東風財務有限公司 18-May-27
 4489 975/2026 Eastern Evergain Investment & Trading Co., 東方能得利國貿有限公司 26-May-27
 Limited
+31.10.2026 頁碼 Page No. : 13 總頁數 Total Pages : 59
+放債人牌照號碼 牌照屆滿日
+檔案號碼 英文名稱 中文名稱 備註 #
+Money Lender's Licence Expiry
+MLR No. English Name Chinese Name Remarks
+Licence No. Date
 6425 1649/2025 Eastern United Enterprise Limited 東協創展有限公司 19-Sep-26 R
 5981 860/2026 Easton Financial Credit Co., Limited 盈通金融信貸有限公司 20-May-27
 3720 545/2026 Easy Access Finance Limited 意達財務有限公司 25-Feb-27
@@ -550,39 +546,39 @@ Limited
 6327 121/2026 Easy Capital Assets Mortgage Limited 置易按(香港)物業有限公司 10-Nov-26 R
 6329 1951/2025 Easy Capital Credit Limited 易資本信貸有限公司 10-Nov-26 R
 6286 1789/2025 Easy Capital Financial Limited 輕鬆轉財務有限公司 6-Sep-26 R
-3404 1463/2025 Easy Cash Company Limited 富通財務有限公司 16-Aug-26 R
+3404 1356/2026 Easy Cash Company Limited 富通財務有限公司 16-Aug-27
 4533 1142/2026 Easy Choice Credit Limited 易選擇有限公司 21-Jul-27
 6205 961/2026 Easy Credit Global Financial Limited 方便貸環球資本有限公司 10-May-27
-2972 1915/2025 Easy Credit Limited 8-Oct-26
+2972 1915/2025 Easy Credit Limited 8-Oct-26 R
 3787 993/2026 Easy Dollars Limited 理財易有限公司 27-May-27
-6095 1411/2025 Easy Facility Limited 易融貸有限公司 26-Aug-26 R
+6095 1407/2026 Easy Facility Limited 易融貸有限公司 26-Aug-27
 3217 989/2026 Easy Finance Limited 貸款易有限公司 17-May-27
 2649 1393/2025 Easy Fortune Property Limited 順富地產有限公司 25-Sep-26 R
 5717 1167/2026 Easy Funding (HK) Limited 快融易(香港)有限公司 2-Jul-27
 5027 643/2026 Easy Gold Credit Limited 易金來財務有限公司 6-Mar-27
 6720 787/2026 Easy Lend Credit Limited 7-Jul-27
 5369 645/2026 Easy Lend Credit Service Limited 貸易財務有限公司 26-Mar-27
-4193 1543/2025 Easy Lender Limited 信貸易有限公司 25-Aug-26 R
-5768 1383/2025 Easy Link Capital Limited 萬富資本(香港)有限公司 10-Sep-26 R
+4193 1266/2026 Easy Lender Limited 信貸易有限公司 25-Aug-27
+5768 1404/2026 Easy Link Capital Limited 萬富資本(香港)有限公司 10-Sep-27
 6272 1556/2025 Easy Loan Credit Company Limited 易泰信用財務有限公司 2-Aug-26 R
 3061 1120/2026 Easy Loans Limited 依時財務有限公司 6-Aug-27
-4672 136/2026 Easy Match Credit Limited 易維信貸有限公司 3-Jan-27
-5572 140/2026 Easy Money Capital Limited 31-Oct-26
+4672 136/2026 Easy Match Credit Limited 易維信貸有限公司 3-Jan-27 R
+5572 140/2026 Easy Money Capital Limited 31-Oct-26 R
 6086 1230/2026 Easy Money Credit Company Limited 進豐信貸有限公司 26-Aug-27
-5643 1875/2025 Easy Money Credit Services Limited 捷利財務有限公司 10-Oct-26
+5643 1875/2025 Easy Money Credit Services Limited 捷利財務有限公司 10-Oct-26 R
 5695 1072/2026 Easy Money Limited 易華為財務有限公司 2-Jun-27
-30.9.2026 頁碼 Page No. : 14 總頁數 Total Pages : 59
+3394 1260/2026 Easy Mortgage Limited 易按揭有限公司 7-Aug-27
+4396 529/2026 Easy One Finance Limited 易易壹財務有限公司 11-Feb-27
+4425 419/2026 Easy Pay Finance Limited 貸易還財務有限公司 25-Feb-27
+6356 513/2026 Easy Peasy Wealth Limited 易創富有限公司 9-Feb-27
+31.10.2026 頁碼 Page No. : 14 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-3394 1539/2025 Easy Mortgage Limited 易按揭有限公司 7-Aug-26 R
-4396 529/2026 Easy One Finance Limited 易易壹財務有限公司 11-Feb-27
-4425 419/2026 Easy Pay Finance Limited 貸易還財務有限公司 25-Feb-27
-6356 513/2026 Easy Peasy Wealth Limited 易創富有限公司 9-Feb-27
 2274 265/2026 Easy Policy Finance Limited 怡信財務有限公司 23-Dec-26
-4140 1262/2025 Easy Promise Limited 致富易有限公司 2-Jul-26 R
+4140 1331/2026 Easy Promise Limited 致富易有限公司 2-Jul-27
 5217 1873/2025 Easy Reliance Credit Limited 易信財務有限公司 18-Oct-26 R
 3434 96/2026 Easy Rich Finance Limited 易富財務有限公司 18-Oct-26 R
 5126 1225/2026 Easy Solve Limited 易借易還有限公司 17-Jul-27
@@ -590,13 +586,13 @@ Licence No. Date
 5511 384/2026 Easy Start Financial Limited 易時達財資策略有限公司 2-Jan-27
 4885 1548/2025 Easy Strategy Credit Limited 易策略財務有限公司 10-Oct-26 R
 6596 1304/2025 Easy Tech Inc Limited 怡科有限公司 9-Oct-26 R
-6038 1477/2025 Easy(HK)Finance Limited 易財務(香港)有限公司 29-Jul-26 R
-5219 1970/2025 EasyPhone Finance Limited 頤豐財務有限公司 18-Oct-26
+6038 1388/2026 Easy(HK)Finance Limited 易財務(香港)有限公司 29-Jul-27
+5219 1970/2025 EasyPhone Finance Limited 頤豐財務有限公司 18-Oct-26 R
 3838 1220/2026 Easyview Investment Limited 景達順投資有限公司 14-Aug-27
 4014 638/2026 Easyway Finance Limited 易進財務有限公司 26-Feb-27
-3444 97/2026 EBL Finance (HK) Limited 6-Nov-26
+3444 97/2026 EBL Finance (HK) Limited 6-Nov-26 R
 6614 1133/2025 EC Cash Limited 溢昇財務有限公司 4-Sep-26 R
-4902 101/2026 EC Credit Finance Limited 一線信貸財務有限公司 2-Nov-26
+4902 101/2026 EC Credit Finance Limited 一線信貸財務有限公司 2-Nov-26 R
 5251 219/2026 EC Financial Credit Limited 融易信貸有限公司 29-Nov-26
 5334 776/2026 EC Money Limited 快達錢有限公司 19-Mar-27
 4634 679/2026 EC Pay Financial Limited 28-Mar-27
@@ -605,30 +601,30 @@ Licence No. Date
 4990 571/2026 Eddid Credit Service Limited 艾德信貸有限公司 2-Apr-27
 2936 486/2026 Edward Wong Credit Limited 安泰授信有限公司 9-Jan-27
 6352 512/2026 Efficient In Asset Limited 盈富資產有限公司 26-Jan-27
-3084 1239/2025 Ego Finance Limited 及時雨信貸有限公司 8-Sep-26 R
+6753 1396/2026 Egain Credit (International) Company Limited 安利融資信貸有限公司 27-Oct-27
+3084 1234/2026 Ego Finance Limited 及時雨信貸有限公司 8-Sep-27
 5938 627/2026 Eighty Consultant Company Limited 捌十顧問有限公司 25-Mar-27
 4413 327/2026 eLend Master Limited 捷貸寶有限公司 25-Feb-27
 4640 1802/2025 Elephant Service Limited 29-Nov-26 R
 6657 1742/2025 Eling Credit Limited 16-Dec-26
-30.9.2026 頁碼 Page No. : 15 總頁數 Total Pages : 59
+4262 84/2026 Elite Capital Limited 億利資本有限公司 10-Nov-26
+6643 1530/2025 Elite Finance Limited 精英信貸有限公司 13-Nov-26 R
+5701 1132/2026 Emergency Money Finance Co., Limited 應急錢財務有限公司 4-Jun-27
+31.10.2026 頁碼 Page No. : 15 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-4262 84/2026 Elite Capital Limited 億利資本有限公司 10-Nov-26
-6643 1530/2025 Elite Finance Limited 精英信貸有限公司 13-Nov-26
-5701 1132/2026 Emergency Money Finance Co., Limited 應急錢財務有限公司 4-Jun-27
-6529 1954/2025 Eminence Consultancy Services Limited 卓高諮詢服務有限公司 7-Nov-26
+6529 1954/2025 Eminence Consultancy Services Limited 卓高諮詢服務有限公司 7-Nov-26 R
 4931 238/2026 E-Money Finance Limited 星匯信貸有限公司 30-Nov-26
-2404 1392/2025 Emperor Finance Limited 英皇財務有限公司 8-Sep-26 R
-3896 1680/2025 Emperor Prestige Credit Limited 英皇卓越信貸有限公司 28-Oct-26
+2404 1397/2026 Emperor Finance Limited 英皇財務有限公司 8-Sep-27
 2580 1796/2025 Emperor Securities Limited 英皇證券有限公司 19-Nov-26 R
 3474 147/2026 Empire Credit Limited 帝國信貸有限公司 3-Jan-27
 6484 882/2026 EMPOWER Finance Limited 帝國隆財務有限公司 7-May-27
 6199 665/2026 Energetic Finance Limited 活力財務有限公司 3-Mar-27
 5706 784/2026 Enrich Finance Limited 浚富財務有限公司 7-Jul-27
-6266 1232/2025 Entrust Digital Limited 宇信數碼有限公司 26-Jul-26 R
+6266 1348/2026 Entrust Digital Limited 宇信數碼有限公司 26-Jul-27
 2828 541/2026 Entrust Finance Limited 信邦財務有限公司 31-Mar-27
 3997 526/2026 E-ON Finance Limited 二按財務有限公司 12-Feb-27
 1006 1698/2025 Epaka Finance Limited 施百嘉財務有限公司 29-Oct-26 R
@@ -637,9 +633,10 @@ Licence No. Date
 143 1557/2025 Essman Construction Company Limited 常安工程有限公司 13-Aug-26 R
 2104 561/2026 Essman Finance Limited 常安財務有限公司 18-Feb-27
 2905 790/2026 ETC Finance Limited 易提款財務有限公司 20-Jun-27
-3011 1329/2025 Eternal Bright Investment Development 創輝投資發展有限公司 21-Aug-26 R
+3011 1329/2026 Eternal Bright Investment Development 創輝投資發展有限公司 21-Aug-27
 Limited
 3545 1158/2026 Eternal Fortune Finance Limited 恒利財務有限公司 30-May-27
+6740 1252/2026 Eternity Finance Limited 恒滙信貸有限公司 6-Oct-27
 2835 970/2026 Eton Mortgage Limited 易通按揭有限公司 12-May-27
 4008 1164/2026 Euroasia Finance Company Limited 歐洲亞洲財務有限公司 20-Jun-27
 3630 1894/2025 Ever Credit Limited 永恒信貸有限公司 15-Oct-26 R
@@ -650,27 +647,27 @@ Limited
 6544 201/2026 Everlasting Finance Group Limited 未末財務集團有限公司 12-Dec-26
 2129 598/2026 Ever-Long Capital Limited 長雄融資有限公司 24-Apr-27
 1476 1911/2025 Ever-Long Finance Limited 長雄財務有限公司 21-Oct-26 R
-30.9.2026 頁碼 Page No. : 16 總頁數 Total Pages : 59
+5789 1405/2026 Every Success Credit and Finance Limited 熙達信用財資有限公司 17-Sep-27
+4160 1541/2025 E-way (Hong Kong) Property Credit Limited 意達(香港)物業信貸有限公司 4-Aug-26 R
+6115 1762/2025 Excalibur Finance Limited 駿溢財務有限公司 8-Sep-26 R
+31.10.2026 頁碼 Page No. : 16 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-5789 1734/2025 Every Success Credit and Finance Limited 熙達信用財資有限公司 17-Sep-26 R
-4160 1541/2025 E-way (Hong Kong) Property Credit Limited 意達(香港)物業信貸有限公司 4-Aug-26 R
-6115 1762/2025 Excalibur Finance Limited 駿溢財務有限公司 8-Sep-26 R
 3525 752/2026 Excel Precise International Limited 勝緻國際有限公司 7-May-27
 5778 407/2026 Excellent Boy Financial Limited 至叻仔信貸有限公司 18-Jan-27
 5549 1639/2025 Exim Finance (Hong Kong) Limited 10-Oct-26 R
 6255 1134/2026 Express Credit Limited 信貸快遞有限公司 9-Jun-27
-6530 1981/2025 Express Speed Finance Limited 7-Nov-26
+6530 1981/2025 Express Speed Finance Limited 7-Nov-26 R
 6184 575/2026 Extra Fortune Credit Limited 豐裕信貸有限公司 8-Feb-27
-6022 1188/2025 Extra Profit Credit Limited 豐盈信貸有限公司 8-Jul-26 R
+6022 1270/2026 Extra Profit Credit Limited 豐盈信貸有限公司 8-Jul-27
 5441 383/2026 F Plus Limited 31-Dec-26
 5205 28/2026 Fair Humble Finance Limited 允謙財務有限公司 11-Oct-26 R
 2957 1119/2026 Faith Finance Investment Limited 怡邦財務投資有限公司 31-Jul-27
-3806 1331/2025 Faith Rich Finance Limited 信達財務有限公司 26-Jun-26 R
-5553 1928/2025 Faithful Capital (HK) Limited 信實信貸有限公司 10-Oct-26
+3806 1288/2026 Faith Rich Finance Limited 信達財務有限公司 26-Jun-27
+5553 1928/2025 Faithful Capital (HK) Limited 信實信貸有限公司 10-Oct-26 R
 5021 699/2026 Fame Star Properties Limited 榮星置業有限公司 13-Mar-27
 1762 1136/2026 Famous Place Limited 9-Aug-27
 3370 886/2026 Far East International Finance Company 遠東國際財務有限公司 19-Jun-27
@@ -679,99 +676,100 @@ Limited
 Limited
 5571 139/2026 Fast Cash Consultant Limited 19-Nov-26 R
 6711 498/2026 Fast Holdings Limited 敏迅集團有限公司 14-May-27
-4875 1924/2025 Fast Luck Finance Limited 迅福財務有限公司 10-Oct-26
+6728 900/2026 Fast Ideal Finance Limited 理想快貸有限公司 28-Jul-27
 3298 431/2026 Fast Money Finance Limited 31-Jan-27
-5121 1428/2025 Fast Profit Finance Limited 捷盈財務有限公司 26-Jun-26 R
+5121 1318/2026 Fast Profit Finance Limited 捷盈財務有限公司 26-Jun-27
 5843 220/2026 Fastearn Finance Limited 長有財務有限公司 1-Dec-26
 6194 424/2026 Fasteasy (HK) Enterprise Limited 晉柏企業有限公司 24-Feb-27
-3681 4/2026 Faster Credit Limited 集誠信貸有限公司 24-Dec-26
+3681 4/2026 Faster Credit Limited 集誠信貸有限公司 24-Dec-26 R
 4535 1546/2025 FH Finance Company Limited 復利財務有限公司 3-Aug-26 R
 524 1008/2026 Fidelity Finance Company, Limited 飛騰財務有限公司 30-May-27
 4309 1800/2025 Field Finance Limited 油田財務有限公司 10-Dec-26
 3205 582/2026 Finance Generation Credit Company Limited 財務一代信貸有限公司 12-Feb-27
 3231 1026/2026 Finance One Limited 日本網絡通財務有限公司 14-Jul-27
-2656 146/2026 Fine Art Holding Limited 恒樂集團有限公司 30-Oct-26
-30.9.2026 頁碼 Page No. : 17 總頁數 Total Pages : 59
+2656 146/2026 Fine Art Holding Limited 恒樂集團有限公司 30-Oct-26 R
+2885 300/2026 Fine State Finance Co. Limited 耀邦財務有限公司 10-Jan-27
+3655 69/2026 Fine Talent Finance Limited 高名財務有限公司 12-Nov-26 R
+3757 828/2026 Finsoft Finance Limited 匯財貸款有限公司 8-Apr-27
+31.10.2026 頁碼 Page No. : 17 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-2885 300/2026 Fine State Finance Co. Limited 耀邦財務有限公司 10-Jan-27
-3655 69/2026 Fine Talent Finance Limited 高名財務有限公司 12-Nov-26
-3757 828/2026 Finsoft Finance Limited 匯財貸款有限公司 8-Apr-27
 5324 700/2026 Fintech 365 Limited 365金融服務有限公司 12-Mar-27
 6558 203/2026 FinVolution (HK) Limited 信也(香港)有限公司 11-Feb-27
 6321 12/2026 Fireant Fintech (Hong Kong) Limited 火蟻金融科技(香港)有限公司 8-Nov-26 R
 3029 1862/2025 First Asia Finance International Limited 一亞財務國際有限公司 13-Nov-26 R
 3500 990/2026 First Asia Merchants Bullion Limited 第一亞洲商人金銀業有限公司 28-Jun-27
 6662 1816/2025 First C and B Finance Limited 萊柏第一財務有限公司 30-Dec-26
-2954 1279/2025 First Credit Limited 第一信用財務有限公司 26-Jun-26 R
+2954 1306/2026 First Credit Limited 第一信用財務有限公司 26-Jun-27
 2681 805/2026 First Horizon Limited 第一海域有限公司 25-Apr-27
-3164 165/2026 First One Finance Limited 第一財務有限公司 25-Jan-27
+3164 165/2026 First One Finance Limited 第一財務有限公司 25-Jan-27 R
 2149 1653/2025 First Shanghai Finance Limited 第一上海財務有限公司 24-Sep-26 R
-5710 1905/2025 FL Mortgage Limited 得利物業按揭有限公司 26-Oct-26
-6430 1675/2025 Flexilend Limited 28-Sep-26 R
+5710 1905/2025 FL Mortgage Limited 得利物業按揭有限公司 26-Oct-26 R
+6430 1368/2026 Flexilend Limited 28-Sep-27
 3120 373/2026 Florentina Investment Company Limited 福運天投資有限公司 29-Dec-26
 5526 50/2026 Fly High Finance Limited 飛昇財務有限公司 26-Sep-26 R
 1605 109/2026 Flying Dragon Investments Limited 飛龍國際投資有限公司 28-Jan-27
 6702 557/2026 Flying Phoenix Limited 26-May-27
 3865 973/2026 Foo Bo Credence Company Limited 富寶信用社有限公司 16-May-27
 1693 391/2026 Foo Kwan Finance Limited 富群財務有限公司 11-Feb-27
-826 58/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營南昌押 6-Nov-26
+826 58/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營南昌押 6-Nov-26 R
 Limited trading as Nam Cheong Pawnshop
-827 59/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營成豐押 12-Nov-26
+827 59/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營成豐押 12-Nov-26 R
 Limited trading as Shing Fung Pawnshop
-828 60/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營成隆押 12-Nov-26
+828 60/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營成隆押 12-Nov-26 R
 Limited trading as Shing Lung Pawnshop
-831 61/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營德興押 12-Nov-26
+831 61/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營德興押 12-Nov-26 R
 Limited trading as Tak Hing Pawnshop
-832 62/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營德生押 17-Nov-26
+832 62/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營德生押 17-Nov-26 R
 Limited trading as Tak Sang Pawnshop
-833 63/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營德泰押 6-Nov-26
+833 63/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營德泰押 6-Nov-26 R
 Limited trading as Tak Tai Pawnshop
-834 64/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營德榮押 12-Nov-26
+834 64/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營德榮押 12-Nov-26 R
 Limited trading as Tak Wing Pawnshop
-835 65/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營同昌押 17-Nov-26
+835 65/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營同昌押 17-Nov-26 R
 Limited trading as Tung Cheong Pawnshop
-836 66/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營同德押 12-Nov-26
+836 66/2026 Foo Shing Loan And Mortgage Company 富成按揭有限公司經營同德押 12-Nov-26 R
 Limited trading as Tung Tak Pawnshop
 2995 320/2026 Forever Property Finance Company Limited 永信物業按揭有限公司 26-Feb-27
 4437 1518/2025 Fornix Finance Company Limited 富納財務有限公司 9-Sep-26 R
+6743 1418/2026 Fortis Green Capital Limited 富通綠色資本有限公司 29-Oct-27
 5446 405/2026 Fortunate Asset Management Limited 富全資產管理有限公司 28-Jan-27
-30.9.2026 頁碼 Page No. : 18 總頁數 Total Pages : 59
+4965 1240/2026 Fortune Bright International Finance Group 富盈邦信國際金融集團有限公司 26-Jun-27
+Limited
+4488 1091/2026 Fortune Capital Strategy Limited 恒富資本策略有限公司 24-May-27
+31.10.2026 頁碼 Page No. : 18 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-4965 0783/2025 Fortune Bright International Finance Group 富盈邦信國際金融集團有限公司 26-Jun-26 R
-Limited
-4488 1091/2026 Fortune Capital Strategy Limited 恒富資本策略有限公司 24-May-27
 6589 1110/2026 Fortune Cash Limited 科進達信貸有限公司 12-Jun-27
-3010 1372/2025 Fortune Credit Limited 發達財務有限公司 7-Aug-26 R
-4726 1427/2025 Fortune Finance Hong Kong Limited 港貸財務有限公司 12-Sep-26 R
+3010 1282/2026 Fortune Credit Limited 發達財務有限公司 7-Aug-27
+4726 1293/2026 Fortune Finance Hong Kong Limited 港貸財務有限公司 12-Sep-27
 3286 278/2026 Fortune Finance Limited 富強財務有限公司 12-Jan-27
-3807 1180/2025 Fortune Luck Finance Company Limited 大運財務有限公司 3-Jul-26 R
+3807 1309/2026 Fortune Luck Finance Company Limited 大運財務有限公司 3-Jul-27
 6278 1576/2025 Fortune Prime Credit Company Limited 豐泰裕信貸有限公司 11-Oct-26 R
-4898 8/2026 Fortune Shiny (Hong Kong) Limited 富暉(香港)有限公司 31-Oct-26
+4898 8/2026 Fortune Shiny (Hong Kong) Limited 富暉(香港)有限公司 31-Oct-26 R
 3890 1608/2025 Fortune Team Investment Limited 匯添投資有限公司 7-Oct-26 R
 5335 737/2026 Forwin Credit Limited 富榮信貸有限公司 14-Mar-27
 6726 898/2026 Foundation Credit Limited 28-Jul-27
 5162 1690/2025 Foundation Finance Limited 宏基財務有限公司 28-Aug-26 R
 415 824/2026 Fountain Finance Limited 方興財務有限公司 11-Apr-27
 6467 353/2026 Free Credit Travel-Tech Finance Limited 貸自遊旅遊科技金融有限公司 27-Feb-27
-3812 1281/2025 Free Harbour Limited 瑋港有限公司 8-Jul-26 R
+3812 1379/2026 Free Harbour Limited 瑋港有限公司 8-Jul-27
 5326 722/2026 Freedom Mortgage Limited 自由財務按揭有限公司 12-Mar-27
 3229 1586/2025 Freeman Opto Money Lending Corporation 9-Aug-26 R
 Limited
 1915 410/2026 Freeway Finance Company Limited 亨運財務有限公司 25-Mar-27
 4498 812/2026 Freyr Finance (Asia) Limited 金源財務(亞洲)有限公司 2-Jun-27
 6029 1228/2026 Front Capital Limited 首都金融有限公司 20-Jul-27
-3587 1354/2025 Frontier Finance Limited 方達財務有限公司 15-Aug-26 R
+3587 1377/2026 Frontier Finance Limited 方達財務有限公司 15-Aug-27
 2881 21/2026 Frontier International Investment Limited 先鋒國際投資有限公司 29-Dec-26
 6057 1641/2025 FS Plus Limited 5-Aug-26 R
-6273 33/2026 Fu Teng Planning Limited 富騰策劃有限公司 2-Jan-27
+6273 33/2026 Fu Teng Planning Limited 富騰策劃有限公司 2-Jan-27 R
 5683 1129/2026 Fu Wah Finance Limited 富華財務有限公司 21-May-27
 5989 926/2026 Fubon Securities (Hong Kong) Limited 富邦證券(香港)有限公司 25-May-27
 6632 1291/2025 Fuji Capital (HK) Limited 富士資本(香港)有限公司 2-Oct-26 R
@@ -780,27 +778,28 @@ Limited
 3220 1173/2026 Fulhon Finance Company Limited 富匡財務有限公司 5-Jul-27
 3569 992/2026 Full Baba Finance Company Limited 富爸爸財務有限公司 16-Jul-27
 6283 1647/2025 Full Believe Company Limited 弘匯貸(香港)有限公司 18-Aug-26 R
-30.9.2026 頁碼 Page No. : 19 總頁數 Total Pages : 59
+3237 1661/2025 Full Gold Credit Company Limited 富金信貸有限公司 8-Sep-26 R
+4449 568/2026 Full Kin Credit Limited 富健信貸有限公司 5-Apr-27
+31.10.2026 頁碼 Page No. : 19 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-3237 1661/2025 Full Gold Credit Company Limited 富金信貸有限公司 8-Sep-26 R
-4449 568/2026 Full Kin Credit Limited 富健信貸有限公司 5-Apr-27
-5222 49/2026 Full Link Finance Limited 富聯財務有限公司 30-Oct-26
+5222 49/2026 Full Link Finance Limited 富聯財務有限公司 30-Oct-26 R
 4129 1048/2026 Full Treasure Consultants Limited 富通顧問有限公司 25-Jun-27
 1673 485/2026 Fulling Limited 富英有限公司 18-Jan-27
 3281 167/2026 Fullrich Financial Services (Asia) Limited 富高財務(亞洲)有限公司 5-Jan-27
 4548 1402/2025 Fully Great Asia Limited 富德亞洲有限公司 11-Aug-26 R
-6444 74/2026 Fun Cash Company Limited 28-Nov-26
-6526 1953/2025 Fund Hong Limited 24-Oct-26
+6444 74/2026 Fun Cash Company Limited 28-Nov-26 R
+6526 1953/2025 Fund Hong Limited 24-Oct-26 R
 1297 1699/2025 Funderstone Finance Limited 15-Oct-26 R
 4890 1520/2025 FundPark Limited 豐泊國際有限公司 10-Oct-26 R
+6370 762/2026 Fung Cheuk Finance Limited 豐卓財務有限公司 14-Mar-27
 5515 662/2026 Fungus Consultant Company Limited 睿匡顧問有限公司 2-Mar-27
 4325 194/2026 Funki Finance Limited 風奇金融有限公司 24-Dec-26
 4849 1686/2025 Futu Lending Limited 富途財務有限公司 7-Sep-26 R
-6545 127/2026 Future Bright Finance (HK) Company Limited 明大財務(香港)有限公司 24-Dec-26
+6545 127/2026 Future Bright Finance (HK) Company Limited 明大財務(香港)有限公司 24-Dec-26 R
 3922 1799/2025 FutureBridge Capital Limited 智橋資本有限公司 25-Nov-26 R
 1159 204/2026 Fuyo General Lease (HK) Limited 芙蓉總合利市(香港)有限公司 13-Feb-27
 4111 995/2026 G & D Mortgage Limited 高甸按揭有限公司 4-Jun-27
@@ -811,28 +810,27 @@ Licence No. Date
 5661 702/2026 Gaoyu Finance Limited 高裕財務有限公司 7-May-27
 6580 948/2026 Gather Brilliant Finance Limited 卓薈財務有限公司 24-Apr-27
 2682 130/2026 GCC Finance Company Limited 環球高寶財務有限公司 5-Nov-26
-5463 1359/2025 Gear Credit Limited 基業信貸有限公司 18-Jun-26 R
+5463 1295/2026 Gear Credit Limited 基業信貸有限公司 18-Jun-27
 5787 518/2026 Genie Financial Services (Hong Kong) 19-May-27
 Limited
 5557 1733/2025 Genuine Glory Investments Limited 22-Oct-26 R
-6111 1412/2025 Get Choi Company Limited 拾彩有限公司 21-Sep-26 R
+6111 1366/2026 Get Choi Company Limited 拾彩有限公司 21-Sep-27
 2997 1083/2026 Get Going Credit Company Limited 友和信貸有限公司 9-Aug-27
 1303 1910/2025 Get Nice (Union) Finance Company Limited 結好(聯合)財務有限公司 19-Nov-26
 1201 559/2026 Get Nice Finance Company Limited 結好財務有限公司 16-Mar-27
-5804 1930/2025 Get Profits Finance Limited 得利財務有限公司 20-Oct-26
-30.9.2026 頁碼 Page No. : 20 總頁數 Total Pages : 59
+3685 583/2026 Get Win Credit Company Limited 得運信貸有限公司 26-Mar-27
+6431 1716/2025 GFL Tech Limited 環富科技有限公司 28-Sep-26 R
+31.10.2026 頁碼 Page No. : 20 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-3685 583/2026 Get Win Credit Company Limited 得運信貸有限公司 26-Mar-27
-6431 1716/2025 GFL Tech Limited 環富科技有限公司 28-Sep-26 R
 6119 1617/2025 Giant Credit Finance Limited 鉅商信貸有限公司 8-Sep-26 R
 4353 417/2026 Giant Credit Limited 巨人信貸有限公司 14-Jan-27
 5658 142/2026 Giant Mind Finance Limited 君豪財務有限公司 2-Jan-27
 6653 1738/2025 Gingko Finance Limited 16-Dec-26
-4839 1204/2026 Ginmax Limited 英業有限公司 22-Aug-27
+4839 1197/2026 Ginmax Limited 英業有限公司 22-Aug-27
 4602 1589/2025 GIS Finance Co Limited 至尚財務有限公司 11-Oct-26 R
 6438 37/2026 Glacier Finance Limited 冰川金融有限公司 9-Nov-26
 4487 303/2026 Global (Hong Kong) Credit Company Limited 環球(香港)信貸有限公司 18-Dec-26
@@ -841,55 +839,56 @@ Licence No. Date
 3045 82/2026 Global International Credit Limited 環球信貸有限公司 15-Jan-27
 4445 421/2026 Global International Finance Limited 環球貸款有限公司 15-Mar-27
 4763 1012/2026 Global P2P Group Holdings Limited 2-May-27
-3273 1916/2025 Global Property Finance Limited 環球物業按揭有限公司 6-Dec-26
-3967 0782/2025 Globally Finance Limited 世界財務有限公司 26-Jun-26 R
+3273 1916/2025 Global Property Finance Limited 環球物業按揭有限公司 6-Dec-26 R
+3967 1264/2026 Globally Finance Limited 世界財務有限公司 26-Jun-27
 2616 521/2026 Glorious Bright Limited 千昇有限公司 8-Feb-27
-6179 0895/2025 Glory Life Credit Limited 順景亞洲按揭有限公司 22-Jul-26 R
+6179 1392/2026 Glory Life Credit Limited 順景亞洲按揭有限公司 22-Jul-27
 4361 284/2026 Glory Rich International Development Limited 富鴻國際發展有限公司 14-Jan-27
 4025 676/2026 Glory Sun Credit Limited 寶新信貸有限公司 10-Mar-27
 2767 1914/2025 Glory Wise Finance Company Limited 佳智財務有限公司 2-Dec-26 R
 6227 1032/2026 Go Ahead Finance Limited 前進財務有限公司 17-May-27
-3426 1513/2025 Go Ahead Global Limited 高進環球有限公司 18-Sep-26 R
+3426 1284/2026 Go Ahead Global Limited 高進環球有限公司 18-Sep-27
 3137 1487/2025 Go Sing Credit Company Limited 友和信貸(香港)有限公司 15-Oct-26 R
-6513 1483/2025 God Field Capital Limited 神田資本有限公司 17-Sep-26 R
+6513 1369/2026 God Field Capital Limited 神田資本有限公司 17-Sep-27
 5606 51/2026 God Money Consultant Limited 24-Dec-26
 2910 503/2026 Goed Student Financing Limited 28-Jan-27
 4486 871/2026 Gogocash International Limited 錢進國際有限公司 19-May-27
-6021 1341/2025 Gogoprop Finance Limited 8-Jul-26 R
-2266 1985/2025 Gold Future Finance Company Limited 匯鑫財務有限公司 4-Dec-26
+6021 1324/2026 Gogoprop Finance Limited 8-Jul-27
+2266 1985/2025 Gold Future Finance Company Limited 匯鑫財務有限公司 4-Dec-26 R
 6625 1307/2025 Gold Gold Credit Limited 鉑洛信貸有限公司 9-Oct-26 R
 5779 458/2026 Gold Horse Finance Limited 千里馬財務有限公司 18-Feb-27
-30.9.2026 頁碼 Page No. : 21 總頁數 Total Pages : 59
+3923 245/2026 Gold Medal Hong Kong Limited 金徽香港有限公司 25-Nov-26
+6083 1336/2026 Gold Profit Financial Company Limited 金盈財務有限公司 17-Aug-27
+31.10.2026 頁碼 Page No. : 21 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-3923 245/2026 Gold Medal Hong Kong Limited 金徽香港有限公司 25-Nov-26
-6083 1289/2025 Gold Profit Financial Company Limited 金盈財務有限公司 17-Aug-26 R
 2221 1603/2025 Goldbest International Investment Limited 金博國際投資有限公司 25-Sep-26 R
 4716 623/2026 Golden City Finance Limited 金城財務有限公司 7-Mar-27
 3801 1138/2026 Golden Connection Finance Limited 金匯聯財務有限公司 24-Jun-27
+4676 1393/2026 Golden Credit Service Limited 金富信貸有限公司 7-Mar-27
 6378 763/2026 Golden East Finance Limited 庚東財務有限公司 11-Apr-27
 5636 242/2026 Golden Faith Global Finance Company 金誠環球財務有限公司 3-Jan-27
 Limited
 4946 215/2026 Golden Field Finance Limited 金豐財務有限公司 21-Dec-26
-3146 735/2026 Golden Fields Finance Limited 金田財務有限公司 13-Jul-26 R
+3146 1330/2026 Golden Fields Finance Limited 金田財務有限公司 13-Jul-27
 5696 1131/2026 Golden Hill Credit Limited 金山信貸有限公司 28-May-27
 4392 478/2026 Golden Jade Finance Limited 金瑜財務有限公司 16-Feb-27
 5926 705/2026 Golden Leasing Limited 金利信有限公司 11-Mar-27
 5703 1073/2026 Golden Maximum Finance Limited 金高峰財務有限公司 7-Jul-27
 3520 433/2026 Golden Noble Finance Limited 金葉財務有限公司 9-Apr-27
-4321 326/2026 Golden Ocean (852) Limited 鋐澤(香港)有限公司 17-Dec-26
+4321 326/2026 Golden Ocean (852) Limited 鋐澤(香港)有限公司 17-Dec-26 R
 4108 810/2026 Golden Power Credit Finance Co. Limited 金力信貸有限公司 2-Jun-27
 5314 382/2026 Golden Prospect Finance Limited 金興財務有限公司 5-Mar-27
 5918 346/2026 Golden Rich Credit Limited 金利達信貸有限公司 16-Feb-27
-6149 54/2026 Golden Sail Credit Finance Company Limited 金帆信貸有限公司 23-Dec-26
+6149 54/2026 Golden Sail Credit Finance Company Limited 金帆信貸有限公司 23-Dec-26 R
 5152 1567/2025 Golden Sands Credit Limited 金沙信貸有限公司 7-Aug-26 R
 5672 759/2026 Golden Sky Finance Limited 天堃金匯有限公司 19-May-27
 6676 161/2026 Golden Team Financial Limited 金岸信貸有限公司 10-Mar-27
 4167 1542/2025 Golden Treasure Finance Limited 金寶財務有限公司 4-Aug-26 R
-1432 1276/2025 Gold-Face Finance Limited 均來財務有限公司 16-Jun-26 R
+1432 1253/2026 Gold-Face Finance Limited 均來財務有限公司 16-Jun-27
 5610 724/2026 Goldlion Investment Company Limited 金獅管理有限公司 29-Apr-27
 6494 1003/2026 Goldstone Finance Limited 金石信貸有限公司 30-May-27
 2032 1844/2025 Goldvole Finance Limited 金宏利財務有限公司 4-Dec-26 R
@@ -897,16 +896,16 @@ Limited
 4861 1829/2025 Good Cheer Global Limited 21-Sep-26 R
 5037 735/2026 Good Financial Limited 22-Mar-27
 3405 1441/2025 Good Fortune Credit Limited 好運來財務有限公司 28-Aug-26 R
-2644 1987/2025 Good Future Finance Limited 運通財務有限公司 23-Oct-26
+2644 1987/2025 Good Future Finance Limited 運通財務有限公司 23-Oct-26 R
 6600 1060/2026 Good Good Credit Limited 好信用有限公司 3-Jul-27
-30.9.2026 頁碼 Page No. : 22 總頁數 Total Pages : 59
+4862 46/2026 Good Hero Holdings Limited 正豪集團有限公司 26-Nov-26
+31.10.2026 頁碼 Page No. : 22 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-4862 46/2026 Good Hero Holdings Limited 正豪集團有限公司 26-Nov-26
-6056 1554/2025 Good Idea Capital Limited 理想金融有限公司 5-Aug-26 R
+6056 1365/2026 Good Idea Capital Limited 理想金融有限公司 5-Aug-27
 6046 160/2026 Good Profit Credit Finance Limited 盈喜信貸有限公司 10-Mar-27
 3804 1161/2026 Good Success Finance Limited 成利財務有限公司 26-Jun-27
 3433 1750/2025 Goodstone Development Limited 帝信發展有限公司 27-Sep-26 R
@@ -914,10 +913,9 @@ Licence No. Date
 6211 686/2026 Goodwill Finance Limited 宏達財務有限公司 5-May-27
 5071 837/2026 Goodwill Professional Consultant Limited 3-May-27
 6586 1058/2026 GoTyme Hong Kong Limited 12-Jun-27
-5127 1198/2026 Gracie Point International, Limited 17-Jul-27
+5127 1199/2026 Gracie Point International, Limited 17-Jul-27
 6671 17/2026 Grade10 Finance Limited 3-Feb-27
 6618 1152/2025 Gran Credit Limited 格蘭財務有限公司 9-Sep-26 R
-4228 1668/2025 Grand Asia Mortgage Services Limited 宏亞按揭服務有限公司 8-Oct-26
 3872 1821/2025 Grand Billion Finance Limited 宏億財務有限公司 25-Sep-26 R
 5985 1184/2026 Grand China Credit Limited 華業信貸有限公司 25-May-27
 3242 1864/2025 Grand Crystal Investment Limited 新晶投資有限公司 22-Sep-26 R
@@ -933,40 +931,39 @@ Limited
 4397 490/2026 Grand Mark Worldwide Limited 嘉匯環球有限公司 16-Feb-27
 2667 1581/2025 Grand Ocean Credit Limited 保得財務有限公司 23-Oct-26 R
 305 1041/2026 Grand Pacific Equity Limited 君亞資產管理有限公司 29-May-27
-5250 1902/2025 Grand Partners Finance Limited 利盟財務有限公司 29-Nov-26
+5250 1902/2025 Grand Partners Finance Limited 利盟財務有限公司 29-Nov-26 R
 3589 1662/2025 Grand Prospects Finance International Limited 華泰財務國際有限公司 20-Aug-26 R
 5143 1093/2026 Grand Success Credit Limited 冠成信貸有限公司 19-Jul-27
 4733 533/2026 Grand Up Finance Limited 廣昇財務有限公司 23-Mar-27
 2758 885/2026 Grandway Investments (International) Limited 華滙投資(國際)有限公司 25-Apr-27
 4512 1066/2026 Gransing Finance Limited 國投信貸有限公司 30-Jun-27
-30.9.2026 頁碼 Page No. : 23 總頁數 Total Pages : 59
+5196 1805/2025 Granton Asia Limited 盈滙亞洲有限公司 4-Oct-26 R
+5650 550/2026 Great Day Credit Limited 好日子信貸有限公司 4-Jan-27
+31.10.2026 頁碼 Page No. : 23 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-5196 1805/2025 Granton Asia Limited 盈滙亞洲有限公司 4-Oct-26 R
-5650 550/2026 Great Day Credit Limited 好日子信貸有限公司 4-Jan-27
 3988 1163/2026 Great Harbour Investment Holdings Company 全港投資控股有限公司 2-Jul-27
 Limited
 4030 794/2026 Great Luck Finance Limited 偉祥財務有限公司 26-Mar-27
 5569 1785/2025 Great Ocean Credit Limited 滙洋信貸有限公司 7-Nov-26 R
-5772 1324/2025 Great Partner Consultant Limited 錢多多財務有限公司 14-Oct-26
 5968 1303/2025 Great Profit Finance Limited 盈大財務有限公司 9-Oct-26 R
 3629 1679/2025 Great View Finance Limited 長江財務有限公司 17-Oct-26 R
-6546 183/2026 Great Wall (International) Capital Holdings 長城(國際)資本有限公司 2-Jan-27
+6546 183/2026 Great Wall (International) Capital Holdings 長城(國際)資本有限公司 2-Jan-27 R
 Limited
 4061 833/2026 Great Wall Mortgage Company Limited 長城按揭有限公司 21-Apr-27
 5662 1029/2026 Great Wealth Finance Limited 晉富財務有限公司 7-May-27
 4936 286/2026 Greater Bay Finance Limited 大灣財務有限公司 5-Dec-26
 6163 293/2026 Greatest Finance Limited 宏貸財務有限公司 28-Dec-26
 5885 179/2026 Greatsky Capital Limited 天浩資本有限公司 21-Jan-27
-4004 1258/2025 Greatway Finance Limited 大通財務有限公司 29-Jun-26 R
+4004 1311/2026 Greatway Finance Limited 大通財務有限公司 29-Jun-27
 6734 1005/2026 Greatwill Capital Limited 安裕資本有限公司 18-Aug-27
 5567 198/2026 Greenland Finance Company Limited 綠地金融財務有限公司 21-Nov-26
 4302 210/2026 Greenpro Credit Limited 綠專信貸有限公司 3-Dec-26
 6661 1841/2025 Grit Credit Limited 富毅信貸有限公司 6-Jan-27
-5560 1972/2025 Grit Finance Limited 啟恒財務有限公司 24-Oct-26
+5560 1972/2025 Grit Finance Limited 啟恒財務有限公司 24-Oct-26 R
 3035 67/2026 GTL Credit Finance Company Limited 嘉得利信貸財務有限公司 27-Nov-26
 3353 1893/2025 Guangdong Finance Limited 廣東信貸有限公司 24-Oct-26 R
 1685 501/2026 Guangzhou Investment Finance Company 越秀投資財務有限公司 14-Feb-27
@@ -978,28 +975,29 @@ Limited
 3581 1174/2026 Halcyon Finance Limited 鎧盛財務有限公司 15-Aug-27
 2454 229/2026 Hang Fai Finance Company Limited 恆輝財務有限公司 30-Dec-26
 1348 1212/2026 Hang Fung Finance Limited 恒豐財務有限公司 24-Jun-27
-695 128/2026 Hang Lee Finance Company, Limited 顯利財務有限公司 24-Oct-26
 6385 912/2026 Hang Tai Capital Limited 恒泰資本有限公司 27-Apr-27
 2313 672/2026 Hannaford Finance Limited 國信財務有限公司 24-Mar-27
-30.9.2026 頁碼 Page No. : 24 總頁數 Total Pages : 59
+6535 126/2026 Hanson United Credit Limited 亨信環球信貸有限公司 19-Nov-26
+6334 1997/2025 Hansui Service Company Limited 瀚隋服務有限公司 6-Dec-26 R
+3357 1236/2026 Hao Tian Finance Company Limited 昊天財務有限公司 19-Jun-27
+4593 328/2026 Hao Tian International Finance Company 昊天國際財務有限公司 20-Dec-26
+Limited
+31.10.2026 頁碼 Page No. : 24 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-6535 126/2026 Hanson United Credit Limited 亨信環球信貸有限公司 19-Nov-26
-6334 1997/2025 Hansui Service Company Limited 瀚隋服務有限公司 6-Dec-26
-3357 1280/2025 Hao Tian Finance Company Limited 昊天財務有限公司 19-Jun-26 R
-4593 328/2026 Hao Tian International Finance Company 昊天國際財務有限公司 20-Dec-26
-Limited
 4069 1027/2026 Happy Mortgage Services Limited 開心按揭服務有限公司 7-May-27
 5723 1180/2026 Harbour Fort Capital Limited 港安資本有限公司 7-Jul-27
-6435 1767/2025 Harmonious Credit Company Limited 康樂信貸有限公司 17-Oct-26
+6435 1767/2025 Harmonious Credit Company Limited 康樂信貸有限公司 17-Oct-26 R
 3328 847/2026 Harvest Finance Limited 太豐財務有限公司 10-Apr-27
+6739 1333/2026 HashKey Credit Services Limited 20-Oct-27
 5015 534/2026 Hass Capital Limited 浩斯資本有限公司 1-Mar-27
 4293 1898/2025 Have Result Finance Limited 有成財務有限公司 19-Nov-26
 6502 1035/2026 HC Capital Group Limited 凱智資本有限公司 13-Jun-27
-4836 1854/2025 HD Finance Limited 希慎財務有限公司 9-Nov-26
+4836 1854/2025 HD Finance Limited 希慎財務有限公司 9-Nov-26 R
+6748 1327/2026 Heaven First Asia Limited 世一亞太有限公司 15-Oct-27
 6353 463/2026 Hei Wai Company Limited 熙煒有限公司 2-Feb-27
 5935 742/2026 Help U Capital Limited 邦理資本有限公司 23-Mar-27
 5952 726/2026 Heng Ying International Investment Limited 恒贏國際投資有限公司 13-Apr-27
@@ -1007,36 +1005,37 @@ Limited
 4490 954/2026 Henter Finance Limited 衡泰財務有限公司 26-May-27
 6017 1227/2026 Hermas Limited 愛碼士有限公司 6-Jul-27
 4824 1447/2025 Heroheart Capital Credit Limited 雄心資本信貸有限公司 10-Aug-26 R
-3591 1424/2025 Hexa Finance Company Limited 六和財務有限公司 26-Aug-26 R
+3591 1334/2026 Hexa Finance Company Limited 六和財務有限公司 26-Aug-27
 3554 473/2026 Hexagon Credit Limited 恒信通信貸有限公司 24-Mar-27
+6750 1374/2026 HF Fortune Limited 22-Oct-27
 2627 770/2026 HH Finance Limited 22-Mar-27
 6478 554/2026 High Credit Limited 高信信貸有限公司 11-Apr-27
 5069 1689/2025 High Surplus International Limited 盈高國際有限公司 10-Sep-26 R
 6167 347/2026 High West Capital Partners Limited 高西資本有限公司 28-Dec-26
-4731 1497/2025 Hillcrest Finance Limited 10-Aug-26 R
-5713 1249/2025 Hillswood Credit Company Limited 曉薈信貸有限公司 23-Jun-26 R
-2608 1797/2025 Hing Lung Finance Limited 興隆財務有限公司 1-Nov-26
+4731 1382/2026 Hillcrest Finance Limited 10-Aug-27
+5713 1246/2026 Hillswood Credit Company Limited 曉薈信貸有限公司 23-Jun-27
+2608 1797/2025 Hing Lung Finance Limited 興隆財務有限公司 1-Nov-26 R
 6709 497/2026 Hingtai Finance Limited 行泰財務有限公司 14-May-27
 2708 1913/2025 Hinsan Finance Limited 興盛信貸有限公司 10-Oct-26 R
 6550 256/2026 Hinson Capital Limited 顯新資本有限公司 16-Jan-27
 4165 1140/2026 HK Pacific Credit Limited 香港太平洋信貸有限公司 4-Aug-27
-6517 1736/2025 HK Sincere Credit Limited 香港至誠財務有限公司 24-Sep-26 R
-30.9.2026 頁碼 Page No. : 25 總頁數 Total Pages : 59
+6517 1416/2026 HK Sincere Credit Limited 香港至誠財務有限公司 24-Sep-27
+5928 663/2026 HK SME Treasury Services Limited 香港中小企儲備服務有限公司 11-Mar-27
+31.10.2026 頁碼 Page No. : 25 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-5928 663/2026 HK SME Treasury Services Limited 香港中小企儲備服務有限公司 11-Mar-27
 5013 613/2026 HK Union Credit Limited 港聯信貸有限公司 13-Mar-27
 5679 910/2026 HKAM Finance Limited 香港資管財務有限公司 21-May-27
 4377 112/2026 HKEC Investment Limited 香港易達投資有限公司 28-Jan-27
 5739 1591/2025 Ho Hoi Enterprise Company Limited 浩海企業有限公司 11-Aug-26 R
 6112 1384/2025 Ho Ok Finance Limited 皓立信貸有限公司 8-Sep-26 R
 5896 181/2026 Hoi San Investment Limited 海晨投資有限公司 19-Jan-27
-5559 1612/2025 Hoi Wang Enterprise Limited 海泓環球有限公司 24-Oct-26
-6633 1327/2025 Hoke Credit Limited 昊基信貸有限公司 14-Oct-26
+6633 1327/2025 Hoke Credit Limited 昊基信貸有限公司 14-Oct-26 R
 2815 1957/2025 HOL Finance Limited 4-Nov-26 R
+6749 1373/2026 Holgerson Hong Kong Limited 22-Oct-27
 5908 703/2026 Holly Rich Credit Limited 賀進信貸有限公司 4-Feb-27
 5900 443/2026 Hollywood Mortgage Limited 荷李活按揭有限公司 28-Jan-27
 5954 876/2026 Home Mortgage Finance Company Limited 家按融資有限公司 13-Apr-27
@@ -1046,7 +1045,7 @@ Licence No. Date
 4411 530/2026 Honest Smart Finance Limited 傑誠財務有限公司 25-Feb-27
 5666 1757/2025 Honey Bee Finance Limited 蜜蜂金控有限公司 8-Sep-26 R
 4652 305/2026 Hong Jian Company Limited 鴻楗有限公司 15-Dec-26
-6543 277/2026 Hong Kong Aircraft Technology Services 香港航空科技服務有限公司 12-Dec-26
+6543 277/2026 Hong Kong Aircraft Technology Services 香港航空科技服務有限公司 12-Dec-26 R
 Company Limited
 2860 1583/2025 Hong Kong Builders Finance Limited 港建財務有限公司 9-Aug-26 R
 4059 832/2026 Hong Kong Capital Finance Corporation 香港金融資本集團有限公司 21-Apr-27
@@ -1054,7 +1053,6 @@ Limited
 2660 1082/2026 Hong Kong Credit Corporation Limited 香港金融信貸有限公司 26-May-27
 6663 1817/2025 Hong Kong Credit Express International 香港信速達國際有限公司 30-Dec-26
 Limited
-5573 31/2026 Hong Kong Credit Finance Limited 香港信用財務有限公司 31-Oct-26
 6217 1529/2025 Hong Kong Credit Services Limited 香港信貸服務有限公司 13-Nov-26
 4989 288/2026 Hong Kong Finance (Personal Loan) Limited 香港信貸(私人貸款)有限公司 22-Feb-27
 2355 769/2026 Hong Kong Finance Company Limited 香港信貸財務有限公司 20-May-27
@@ -1063,17 +1061,17 @@ Limited
 2909 1700/2025 Hong Kong International Credit Limited 10-Sep-26 R
 4374 439/2026 Hong Kong Mortgage Services Limited 香港按揭服務有限公司 2-Feb-27
 6470 465/2026 Hong Kong OmniFin Limited 香港格萊財務有限公司 14-Mar-27
-30.9.2026 頁碼 Page No. : 26 總頁數 Total Pages : 59
+2836 789/2026 Hong Kong Parkview Treasury Limited 26-May-27
+5851 1832/2025 Hong Kong Promise Finance Limited 香港財務有限公司 8-Dec-26 R
+31.10.2026 頁碼 Page No. : 26 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-2836 789/2026 Hong Kong Parkview Treasury Limited 26-May-27
-5851 1832/2025 Hong Kong Promise Finance Limited 香港財務有限公司 8-Dec-26 R
 3310 322/2026 Hong Kong Property Mortgage Limited 香港物業按揭有限公司 7-Feb-27
-4274 1871/2025 Hong Kong Station Credit Limited 香港站信貸有限公司 10-Nov-26
-3566 1240/2025 Hong Kong T.K.L. Group Limited 香港醉瓊樓集團有限公司 9-Jul-26 R
+4274 1871/2025 Hong Kong Station Credit Limited 香港站信貸有限公司 10-Nov-26 R
+3566 1307/2026 Hong Kong T.K.L. Group Limited 香港醉瓊樓集團有限公司 9-Jul-27
 6630 1326/2025 Hong Kong Tim Ying Financial Service 香港添盈金融服務有限公司 14-Oct-26 R
 Limited
 1738 333/2026 Hong Kong Wahsheung Properties Limited 香港華商置業有限公司 14-Apr-27
@@ -1081,12 +1079,13 @@ Limited
 5570 778/2026 HongHu Commercial Factoring Limited 鴻鵠商業保理有限公司 26-May-27
 4815 1144/2026 Hongkong Huiyu Financial Co., Limited 香港匯裕財務有限公司 13-Jul-27
 2645 1117/2026 Honip Credit Limited 康業信貸有限公司 3-Jul-27
-3961 42/2026 Honored Credit Finance Limited 仁貴信貸財務有限公司 30-Dec-26
+6746 1302/2026 Honor Credit Limited 榮信財務有限公司 13-Oct-27
+3961 42/2026 Honored Credit Finance Limited 仁貴信貸財務有限公司 30-Dec-26 R
 523 1007/2026 Honour Finance Company, Limited 忠誠財務有限公司 30-May-27
-3606 1515/2025 Honour Sky Development Limited 譽天發展有限公司 10-Sep-26 R
+3606 1261/2026 Honour Sky Development Limited 譽天發展有限公司 10-Sep-27
 5301 274/2026 Hontime Resources Limited 康泰資源有限公司 26-Feb-27
 2557 748/2026 HPE Financial Services (Hong Kong) Limited 23-Mar-27
-4259 5/2026 HS Asset Management Limited 亨盛資產管理有限公司 3-Nov-26
+4259 5/2026 HS Asset Management Limited 亨盛資產管理有限公司 3-Nov-26 R
 6500 821/2026 HS Equities (HK) Limited 恆實投資有限公司 11-Jun-27
 1543 633/2026 HS Finance & Credit Co. Limited 平成信貸有限公司 8-Mar-27
 5122 736/2026 HS Services Limited 恆迅服務有限公司 3-Jun-27
@@ -1094,34 +1093,33 @@ Limited
 4265 731/2026 Huajin Finance (International) Limited 華金財務(國際)有限公司 26-Mar-27
 4100 454/2026 Huge Famous Investment Limited 鵬興投資有限公司 23-Feb-27
 5279 103/2026 Huifang Investment Limited 匯方投資有限公司 15-Jan-27
-4907 1521/2025 Hundred Gold Credit Limited 百金信用社有限公司 12-Aug-26 R
+4907 1317/2026 Hundred Gold Credit Limited 百金信用社有限公司 12-Aug-27
 3620 1867/2025 Hung Sing Finance Limited 鴻昇財務有限公司 8-Oct-26 R
 4448 586/2026 Hunlicar CCIG Financial Management 亨利加金融管理有限公司 2-Apr-27
 Limited
 1046 1626/2025 HY Credit Company Limited 迅興信貸有限公司 16-Aug-26 R
 3510 601/2026 Hyatt Asia Financial Limited 凱悅亞洲財務有限公司 14-Mar-27
-4212 1443/2025 I Financial Limited 聯誠財務有限公司 15-Sep-26 R
+4212 1399/2026 I Financial Limited 聯誠財務有限公司 15-Sep-27
 5854 251/2026 I Loan U Limited 海洋網絡通有限公司 8-Dec-26
-5805 1135/2026 I Profit Financial Limited 聯益信用財務有限公司 2-Jul-27
-3144 731/2026 IATS Finance Limited 宏富金融信貸有限公司 22-Mar-27
-30.9.2026 頁碼 Page No. : 27 總頁數 Total Pages : 59
+5805 1204/2026 I Profit Financial Limited 聯益信用財務有限公司 2-Jul-27
+3144 581/2026 IATS Finance Limited 宏富金融信貸有限公司 22-Mar-27
+3072 1154/2026 IBC Credit Limited 保仕國際信貸有限公司 23-Jun-27
+31.10.2026 頁碼 Page No. : 27 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-3072 1154/2026 IBC Credit Limited 保仕國際信貸有限公司 23-Jun-27
-6511 1320/2025 IC Credit Limited 貸一信貸有限公司 5-Sep-26 R
+6511 1414/2026 IC Credit Limited 貸一信貸有限公司 5-Sep-27
 3910 110/2026 iCash Finance Limited 利晉財務有限公司 20-Nov-26
 3995 476/2026 ICC Financial Limited 尚裕金融有限公司 10-Feb-27
-4954 342/2026 IC-F Limited 工商融資有限公司 2-Jan-27
+4954 342/2026 IC-F Limited 工商融資有限公司 2-Jan-27 R
 4805 853/2026 i-Choice Limited 匡財有限公司 4-Jul-27
 6579 947/2026 IE Finance Limited 智易信貸有限公司 6-May-27
 5044 1688/2025 i-Golden Data Wealth Limited 大數據財富有限公司 12-Sep-26 R
 4102 1087/2026 Imagi Lenders Limited 21-May-27
 5430 1094/2026 I-Money Credit Limited 萬應錢信貸有限公司 9-May-27
 4235 1942/2025 Imperium International Credit Limited 帝國國際信貸有限公司 13-Oct-26 R
-5198 1925/2025 IN Finance Limited 金衍財務有限公司 9-Oct-26
 6098 1480/2025 Income Credit Limited 進盈信貸有限公司 31-Aug-26 R
 6257 946/2026 Income Gold Credit Limited 維港信貸有限公司 23-Jun-27
 4651 1385/2025 Incomlend Limited 23-Oct-26 R
@@ -1134,27 +1132,26 @@ Licence No. Date
 6071 1596/2025 Instant Cash Limited 太易信貸有限公司 12-Aug-26 R
 6309 1835/2025 Instant Finance Limited 迅用錢有限公司 29-Sep-26 R
 6069 1455/2025 Instant Lend Limited 快易貸有限公司 12-Aug-26 R
-2798 1394/2025 Integrated Capital (Asia) Limited 本滙融資(亞洲)有限公司 20-Jul-26 R
+2798 1280/2026 Integrated Capital (Asia) Limited 本滙融資(亞洲)有限公司 20-Jul-27
 5922 594/2026 Integrity Credit Limited 恆諾信貸有限公司 23-Feb-27
-5459 1247/2025 Interarch Finance and Credit Company 凱中財務信貸有限公司 18-Jun-26 R
+5459 1244/2026 Interarch Finance and Credit Company 凱中財務信貸有限公司 18-Jun-27
 Limited
 6214 706/2026 International Finance (Holding) Company 國金財務(控股)有限公司 19-May-27
 Limited
 6406 1055/2026 International Underwriting Administration 國際承保管理有限公司 6-Jul-27
 Limited
 5449 1069/2026 Intrabase Financial Services Limited 貿易金融有限公司 6-Jun-27
-4614 1801/2025 InvesTech Finance Limited 富信財務有限公司 27-Oct-26
-4838 1685/2025 Invoice Limited 寶明印刷有限公司 17-Oct-26
-4552 155/2026 I-Smart Credit Company Limited 智盈信貨有限公司 3-Nov-26
-30.9.2026 頁碼 Page No. : 28 總頁數 Total Pages : 59
+4614 1801/2025 InvesTech Finance Limited 富信財務有限公司 27-Oct-26 R
+4552 155/2026 I-Smart Credit Company Limited 智盈信貨有限公司 3-Nov-26 R
+5535 1903/2025 Isshin Finance Company Limited 一心財務有限公司 26-Sep-26 R
+310 1061/2026 Itochu Hong Kong Limited 伊藤忠商事(香港)有限公司 16-May-27
+6645 1532/2025 IVO Finance Limited 13-Nov-26 R
+31.10.2026 頁碼 Page No. : 28 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-5535 1903/2025 Isshin Finance Company Limited 一心財務有限公司 26-Sep-26 R
-310 1061/2026 Itochu Hong Kong Limited 伊藤忠商事(香港)有限公司 16-May-27
-6645 1532/2025 IVO Finance Limited 13-Nov-26
 5962 1100/2026 J.R. Trading (International) Limited 22-Jul-27
 4339 621/2026 Jad Wealth (Asia) Development Limited 智財創富(亞洲)發展有限公司 24-Apr-27
 2446 266/2026 Jafoon Finance Company 錦豐財務公司 30-Dec-26
@@ -1165,12 +1162,12 @@ Licence No. Date
 4233 1849/2025 Jeff Credit Limited 借富信貸有限公司 6-Oct-26 R
 4170 1560/2025 Jiangxi Copper Hong Kong Company Limited 江西銅業香港有限公司 6-Aug-26 R
 3037 988/2026 Jimei Finance Limited 集美財務有限公司 3-May-27
-4926 48/2026 Jin Li Da Limited 金力達有限公司 28-Nov-26
-1881 1310/2025 Jinhui Finance (Hong Kong) Limited 金輝財務(香港)有限公司 7-Jul-26 R
+4926 48/2026 Jin Li Da Limited 金力達有限公司 28-Nov-26 R
+1881 1255/2026 Jinhui Finance (Hong Kong) Limited 金輝財務(香港)有限公司 7-Jul-27
 6033 1185/2026 JIT Credit Company Limited 捷泰信用有限公司 20-Jul-27
 3571 1159/2026 JIT Finance Co., Limited 捷泰財務有限公司 9-Jul-27
 6472 446/2026 JL Investment Capital Limited 14-Mar-27
-6282 1933/2025 JMC Finance HK Limited 富喬鑫融資(香港)有限公司 11-Oct-26
+6282 1933/2025 JMC Finance HK Limited 富喬鑫融資(香港)有限公司 11-Oct-26 R
 3264 1605/2025 Johnny Development Limited 尊迪奧發展有限公司 25-Oct-26 R
 5998 984/2026 Johnston Finance Limited 莊士敦財務有限公司 10-Jun-27
 2628 652/2026 Join View Development Limited 正景發展有限公司 3-Apr-27
@@ -1179,26 +1176,25 @@ Licence No. Date
 4501 1028/2026 Joy Team Finance Limited 匯怡財務有限公司 21-Jun-27
 3201 846/2026 Joy Wealth Finance Limited 寶欣財務有限公司 7-Apr-27
 6295 1618/2025 Joyful Vision Asset Limited 樂盈資產有限公司 6-Sep-26 R
-2434 129/2026 Joyrise Finance Limited 訊富財務有限公司 25-Nov-26
+2434 129/2026 Joyrise Finance Limited 訊富財務有限公司 25-Nov-26 R
 6081 1760/2025 JP Credit Limited 捷榮信貸有限公司 17-Aug-26 R
 6281 1673/2025 JP Money Limited 積利信貸有限公司 16-Aug-26 R
 6065 930/2026 JR Credit Limited 新幹線財務有限公司 4-Aug-27
 4495 678/2026 JS Finance Limited 建信財務有限公司 12-Mar-27
 6474 428/2026 JS Tech Limited 19-Mar-27
-30.9.2026 頁碼 Page No. : 29 總頁數 Total Pages : 59
+6639 1388/2025 JS Tech Service Limited 23-Oct-26 R
+5093 908/2026 Juk Coeng International Holding Company 昱瑲國際控股有限公司 31-May-27
+Limited
+5283 1971/2025 Jumbo Finance Limited 浩景財務有限公司 8-Jan-27 R
+31.10.2026 頁碼 Page No. : 29 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-6639 1388/2025 JS Tech Service Limited 23-Oct-26 R
-5093 908/2026 Juk Coeng International Holding Company 昱瑲國際控股有限公司 31-May-27
-Limited
-5283 1971/2025 Jumbo Finance Limited 浩景財務有限公司 8-Jan-27
-1820 1744/2025 Jump Credit Limited 4-Oct-26
 5667 1095/2026 Jun Teng Credit Limited 駿騰財務集團有限公司 7-May-27
 6414 1078/2026 Junfeel International Limited 雋輝國際有限公司 8-Aug-27
-3814 1963/2025 Junma Wealth Financing Limited 駿馬金融財富有限公司 19-Nov-26
+3814 1963/2025 Junma Wealth Financing Limited 駿馬金融財富有限公司 19-Nov-26 R
 5980 1053/2026 Jupica Limited 縉斯有限公司 18-May-27
 3926 207/2026 Just Finance Limited 即時融資有限公司 2-Dec-26
 3708 1991/2025 JY International Finance Limited 鑽盈國際財務有限公司 8-Dec-26 R
@@ -1210,31 +1206,31 @@ Limited
 3642 1939/2025 Kai Yuan Capital Limited 開源融資有限公司 7-Nov-26 R
 2641 580/2026 Kaiser Credit Limited 嘉信信貸有限公司 27-Feb-27
 3542 1046/2026 Kaiser Financing Company Limited 16-May-27
-4829 1195/2026 Kakafu Credit Limited 家家富信貸有限公司 15-Aug-27
+4829 1196/2026 Kakafu Credit Limited 家家富信貸有限公司 15-Aug-27
 5332 364/2026 Kar Chun Investment Company Limited 嘉雋投資有限公司 19-Mar-27
 2473 1655/2025 Karam Finance Limited 加林財務有限公司 8-Sep-26 R
-2646 1371/2025 Karl Thomson Credit Limited 高信理財有限公司 14-Aug-26 R
+2646 1375/2026 Karl Thomson Credit Limited 高信理財有限公司 14-Aug-27
 6333 1810/2025 KASH Line Limited 銅嶺有限公司 29-Nov-26
 3959 829/2026 Kasthamandap Finance Limited 12-Apr-27
 6499 1190/2026 Kayei Finance Limited 奇義瞬貸有限公司 6-Jun-27
-3564 1353/2025 KB Financial Planning Limited 宏基金融策劃有限公司 2-Jul-26 R
+3564 1286/2026 KB Financial Planning Limited 宏基金融策劃有限公司 2-Jul-27
 5424 800/2026 KB Securities Hong Kong Limited 國民證券香港有限公司 30-Apr-27
-6306 55/2026 KBP Financial Service Limited 金寶本金融服務有限公司 25-Oct-26
+6306 55/2026 KBP Financial Service Limited 金寶本金融服務有限公司 25-Oct-26 R
 2488 845/2026 KCK Finance Company Limited 浩鏗信貸理財有限公司 3-Jun-27
 5318 783/2026 KDT Finance Limited 錦德財務有限公司 7-Jul-27
 3253 1722/2025 Keen Hill Development Limited 勤山發展有限公司 4-Oct-26 R
 2205 1485/2025 Keep Gain Finance Limited 永富財務有限公司 13-Aug-26 R
 4700 100/2026 Kellett Corporate Secretarial Limited 眾安公司秘書有限公司 30-Dec-26
-30.9.2026 頁碼 Page No. : 30 總頁數 Total Pages : 59
+6210 647/2026 Kellett Financial Services Limited 5-May-27
+6638 1387/2025 Kenstand Credit Limited 榮昇信貸有限公司 23-Oct-26 R
+5328 1165/2026 Kerwin Holdings Limited 嘉暉集團有限公司 20-Aug-27
+6698 469/2026 Key Consensus Limited 21-May-27
+31.10.2026 頁碼 Page No. : 30 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-6210 647/2026 Kellett Financial Services Limited 5-May-27
-6638 1387/2025 Kenstand Credit Limited 榮昇信貸有限公司 23-Oct-26 R
-5328 1165/2026 Kerwin Holdings Limited 嘉暉集團有限公司 20-Aug-27
-6698 469/2026 Key Consensus Limited 21-May-27
 5556 1571/2025 Key Solution Venture Limited 22-Oct-26 R
 5059 957/2026 Keystone Finance Limited 翹石財務有限公司 24-Apr-27
 2768 81/2026 KG Holdings Limited 奇正集團有限公司 18-Nov-26
@@ -1244,15 +1240,14 @@ Licence No. Date
 3968 397/2026 Kin Cheng Finance Limited 金城信貸有限公司 13-Jan-27
 1002 1130/2025 King Fook Finance Company Limited 景福金融有限公司 4-Sep-26 R
 6124 1432/2025 King of Capital Company Limited 鍠尚資本有限公司 30-Sep-26 R
-4807 1356/2025 King Sun Finance Limited 京信財務有限公司 4-Jul-26 R
-1790 1578/2025 King Wong Finance Limited 建旺財務有限公司 17-Oct-26
+4807 1340/2026 King Sun Finance Limited 京信財務有限公司 4-Jul-27
 4551 659/2026 Kingdom Team Development Limited 帝滙發展有限公司 27-Apr-27
-6641 1390/2025 Kingdoms Capital Limited 景天資本有限公司 23-Oct-26
+6641 1390/2025 Kingdoms Capital Limited 景天資本有限公司 23-Oct-26 R
 4218 1323/2025 Kingkey Finance Limited 京基財務有限公司 14-Oct-26 R
 5687 1071/2026 Kings Deal Limited 帝國集團有限公司 26-May-27
 5937 685/2026 Kingship Finance Limited 景兆信貸有限公司 23-Mar-27
 6536 1908/2025 Kingston Credit Limited 擎天信貸有限公司 19-Nov-26
-1450 1215/2025 Kingston Finance Limited 金利豐財務有限公司 27-Jul-26 R
+1450 1254/2026 Kingston Finance Limited 金利豐財務有限公司 27-Jul-27
 2182 916/2026 Kingsway SW Finance Limited 滙富財務有限公司 24-Jun-27
 4576 532/2026 Kirin King Finance Limited 騏豐財務有限公司 2-Feb-27
 5341 777/2026 Kiu Fung Credit Limited 翹鋒信貸有限公司 21-Mar-27
@@ -1264,24 +1259,25 @@ Licence No. Date
 6604 0876/2025 Ko Fung World Finance Limited 高鋒環球金融有限公司 17-Jul-26 R
 3742 70/2026 Ko Shing Finance Limited 高勝財務有限公司 10-Nov-26
 3771 808/2026 Konew Capital International Limited 康業資本國際有限公司 8-May-27
-30.9.2026 頁碼 Page No. : 31 總頁數 Total Pages : 59
+4469 811/2026 Konew Fund Limited 康業融資有限公司 19-Apr-27
+4417 1899/2025 Kongwell (Hong Kong) Mortgage Limited 港隆(香港)按揭有限公司 4-Oct-26 R
+1370 1818/2025 Koon Wah Finance Company Limited 冠華財務有限公司 20-Oct-26 R
+6110 1714/2025 Kowloon Credit Limited 九龍信貸有限公司 21-Sep-26 R
+1581 1416/2025 Kowloon Development Finance Limited 九龍建業財務有限公司 20-Jul-26 R
+31.10.2026 頁碼 Page No. : 31 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-4469 811/2026 Konew Fund Limited 康業融資有限公司 19-Apr-27
-4417 1899/2025 Kongwell (Hong Kong) Mortgage Limited 港龍(香港)按揭有限公司 4-Oct-26
-1370 1818/2025 Koon Wah Finance Company Limited 冠華財務有限公司 20-Oct-26 R
-6110 1714/2025 Kowloon Credit Limited 九龍信貸有限公司 21-Sep-26 R
-1581 1416/2025 Kowloon Development Finance Limited 九龍建業財務有限公司 20-Jul-26 R
 4105 952/2026 KP Credit Gain Finance Company Limited 港佳領達財務有限公司 26-May-27
-4846 1923/2025 Kudos Holdings Limited 永亨控股有限公司 28-Nov-26
+4846 1923/2025 Kudos Holdings Limited 永亨控股有限公司 28-Nov-26 R
 6597 968/2026 KUN Credit Limited 26-Jun-27
 6690 260/2026 Kuvera Smart Data Company Limited 庫維爾數智有限公司 26-Mar-27
 5437 874/2026 KVB Vanguard Limited 昆侖百富有限公司 23-May-27
 6429 1598/2025 KW Group Holdings Limited 嘉華集團控股有限公司 26-Sep-26 R
 1335 691/2026 Kwai Hung Finance Company Limited 桂洪財務有限公司 16-Apr-27
+6741 1210/2026 Kwan O Development Company Limited 軍澳發展有限公司 8-Oct-27
 3461 38/2026 Kwok Fai Wealth Investment Limited 幗暉創富投資有限公司 20-Nov-26
 6276 1764/2025 Kwong Pak Shing Credit Limited 廣百盛信貸有限公司 15-Sep-26 R
 4503 531/2026 L & A Solutions Limited 18-Feb-27
@@ -1303,16 +1299,16 @@ Licence No. Date
 5467 1179/2026 Leading 77 Finance Limited 鉅泰77信貸有限公司 4-Jul-27
 5625 406/2026 Leading Credit Limited 晉領財務有限公司 23-Jan-27
 4497 99/2026 Leading Vantage Finance Limited 領灝財務有限公司 7-Nov-26 R
-30.9.2026 頁碼 Page No. : 32 總頁數 Total Pages : 59
+1831 1861/2025 Leahander Trading Limited 利興強貿易有限公司 27-Sep-26 R
+6155 1102/2026 Leapstart (HK) Limited 利達實力(香港)有限公司 31-May-27
+5454 1294/2026 Lee Kee Finance Limited 利記財務有限公司 20-Jun-27
+6647 1601/2025 Legacy Oak Credit Limited 栢承信貸有限公司 25-Nov-26
+31.10.2026 頁碼 Page No. : 32 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-1831 1861/2025 Leahander Trading Limited 利興強貿易有限公司 27-Sep-26 R
-6155 1102/2026 Leapstart (HK) Limited 利達實力(香港)有限公司 31-May-27
-5454 1317/2025 Lee Kee Finance Limited 利記財務有限公司 20-Jun-26 R
-6647 1601/2025 Legacy Oak Credit Limited 栢承信貸有限公司 25-Nov-26
 5230 88/2026 Legend Credit Limited 駿聯信貸有限公司 13-Nov-26
 2416 1771/2025 Lei Shing Hong Credit Limited 利星行信貸有限公司 22-Sep-26 R
 6207 1076/2026 Lemon Digital Limited 檸檬數字科技有限公司 12-May-27
@@ -1320,7 +1316,7 @@ Licence No. Date
 5627 924/2026 Let's Go Credit Limited 樂高信貸有限公司 29-Apr-27
 6480 801/2026 Level Up Finance Limited 樓昇信貸有限公司 7-May-27
 5154 1803/2025 Li An Credit Limited 利安信貸有限公司 13-Sep-26 R
-4539 1183/2025 Li Tai Investment (HK) Limited 利泰投資(香港)有限公司 4-Aug-26 R
+4539 1268/2026 Li Tai Investment (HK) Limited 利泰投資(香港)有限公司 4-Aug-27
 6487 1150/2026 Lian Hong (H.K.) Group Limited 俐安(香港)集團有限公司 30-May-27
 6619 1153/2025 Lianhua Public Financial Group (Finance) Co., 聯華大眾金融集團(財務)有限公司 9-Sep-26 R
 Limited
@@ -1343,18 +1339,19 @@ Limited
 5548 1570/2025 Long Yin Group (Hong Kong) Limited 隆印集團(香港)有限公司 22-Oct-26 R
 3998 357/2026 Long-Lasting Properties Advisors Limited 恆信物業咨詢有限公司 12-Feb-27
 3102 1629/2025 Long's Finance Company Limited 朗氏財務有限公司 3-Nov-26
-30.9.2026 頁碼 Page No. : 33 總頁數 Total Pages : 59
+3980 356/2026 Loong Wah Finance (Holdings) Limited 龍華信用財務(集團)有限公司 20-Jan-27
+6216 707/2026 LQ Capital Limited 19-May-27
+6269 1525/2025 LS Financial Planning Limited 聯星金融策劃有限公司 28-Jul-26 R
+4583 1779/2025 LTG Markets Limited 樂通全球市場有限公司 22-Sep-26 R
+31.10.2026 頁碼 Page No. : 33 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-3980 356/2026 Loong Wah Finance (Holdings) Limited 龍華信用財務(集團)有限公司 20-Jan-27
-6216 707/2026 LQ Capital Limited 19-May-27
-6269 1525/2025 LS Financial Planning Limited 聯星金融策劃有限公司 28-Jul-26 R
-4583 1779/2025 LTG Markets Limited 樂通全球市場有限公司 22-Sep-26 R
 6477 709/2026 Lu An Credit Limited 陸安信貸有限公司 2-Apr-27
 1982 1023/2026 Luckson Wealth Limited 保運佳有限公司 7-Jul-27
+6742 1211/2026 Lucky Day Hong Kong Limited 幸福日香港有限公司 8-Oct-27
 6668 1883/2025 Lucky Easy Finance Limited 幸運易財務有限公司 13-Jan-27
 4422 641/2026 Lucky Finance Limited 冠名信貸有限公司 1-Mar-27
 3639 1847/2025 Lucky Sky (HK) Industrial Limited 天福(香港)實業有限公司 5-Nov-26 R
@@ -1362,9 +1359,8 @@ Licence No. Date
 2693 1214/2026 Luk Fook Finance Company Limited 六福財務有限公司 14-Jun-27
 3290 301/2026 Lulu Tung Finance Limited 路路通財務有限公司 20-Dec-26
 4905 455/2026 LUN YU Global Credit Limited 綸羽國際信貸有限公司 25-Jan-27
-6360 1836/2025 Lungdhuwa Holding Group Limited 龍華(尼泊爾)集團有限公司 15-Oct-26
 6342 492/2026 Luxe Millennium Finance Limited 千御財務有限公司 10-Jan-27
-4801 1434/2025 Luxey International Group Limited 薈萃國際集團有限公司 30-Oct-26
+4801 1434/2025 Luxey International Group Limited 薈萃國際集團有限公司 30-Oct-26 R
 4018 358/2026 M & K Credit Limited 3-Mar-27
 4465 587/2026 M International Capital Limited 雙龍國際資本有限公司 21-Apr-27
 6696 317/2026 M One Finance Limited 9-Apr-27
@@ -1377,31 +1373,31 @@ Limited
 4453 718/2026 Make Wealthy Limited 進億財務有限公司 7-Apr-27
 5397 816/2026 Man Chong Finance Planning Limited 文創融資策劃有限公司 12-Apr-27
 2824 1153/2026 Man Fung (Finance) Limited 萬豐(金融財務)有限公司 14-Jun-27
-3392 1462/2025 Man Sang Credit Limited 民生信貸有限公司 16-Aug-26 R
+3392 1340/2026 Man Sang Credit Limited 民生信貸有限公司 16-Aug-27
 5402 838/2026 Manna Finance Limited 12-Apr-27
 3762 696/2026 Marble Capital Limited 萬邦融資有限公司 29-Apr-27
 6563 781/2026 March Ventures Limited 20-Mar-27
 3096 1891/2025 Marigold Finance Limited 萬兆豐信用財務有限公司 6-Oct-26 R
-3897 1941/2025 Mark Profit Finance Limited 百利財務有限公司 28-Oct-26
-30.9.2026 頁碼 Page No. : 34 總頁數 Total Pages : 59
+3897 1941/2025 Mark Profit Finance Limited 百利財務有限公司 28-Oct-26 R
+4531 1468/2025 Markway Finance Limited 萬威財務有限公司 21-Jul-26 R
+6187 552/2026 Master Credit Company Limited 萬事達信貸有限公司 8-Feb-27
+3828 41/2026 Master Finance Company Limited 財務達人有限公司 6-Dec-26
+2614 1351/2026 Master Tone Limited 文通有限公司 25-Aug-27
+31.10.2026 頁碼 Page No. : 34 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-4531 1468/2025 Markway Finance Limited 萬威財務有限公司 21-Jul-26 R
-6187 552/2026 Master Credit Company Limited 萬事達信貸有限公司 8-Feb-27
-3828 41/2026 Master Finance Company Limited 財務達人有限公司 6-Dec-26
-2614 1486/2025 Master Tone Limited 文通有限公司 25-Aug-26 R
 6202 1788/2025 Matrix Port Technologies (Hong Kong) 矩陣港科技有限公司 27-Sep-26 R
 Limited
 3835 546/2026 Max Charm Consultants Limited 盛卓顧問有限公司 8-Feb-27
 3698 525/2026 Max Credit Limited 友通信貸有限公司 6-Feb-27
 4632 86/2026 Max Pointer Limited 萬滙有限公司 24-Nov-26
-6439 122/2026 Max Sino Limited 美恩有限公司 7-Nov-26
+6439 122/2026 Max Sino Limited 美恩有限公司 7-Nov-26 R
 4082 325/2026 Max View Finance Limited 景豐財務有限公司 28-Dec-26
 4878 422/2026 Maxcess Finance Limited 至成財務有限公司 16-Mar-27
-3015 1373/2025 Maxcolm Finance Limited 尚誠融資有限公司 21-Aug-26 R
+3015 1283/2026 Maxcolm Finance Limited 尚誠融資有限公司 21-Aug-27
 3515 806/2026 Maxi Chain Limited 9-Apr-27
 6424 1695/2025 MCFL (Group) Limited 京港財富(集團)有限公司 14-Sep-26 R
 3506 192/2026 Medwin Financial Planning Limited 萬潤財務策劃有限公司 10-Jan-27
@@ -1410,7 +1406,7 @@ Limited
 4690 835/2026 Mega Prosperity (Hong Kong) Finance 景盛(香港)財務有限公司 20-Apr-27
 Limited
 3358 849/2026 Megabond Finance Limited 萬嘉寶財務有限公司 5-Jun-27
-3603 1295/2025 Megawealth Mortgage Financing Company 萬寶按揭融資有限公司 10-Sep-26 R
+3603 1308/2026 Megawealth Mortgage Financing Company 萬寶按揭融資有限公司 10-Sep-27
 Limited
 6509 1036/2026 Mei Lik Ho Finance Limited 美力好財務有限公司 25-Jul-27
 4642 135/2026 Melody Finance Limited 金麗財務有限公司 29-Nov-26 R
@@ -1425,24 +1421,23 @@ Limited
 5624 330/2026 Might Winner Limited 富潤有限公司 14-Jan-27
 5881 311/2026 Mileage Finance Company Limited 理程財務有限公司 21-Jan-27
 3335 268/2026 Million Asia Finance Co. Limited 萬亞財務有限公司 3-Jan-27
-30.9.2026 頁碼 Page No. : 35 總頁數 Total Pages : 59
+5663 1052/2026 Million Lai Investment Limited 萬澧投資有限公司 7-May-27
+6305 1834/2025 Million Well Finance Limited 萬好財務有限公司 22-Sep-26 R
+6567 747/2026 Millionaire Finance Limited 百萬財務有限公司 20-Mar-27
+2389 1460/2025 Minehead Finance Limited 萬合財務有限公司 22-Jul-26 R
+31.10.2026 頁碼 Page No. : 35 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-5663 1052/2026 Million Lai Investment Limited 萬澧投資有限公司 7-May-27
-6305 1834/2025 Million Well Finance Limited 萬好財務有限公司 22-Sep-26 R
-6567 747/2026 Millionaire Finance Limited 百萬財務有限公司 20-Mar-27
-2389 1460/2025 Minehead Finance Limited 萬合財務有限公司 22-Jul-26 R
 1423 692/2026 Ming Fong Finance Company Limited 明方財務有限公司 18-May-27
 4778 570/2026 Minghing Finance (HK) Limited 明興財務(香港)有限公司 25-Feb-27
 6673 18/2026 Mingsing Finance Company Limited 明陞財務有限公司 3-Feb-27
-6449 222/2026 Miracle Cash Company Limited 14-Dec-26
 5700 1166/2026 Mirae Asset Securities (HK) Limited 未來資產證券(香港)有限公司 2-Jul-27
 5338 614/2026 Miss Loyalty Credit Limited 平安信貸有限公司 21-Mar-27
 664 78/2026 Mitsubishi HC Capital (Hong Kong) Limited 三菱和誠金融(香港)有限公司 17-Nov-26
-5491 1450/2025 Modern Dynasty Limited 順京有限公司 15-Aug-26 R
+5491 1363/2026 Modern Dynasty Limited 順京有限公司 15-Aug-27
 6175 461/2026 Modern International Hong Kong Limited 現代國際香港有限公司 15-Feb-27
 5673 741/2026 Moka Capital Limited 摩卡資本有限公司 19-May-27
 5651 945/2026 Money Book International Company Limited 紅簿仔國際有限公司 7-May-27
@@ -1454,8 +1449,7 @@ Licence No. Date
 5817 72/2026 Money Time Credit Service Limited 萬利貸財務有限公司 5-Nov-26
 6495 929/2026 Money Zone Limited 富領財務有限公司 30-May-27
 6432 1860/2025 Moneyhill Capital Limited 錢峰資本有限公司 3-Oct-26 R
-4513 1355/2025 MoneyMonkey Limited 30-Jun-26 R
-6728 900/2026 MoneyPlus Capital Limited 添富資本有限公司 28-Jul-27
+4513 1314/2026 MoneyMonkey Limited 30-Jun-27
 4468 698/2026 Moneysq Limited 錢匯有限公司 19-Apr-27
 5009 683/2026 Monster International Limited 8-Mar-27
 6448 928/2026 Mont Blanc Capital Management Asia Limited 勃朗峰資產管理亞洲有限公司 26-Jun-27
@@ -1464,18 +1458,18 @@ Licence No. Date
 5999 120/2026 More Money Credit Limited 錢多多信貸有限公司 19-Nov-26
 4567 1588/2025 Morgan Finance Limited 萬基財務有限公司 30-Aug-26 R
 6561 354/2026 Morning Credit Finance Limited 早晨信貸有限公司 6-Mar-27
-30.9.2026 頁碼 Page No. : 36 總頁數 Total Pages : 59
-放債人牌照號碼 牌照屆滿日
-檔案號碼 英文名稱 中文名稱 備註 #
-Money Lender's Licence Expiry
-MLR No. English Name Chinese Name Remarks
-Licence No. Date
 4480 774/2026 Morning Dew Finance Limited 甘露財務有限公司 26-Apr-27
 4709 363/2026 Mortgage 360 Limited 按揭360有限公司 7-Mar-27
 6313 1766/2025 Mortgage Credit Services Limited 按揭信貸有限公司 25-Oct-26 R
 6394 1001/2026 Moving Up Credit Limited 23-May-27
 4369 418/2026 Mr Money Credit Limited 錢淘信貸有限公司 26-Jan-27
 6068 1342/2025 Mr Right Credit Company Limited 白武士信貸有限公司 12-Aug-26 R
+31.10.2026 頁碼 Page No. : 36 總頁數 Total Pages : 59
+放債人牌照號碼 牌照屆滿日
+檔案號碼 英文名稱 中文名稱 備註 #
+Money Lender's Licence Expiry
+MLR No. English Name Chinese Name Remarks
+Licence No. Date
 5320 813/2026 Mr Right Finance Limited 26-Mar-27
 6182 1737/2025 Mr.Finance Limited 16-Dec-26
 3699 474/2026 Multichase International (Finance) Limited 天億國際(財務)有限公司 11-Feb-27
@@ -1487,7 +1481,7 @@ Licence No. Date
 3005 935/2026 National Industrial and Commercial Credit 國民工商信貸有限公司 22-May-27
 Limited
 1835 1770/2025 National Resources Capital Limited 中潤融資有限公司 31-Oct-26 R
-1666 1/2026 National Resources Corporate Finance Limited 中潤企業財務有限公司 29-Dec-26
+1666 1/2026 National Resources Corporate Finance Limited 中潤企業財務有限公司 29-Dec-26 R
 2662 1772/2025 National Resources Properties Mortgage 中潤物業按揭有限公司 15-Nov-26 R
 Limited
 4357 398/2026 Neo Consumer Finance Limited 小牛普惠財務有限公司 14-Jan-27
@@ -1495,42 +1489,38 @@ Limited
 3669 232/2026 Nepal Finance Limited 12-Dec-26
 3187 336/2026 Net Pacific Finance Group Limited 利通太平洋財務集團有限公司 23-Dec-26
 6114 1505/2025 New Capital Group Limited 新資本集團有限公司 8-Sep-26 R
-3435 1489/2025 New Century Credit Services Co., Limited 新世紀信貸有限公司 11-Oct-26
 4736 852/2026 New Century Finance Limited 新世紀財務有限公司 13-Apr-27
 2982 1845/2025 New Horizon Finance (HK) Limited 新域融資(香港)有限公司 27-Nov-26 R
 3180 1892/2025 New Power Finance Company Limited 新力融資有限公司 14-Dec-26 R
 6503 1057/2026 New Region Credit Limited 恒盛信貸有限公司 27-Jun-27
-4241 1545/2025 New Times Finance Limited 新時代財務有限公司 15-Oct-26
 819 1982/2025 New Town (N.T.) Properties Finance 12-Nov-26 R
 Company Limited
 1107 186/2026 New World Finance Company Limited 新世界金融有限公司 22-Nov-26 R
 4670 377/2026 Neway Credit Limited 新一代信貸有限公司 3-Jan-27
-6493 895/2026 Newbie Finance Company Limited 信置財務有限公司 21-May-27
-30.9.2026 頁碼 Page No. : 37 總頁數 Total Pages : 59
-放債人牌照號碼 牌照屆滿日
-檔案號碼 英文名稱 中文名稱 備註 #
-Money Lender's Licence Expiry
-MLR No. English Name Chinese Name Remarks
-Licence No. Date
 5882 725/2026 Nexus Capital Management (HK) Limited 裕豐資產管理香港有限公司 30-May-27
-2159 145/2026 NH Investment & Securities (H.K.) Limited 農協投資證券(香港)有限公司 20-Nov-26
-5579 200/2026 NI Financial Technology Limited 21-Nov-26
+2159 145/2026 NH Investment & Securities (H.K.) Limited 農協投資證券(香港)有限公司 20-Nov-26 R
+5579 200/2026 NI Financial Technology Limited 21-Nov-26 R
 5420 1856/2025 Nic Sang Credit Limited 力生信貸有限公司 17-Sep-26 R
 4017 639/2026 Nic Sang Finance Company Limited 力生金融有限公司 3-Mar-27
 5769 1758/2025 Nineway Credit Limited 九方信貸有限公司 10-Sep-26 R
 3894 1822/2025 Nishikawa Finance Limited 西川信貸有限公司 21-Oct-26 R
 4604 1852/2025 Nishikawa Properties Finance Limited 西川物業信貸有限公司 11-Oct-26 R
 4847 1498/2025 Noah Financial Services (Hong Kong) Limited 諾亞金融服務(香港)有限公司 31-Aug-26 R
-4315 212/2026 Noble Ample Limited 卓福有限公司 15-Dec-26
+31.10.2026 頁碼 Page No. : 37 總頁數 Total Pages : 59
+放債人牌照號碼 牌照屆滿日
+檔案號碼 英文名稱 中文名稱 備註 #
+Money Lender's Licence Expiry
+MLR No. English Name Chinese Name Remarks
+Licence No. Date
+4315 212/2026 Noble Ample Limited 卓福有限公司 15-Dec-26 R
 3718 675/2026 Noble Century Finance Limited 仁瑞財務有限公司 25-Feb-27
 1843 1535/2025 Noble Fund Limited 樂寶財務有限公司 17-Oct-26 R
 6453 14/2026 Noble Win Capital Limited 博盈資本有限公司 11-Jan-27
 6531 92/2026 Nova Innovation Limited 諾華財務(香港)有限公司 7-Nov-26
-6664 1842/2025 Nova Lend Finance Limited 6-Jan-27
+6664 1842/2025 Nova Lend Finance Limited 6-Jan-27 R
 6615 1134/2025 Nova Origin HK Limited 星原香港有限公司 4-Sep-26 R
-6636 1437/2025 Novarise Technologies Limited 香港諾瑞思科技有限公司 30-Oct-26
 3067 971/2026 Novel Day Credit Limited 新天信貸有限公司 16-Jun-27
-6443 0721/2025 NTL Credit Limited 17-Jun-26 R
+6443 1274/2026 NTL Credit Limited 17-Jun-27
 2452 228/2026 NWS (Finance) Limited 新創建(財務)有限公司 14-Jan-27
 4298 1705/2025 O O K Finance Company Limited 好好景財務有限公司 26-Nov-26 R
 5239 89/2026 Oasis Credit Limited 綠洲信貸有限公司 13-Nov-26
@@ -1545,27 +1535,27 @@ Licence No. Date
 6233 1018/2026 Odeer Limited 17-May-27
 6426 1812/2025 Oi Wah Capital Limited 靄華資本有限公司 19-Sep-26 R
 4127 1089/2026 Oi Wah Credit Limited 靄華信貸有限公司 23-Jun-27
-30.9.2026 頁碼 Page No. : 38 總頁數 Total Pages : 59
-放債人牌照號碼 牌照屆滿日
-檔案號碼 英文名稱 中文名稱 備註 #
-Money Lender's Licence Expiry
-MLR No. English Name Chinese Name Remarks
-Licence No. Date
 4271 111/2026 Oi Wah Mortgage Limited 靄華按揭有限公司 10-Nov-26 R
 2632 749/2026 Oi Wah Pawnshop Credit Limited 靄華押業信貸有限公司 17-May-27
 3975 437/2026 Oi Wah Property Credit Limited 靄華物業信貸有限公司 20-Jan-27
 6519 1696/2025 OK Limited 高企香港有限公司 26-Sep-26 R
-4292 153/2026 OKG Financial Services Limited 歐科雲鏈金融服務有限公司 19-Nov-26
+4292 153/2026 OKG Financial Services Limited 歐科雲鏈金融服務有限公司 19-Nov-26 R
 6413 1507/2025 Olea Global (Hong Kong) Limited 浩立環球(香港)有限公司 27-Jul-26 R
 5677 1099/2026 On Car Capital Limited 上車資本有限公司 19-May-27
 4050 246/2026 On Yat Finance Company Limited 安逸財務有限公司 23-Feb-27
 3915 547/2026 On Yip Finance Limited 安業信貸有限公司 3-Mar-27
 4046 753/2026 Once Finance Limited 香港快捷財務有限公司 31-Mar-27
+31.10.2026 頁碼 Page No. : 38 總頁數 Total Pages : 59
+放債人牌照號碼 牌照屆滿日
+檔案號碼 英文名稱 中文名稱 備註 #
+Money Lender's Licence Expiry
+MLR No. English Name Chinese Name Remarks
+Licence No. Date
 6239 1213/2025 One Fortune Credit Limited 壹元信貸有限公司 18-Sep-26 R
 5803 1929/2025 One Ocean Consultant Limited 3-Nov-26 R
-1014 1193/2026 Onshine Finance Limited 朗盈信貸有限公司 6-Jun-27
+1014 1192/2026 Onshine Finance Limited 朗盈信貸有限公司 6-Jun-27
 5090 855/2026 Open Credit (Hong Kong) Limited 開拓信貸(香港)有限公司 27-Apr-27
-2904 1294/2025 Opulence Credit Limited 富譽財務有限公司 20-Jun-26 R
+2904 1257/2026 Opulence Credit Limited 富譽財務有限公司 20-Jun-27
 3933 150/2026 Opus Credit Limited 創富信貸財務有限公司 9-Dec-26 R
 3615 1491/2025 Orchard Finance Limited 汛霐財務有限公司 19-Sep-26 R
 4450 548/2026 Oriental FA Limited 東方融資有限公司 31-Mar-27
@@ -1578,36 +1568,36 @@ Licence No. Date
 3258 472/2026 Oshidori Citizens Money Lending Corporation 威華達民眾財務有限公司 2-Mar-27
 Limited
 5472 1568/2025 Oyster Pie Solutions Limited 傲派科技有限公司 22-Aug-26 R
-4524 1104/2025 P L Technology Limited 12-Jul-26 R
+4524 1359/2026 P L Technology Limited 12-Jul-27
 4864 1687/2025 P.B. Credit Limited 倍搏信貸有限公司 21-Sep-26 R
 6475 649/2026 PA Financial Services Limited 21-Mar-27
 4000 606/2026 Pace Credit Limited 百百信貸有限公司 26-Apr-27
 914 0490/2017 Pacific Ace Finance Limited 盈菲國際(財務)有限公司 22-Apr-18 R
 6534 1650/2025 Pagsmile HK Limited 19-Nov-26 R
 4213 1401/2025 Pak Ling Finance Limited 栢凌財務有限公司 15-Sep-26 R
-30.9.2026 頁碼 Page No. : 39 總頁數 Total Pages : 59
-放債人牌照號碼 牌照屆滿日
-檔案號碼 英文名稱 中文名稱 備註 #
-Money Lender's Licence Expiry
-MLR No. English Name Chinese Name Remarks
-Licence No. Date
 6252 1188/2026 Pak On Finance Limited 百安財務有限公司 31-May-27
 6468 668/2026 Pak Tak Credit Company Limited 栢德信貸有限公司 5-Mar-27
 5761 16/2026 Paklin Credit Limited 百年信貸有限公司 3-Feb-27
 2095 430/2026 PAL Finance Limited 亞洲企業財務有限公司 5-Feb-27
 2775 371/2026 Pan Asian Mortgage Company Limited 宏亞按揭證券有限公司 27-Jan-27
-6136 32/2026 Panda Credit Limited 熊貓信貸有限公司 2-Nov-26
+6136 32/2026 Panda Credit Limited 熊貓信貸有限公司 2-Nov-26 R
 4211 1751/2025 Panda Finance Limited 熊貓財務有限公司 10-Sep-26 R
-6598 0728/2025 Pantheum Finance Limited 臻盛金融有限公司 17-Jun-26 R
-3579 1221/2025 Pao Sing Far East Company Limited 寶盛遠東有限公司 30-Jul-26 R
+6598 1275/2026 Pantheum Finance Limited 臻盛金融有限公司 17-Jun-27
+3579 1287/2026 Pao Sing Far East Company Limited 寶盛遠東有限公司 30-Jul-27
 6613 1039/2025 Paochu Wealth Management Limited 寶鉅財富管理有限公司 19-Aug-26 R
-3986 43/2026 Paramount Credit (H.K.) Limited 譽高信貸(香港)有限公司 30-Nov-26
+31.10.2026 頁碼 Page No. : 39 總頁數 Total Pages : 59
+放債人牌照號碼 牌照屆滿日
+檔案號碼 英文名稱 中文名稱 備註 #
+Money Lender's Licence Expiry
+MLR No. English Name Chinese Name Remarks
+Licence No. Date
+3986 43/2026 Paramount Credit (H.K.) Limited 譽高信貸(香港)有限公司 30-Nov-26 R
 3950 209/2026 Parklane Mortgage Services Limited 栢麗按揭服務有限公司 18-Dec-26
 3305 635/2026 Parkson International Finance Limited 百事信國際財務有限公司 28-Feb-27
-3682 269/2026 Parkville Financial Limited 栢滙金融有限公司 10-Dec-26
+3682 269/2026 Parkville Financial Limited 栢滙金融有限公司 10-Dec-26 R
 5529 1874/2025 PassTo Credit Limited 26-Sep-26 R
 6271 1077/2026 Payful Link Limited 28-Jul-27
-3230 1330/2025 PBL Finance (Hong Kong) Limited 28-Jul-26 R
+3230 1344/2026 PBL Finance (Hong Kong) Limited 28-Jul-27
 5982 1101/2026 PeakOne Capital Management Limited 鑄峰資產管理有限公司 25-May-27
 6683 93/2026 Pearl Finance Limited 明珠金融有限公司 10-Mar-27
 3956 98/2026 Perfect Credit Limited 百老匯信貸有限公司 23-Dec-26 R
@@ -1615,34 +1605,34 @@ Licence No. Date
 4400 1365/2025 PFH Finance Limited 未來發展財務有限公司 21-Oct-26 R
 1944 1042/2026 Phillip Finance (HK) Limited 輝立財務(香港)有限公司 21-May-27
 5586 308/2026 Photon Dance Credit Limited 光子躍動信貸有限公司 12-Dec-26
-6189 0784/2025 Piggy Limited 飛天豬有限公司 26-Jun-26 R
+6189 1272/2026 Piggy Limited 飛天豬有限公司 26-Jun-27
 4921 214/2026 Pine International Holdings Limited 松栢國際集團有限公司 28-Nov-26
 3495 1112/2026 Pinestone Capital Group Limited 鼎石資本集團有限公司 8-Sep-27
-6166 1976/2025 Pinnacle Credit Management Limited 港鑫信貸有限公司 4-Jan-27
+6166 1976/2025 Pinnacle Credit Management Limited 港鑫信貸有限公司 4-Jan-27 R
 6609 1111/2026 Pinnacle International Capital Limited 領峰國際資本有限公司 30-Jul-27
 6556 517/2026 Planet Credit Limited 星際信貸有限公司 18-Feb-27
 2464 599/2026 Planetic International Limited 24-Feb-27
 2091 1024/2026 Platinum Capital Limited 百德能融資有限公司 8-May-27
 6104 1555/2025 Platinum Credit (HK) Limited 鉑誠(香港)有限公司 25-Aug-26 R
-30.9.2026 頁碼 Page No. : 40 總頁數 Total Pages : 59
-放債人牌照號碼 牌照屆滿日
-檔案號碼 英文名稱 中文名稱 備註 #
-Money Lender's Licence Expiry
-MLR No. English Name Chinese Name Remarks
-Licence No. Date
 6730 933/2026 Plentir Finance Limited 盈豐金融有限公司 4-Aug-27
 6539 255/2026 PletCap Financial Services Limited 派雷金融服務有限公司 28-Nov-26
-4150 1399/2025 Plouto Capital Limited 博圖資產管理有限公司 21-Jul-26 R
-5716 1339/2025 Plutus & Guardians Capital Limited 18-Aug-26 R
+4150 1380/2026 Plouto Capital Limited 博圖資產管理有限公司 21-Jul-27
+5716 1338/2026 Plutus & Guardians Capital Limited 18-Aug-27
 4389 630/2026 PMC Company Limited 置業按揭顧問有限公司 9-Jun-27
 5786 1858/2025 Po Fung Finance (Personal Loan) Limited 寶灃信貸(私人貸款)有限公司 17-Sep-26 R
 4035 716/2026 Po Fung Finance Limited 寶灃信貸有限公司 19-Mar-27
 1643 1768/2025 Po Kay Securities & Shares Company Limited 步基證券有限公司 22-Nov-26 R
 4858 1855/2025 Po Man Investments Limited 寶文投資有限公司 14-Sep-26 R
 383 863/2026 Po Tung Loan And Land Investment Limited 寶通貸款置業有限公司 12-Apr-27
-2858 1137/2025 Pofair Limited 普暉有限公司 28-Jul-26 R
-4226 1778/2025 Poly Auction (Hong Kong) Limited 保利香港拍賣有限公司 8-Oct-26
-4903 47/2026 Polymay Finance Limited 寶美金融有限公司 2-Nov-26
+31.10.2026 頁碼 Page No. : 40 總頁數 Total Pages : 59
+放債人牌照號碼 牌照屆滿日
+檔案號碼 英文名稱 中文名稱 備註 #
+Money Lender's Licence Expiry
+MLR No. English Name Chinese Name Remarks
+Licence No. Date
+2858 1305/2026 Pofair Limited 普暉有限公司 28-Jul-27
+4226 1778/2025 Poly Auction (Hong Kong) Limited 保利香港拍賣有限公司 8-Oct-26 R
+4903 47/2026 Polymay Finance Limited 寶美金融有限公司 2-Nov-26 R
 2302 651/2026 Polynice Limited 寶力有限公司 5-Mar-27
 4768 1067/2026 Polytec Finance Company Limited 保利達財務有限公司 23-May-27
 6409 13/2026 Porter Capital Limited 寶達資本有限公司 12-Dec-26
@@ -1650,74 +1640,76 @@ Licence No. Date
 3387 1219/2026 Power Cash Finance Limited 陞滙財務有限公司 16-Aug-27
 6479 894/2026 Power Corporate Services Limited 柏樺企業服務有限公司 16-Apr-27
 5298 626/2026 Power Sky Enterprises (HK) Limited 力天企業(香港)有限公司 19-Feb-27
-5019 1315/2025 Powerful Credit Limited 信安心財務有限公司 17-Aug-26 R
+5019 1269/2026 Powerful Credit Limited 信安心財務有限公司 17-Aug-27
 6640 1389/2025 Praccons Finance Limited 財福寶信貸有限公司 23-Oct-26 R
 1550 915/2026 Preamble Properties Finance Limited 銀寶物業按揭有限公司 18-May-27
 3796 375/2026 Premier Capital Management Limited 尊貴融資有限公司 7-Jan-27
 3308 337/2026 Premier Finance Limited 卓越財務有限公司 7-Feb-27
-4714 1403/2025 Premier Financial Limited 優越信貸有限公司 5-Jul-26 R
+4714 1361/2026 Premier Financial Limited 優越信貸有限公司 5-Jul-27
 5018 660/2026 Premier Leading Company Limited 浩存有限公司 13-Mar-27
 6666 1881/2025 Premium Focus Finance Limited 優駿金融有限公司 13-Jan-27
 5392 740/2026 Presitge Financial Limited 拔萃信貸有限公司 12-Apr-27
 6206 893/2026 Prestige Credit Company Limited 瀚通貸有限公司 28-Apr-27
 5869 572/2026 Prestige Development Credit Limited 卓玥發展信貸有限公司 7-Jan-27
 3667 887/2026 Prestige Finance Limited 優越按揭財務有限公司 24-May-27
-4895 1966/2025 Prime Decent Finance Limited 首選財務有限公司 19-Oct-26
-30.9.2026 頁碼 Page No. : 41 總頁數 Total Pages : 59
+4895 1966/2025 Prime Decent Finance Limited 首選財務有限公司 19-Oct-26 R
+4474 920/2026 Prime Investments (HK) Limited 八方投資(香港)有限公司 26-Apr-27
+4054 608/2026 PrimeCredit Limited 安信信貸有限公司 14-Apr-27
+4993 590/2026 Prince Wellington Capital Limited 太子金融有限公司 15-Feb-27
+3944 24/2026 Priority One Credit Limited 進壹信貸有限公司 16-Dec-26 R
+6350 350/2026 Proactive Asset Limited 名彩資產有限公司 17-Jan-27
+6043 1268/2025 Proceeds Capital Limited 保捷鍶資本有限公司 10-Aug-26 R
+3377 1355/2026 Profit Come Enterprises Limited 富臨企業有限公司 17-Jul-27
+6073 1504/2025 Profit Credit Limited 盈海信貸有限公司 24-Aug-26 R
+4182 1194/2026 Profit Harvest Credit Service Limited 盈豐財務有限公司 18-Aug-27
+6196 629/2026 Profit In Asset Limited 盈溢資本有限公司 3-Mar-27
+31.10.2026 頁碼 Page No. : 41 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-4474 920/2026 Prime Investments (HK) Limited 八方投資(香港)有限公司 26-Apr-27
-4054 608/2026 PrimeCredit Limited 安信信貸有限公司 14-Apr-27
-4993 590/2026 Prince Wellington Capital Limited 太子金融有限公司 15-Feb-27
-3944 24/2026 Priority One Credit Limited 進壹信貸有限公司 16-Dec-26
-6350 350/2026 Proactive Asset Limited 名彩資產有限公司 17-Jan-27
-6043 1268/2025 Proceeds Capital Limited 保捷鍶資本有限公司 10-Aug-26 R
-3377 1422/2025 Profit Come Enterprises Limited 富臨企業有限公司 17-Jul-26 R
-6073 1504/2025 Profit Credit Limited 盈海信貸有限公司 24-Aug-26 R
-4182 1194/2026 Profit Harvest Credit Service Limited 盈豐財務有限公司 18-Aug-27
-6196 629/2026 Profit In Asset Limited 盈溢資本有限公司 3-Mar-27
-6028 1251/2025 Profit Mall Capital Limited 利豐金融有限公司 20-Jul-26 R
-4237 1920/2025 Profit Management Limited 保利管理有限公司 13-Oct-26
+3516 1371/2026 Profit Link Finance Company Limited 盈庫財務有限公司 22-Oct-27
+6028 1406/2026 Profit Mall Capital Limited 利豐金融有限公司 20-Jul-27
+4237 1920/2025 Profit Management Limited 保利管理有限公司 13-Oct-26 R
 5193 1804/2025 Profit Rich Credit Limited 富利達信貸有限公司 4-Oct-26 R
 4012 270/2026 Profit Speed Resources Management Limited 利浚資源管理有限公司 26-Feb-27
 6153 91/2026 Profitto Services Limited 普利高服務有限公司 14-Dec-26
 6366 666/2026 Promax Credit Limited 至盈信貸有限公司 28-Feb-27
-6127 1932/2025 Prominent Credit Limited 名成信貸有限公司 5-Oct-26
+6127 1932/2025 Prominent Credit Limited 名成信貸有限公司 5-Oct-26 R
 3511 695/2026 Prominent Investment Holding Limited 卓爾金融集團有限公司 28-Mar-27
 1346 804/2026 Promise (Hong Kong) Co., Limited 邦民日本財務(香港)有限公司 23-Jun-27
 4935 1996/2025 Property Finance Limited 物業信貸有限公司 7-Dec-26
 4938 589/2026 Prospects Group Limited 22-Feb-27
 2968 1746/2025 Prosper Finance Limited 建富財務有限公司 27-Sep-26 R
 4845 1564/2025 Prosper Time Investments Limited 威同投資有限公司 5-Sep-26 R
-5540 1904/2025 Prosperity Credit Limited 安盛信貸有限公司 8-Oct-26
+6754 1419/2026 Prosperity Capital Limited 智領資本有限公司 29-Oct-27
+5540 1904/2025 Prosperity Credit Limited 安盛信貸有限公司 8-Oct-26 R
 4791 1092/2026 Prosperity International (Asia) Limited 敖昇(亞洲)有限公司 20-Jun-27
-3612 1425/2025 Prosperous Finance Limited 盛世財務有限公司 24-Sep-26 R
+3612 1378/2026 Prosperous Finance Limited 盛世財務有限公司 24-Sep-27
 5702 1147/2026 Proud Credit Limited 傲進信貸有限公司 4-Jun-27
 3604 1631/2025 Provenance Finance Company Limited 三峯財務有限公司 10-Sep-26 R
 5747 1709/2025 Prowin Capital Management Limited 瀛富資產管理有限公司 8-Sep-26 R
 4566 479/2026 Prudential Credit Asia Limited 信誠信貸亞洲有限公司 2-Mar-27
-5146 1448/2025 PT Finance Limited 保德財務有限公司 19-Jul-26 R
+5146 1383/2026 PT Finance Limited 保德財務有限公司 19-Jul-27
 6693 263/2026 PTR Company Limited 26-Mar-27
 6656 1741/2025 Public Global Credit Limited 大眾環球信貸有限公司 30-Dec-26
-30.9.2026 頁碼 Page No. : 42 總頁數 Total Pages : 59
+6191 1646/2025 Public Investment Group Limited 6-Sep-26 R
+6006 927/2026 Purple Potato Finance Limited 紫薯融資有限公司 15-Jun-27
+5644 858/2026 Q Finance Limited 迅貸站有限公司 5-May-27
+3260 1988/2025 QL Credit Gain Finance Company Limited 乾隆領達財務有限公司 1-Nov-26 R
+4854 1965/2025 Quality Capital Limited 品質資本有限公司 15-Oct-26 R
+1152 1278/2026 Quam Finance Limited 華富建業財務有限公司 29-Jun-27
+6471 670/2026 Queenston Finance Limited 均德財務有限公司 7-Mar-27
+6574 966/2026 Quester Credit Limited 24-Apr-27
+31.10.2026 頁碼 Page No. : 42 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-6191 1646/2025 Public Investment Group Limited 6-Sep-26 R
-6006 927/2026 Purple Potato Finance Limited 紫薯融資有限公司 15-Jun-27
-5644 858/2026 Q Finance Limited 迅貸站有限公司 5-May-27
-3260 1988/2025 QL Credit Gain Finance Company Limited 乾隆領達財務有限公司 1-Nov-26
-4854 1965/2025 Quality Capital Limited 品質資本有限公司 15-Oct-26
-1152 1328/2025 Quam Finance Limited 華富建業財務有限公司 29-Jun-26 R
-6471 670/2026 Queenston Finance Limited 均德財務有限公司 7-Mar-27
-6574 966/2026 Quester Credit Limited 24-Apr-27
 5389 1145/2026 Quester Financing Limited 群思德財務有限公司 25-May-27
-5543 30/2026 Quick Silver Credit Limited 滙銀信貸有限公司 8-Oct-26
+5543 30/2026 Quick Silver Credit Limited 滙銀信貸有限公司 8-Oct-26 R
 6699 334/2026 Quikeen Finance Limited 迅智財務有限公司 14-Apr-27
 4681 378/2026 Qupital Limited 橋彼道有限公司 17-Jan-27
 4202 1666/2025 R8 Limited 1-Sep-26 R
@@ -1725,12 +1717,12 @@ Licence No. Date
 4311 271/2026 Rainbow International (HK) Holdings Limited 彩虹國際(香港)控股有限公司 8-Dec-26
 3622 1868/2025 Rainbow Mortgage Services Limited 彩虹按揭服務有限公司 8-Oct-26 R
 5111 977/2026 Raise Success Limited 28-Jun-27
-6506 1458/2025 Rally Credit Company Limited 華立信貸有限公司 18-Jul-26 R
+6506 1299/2026 Rally Credit Company Limited 華立信貸有限公司 18-Jul-27
 1349 950/2026 Rank Ace Finance Limited 23-Jun-27
-6362 1620/2025 Ranking Finance Limited 弘景財務有限公司 26-Sep-26 R
+6362 1411/2026 Ranking Finance Limited 弘景財務有限公司 26-Sep-27
 5367 814/2026 Rapyd HK Limited 28-Mar-27
 6659 1814/2025 RCF Capital Limited 富昌資本有限公司 30-Dec-26
-5544 1927/2025 Real Heart Credit Corporation Limited 真心信貸集團有限公司 8-Oct-26
+5544 1927/2025 Real Heart Credit Corporation Limited 真心信貸集團有限公司 8-Oct-26 R
 3991 567/2026 Realord Finance Limited 偉祿融資服務有限公司 5-Feb-27
 6304 1619/2025 RecFin Limited 睿融有限公司 29-Sep-26 R
 4848 1754/2025 Red Eagle Finance Limited 漢英財務有限公司 7-Sep-26 R
@@ -1740,21 +1732,21 @@ Licence No. Date
 2203 1654/2025 Reliance Capital Finance Limited 信心資本財務有限公司 21-Aug-26 R
 3079 1660/2025 Reliance Credit Limited 信心財務有限公司 25-Aug-26 R
 5638 535/2026 Reloan Finance Company Limited 網富財務有限公司 29-Apr-27
-6512 1321/2025 Remo Credit Company Limited 網通貸財務有限公司 5-Sep-26 R
-30.9.2026 頁碼 Page No. : 43 總頁數 Total Pages : 59
-放債人牌照號碼 牌照屆滿日
-檔案號碼 英文名稱 中文名稱 備註 #
-Money Lender's Licence Expiry
-MLR No. English Name Chinese Name Remarks
-Licence No. Date
+6512 1415/2026 Remo Credit Company Limited 網通貸財務有限公司 5-Sep-27
 4914 1729/2025 Remo Credit Service Limited 網通貸信貸有限公司 9-Nov-26 R
-4134 1261/2025 Rende Finance Limited 仁德信貸財務有限公司 30-Jun-26 R
+4134 1238/2026 Rende Finance Limited 仁德信貸財務有限公司 30-Jun-27
 3766 697/2026 Rich Credit Finance Limited 富鏘財務(香港)有限公司 29-Apr-27
 5631 275/2026 Rich Credit Limited 達必發信貸有限公司 21-Jan-27
 5983 1182/2026 Rich Ever (China) Limited 永富(中國)有限公司 27-May-27
 4013 527/2026 Rich Glory International Investment Limited 達隆國際投資有限公司 26-Feb-27
 2634 969/2026 Rich Ocean Asia Finance Limited 富洋亞洲財務有限公司 2-May-27
 3741 584/2026 Rich Silver Finance Limited 銀富財務有限公司 1-Apr-27
+31.10.2026 頁碼 Page No. : 43 總頁數 Total Pages : 59
+放債人牌照號碼 牌照屆滿日
+檔案號碼 英文名稱 中文名稱 備註 #
+Money Lender's Licence Expiry
+MLR No. English Name Chinese Name Remarks
+Licence No. Date
 5611 923/2026 Rich Star Finance Limited 富星財務有限公司 2-Jan-27
 3609 937/2026 Rich Top Finance Limited 達成財務有限公司 14-Jun-27
 6442 1952/2025 Rich Top Global Finance Limited 天一環球金融信貸有限公司 16-Nov-26 R
@@ -1762,13 +1754,13 @@ Licence No. Date
 2071 189/2026 Riches Investments Limited 富誼投資有限公司 12-Dec-26
 5753 1710/2025 Richfund Capital Limited 盈富資金有限公司 8-Sep-26 R
 2890 600/2026 Richly Regent Limited 富利行有限公司 23-Feb-27
-4599 1684/2025 Right Capital Limited 錦佑資本有限公司 13-Oct-26
-3262 1775/2025 Right King Credit Company Limited 滙金信貸有限公司 18-Oct-26
+4599 1684/2025 Right Capital Limited 錦佑資本有限公司 13-Oct-26 R
+3262 1775/2025 Right King Credit Company Limited 滙金信貸有限公司 18-Oct-26 R
 3715 544/2026 Rising Star Investment International Limited 匯星投資國際有限公司 20-Feb-27
 6573 782/2026 River Finance Limited 24-Apr-27
-6587 0706/2025 Rock Finance Limited 堅石財務有限公司 12-Jun-26 R
-6634 1436/2025 Rock Solid Asset Finance Limited 穩泰資產融資有限公司 30-Oct-26
-4432 1683/2025 Royal Capital Consulting Limited 皇家融資顧問有限公司 30-Aug-26 R
+6587 1249/2026 Rock Finance Limited 堅石財務有限公司 12-Jun-27
+6634 1436/2025 Rock Solid Asset Finance Limited 穩泰資產融資有限公司 30-Oct-26 R
+4432 1290/2026 Royal Capital Consulting Limited 皇家融資顧問有限公司 30-Aug-27
 5971 1030/2026 Royal Credit Limited 皇室信貸有限公司 6-May-27
 5011 1068/2026 Royal Mind Limited 仲欣集團控股有限公司 17-May-27
 5909 573/2026 Royal Venture Group Limited 皇家創富集團有限公司 4-Feb-27
@@ -1778,23 +1770,23 @@ Licence No. Date
 1563 902/2026 Ryoden Property Finance Limited 菱電物業財務有限公司 23-Jun-27
 3425 1630/2025 S.A.S. Finance Limited 時捷財務有限公司 27-Sep-26 R
 4908 1967/2025 Sagarmatha Finance Company Limited 9-Nov-26 R
-5860 1975/2025 Sakura Credit Limited 櫻花信貸有限公司 24-Dec-26
+5860 1975/2025 Sakura Credit Limited 櫻花信貸有限公司 24-Dec-26 R
 5893 180/2026 Sands Hall Enterprise Limited 沙河信貸有限公司 21-Jan-27
-30.9.2026 頁碼 Page No. : 44 總頁數 Total Pages : 59
-放債人牌照號碼 牌照屆滿日
-檔案號碼 英文名稱 中文名稱 備註 #
-Money Lender's Licence Expiry
-MLR No. English Name Chinese Name Remarks
-Licence No. Date
 6371 667/2026 Sanwu Credit Limited 叄和信貸有限公司 21-Mar-27
 6649 1622/2025 Scallop Finance Limited 27-Nov-26
-4161 1313/2025 Seazen Resources Finance Limited 新城晉峰財務有限公司 4-Aug-26 R
+4161 1265/2026 Seazen Resources Finance Limited 新城晉峰財務有限公司 4-Aug-27
 5880 442/2026 Seven Elements Capital (Hong Kong) Limited 七元資本(香港)有限公司 14-Jan-27
 6376 880/2026 SH Capital Credit Limited 星凱資本信貸有限公司 18-Apr-27
 5351 738/2026 Sheng Ye International Supply Chain Finance 盛業國際供應鏈金融有限公司 28-Mar-27
 Limited
 6015 1075/2026 Shengyun Capital Limited 昇運資本有限公司 24-Jun-27
-5654 1338/2025 Shine Credit Finance Limited 滙曜信貸有限公司 8-Sep-26 R
+5654 1337/2026 Shine Credit Finance Limited 滙曜信貸有限公司 8-Sep-27
+31.10.2026 頁碼 Page No. : 44 總頁數 Total Pages : 59
+放債人牌照號碼 牌照屆滿日
+檔案號碼 英文名稱 中文名稱 備註 #
+Money Lender's Licence Expiry
+MLR No. English Name Chinese Name Remarks
+Licence No. Date
 4477 719/2026 Shine Growth Limited 26-Apr-27
 2964 1537/2025 Shiny Rising Limited 陞揚有限公司 28-Aug-26 R
 4888 1707/2025 Shiny Top Limited 瑞滔有限公司 12-Oct-26 R
@@ -1819,25 +1811,26 @@ Limited
 5296 289/2026 Simple Cash Limited 簡易錢有限公司 12-Feb-27
 3576 1160/2026 Simple Credit Limited 簡易信貸有限公司 30-Jul-27
 3906 1896/2025 Simple Fast Finance Limited 快簡易財務有限公司 11-Nov-26 R
-6093 1456/2025 Simple Lend Finance Limited 易辦財務有限公司 26-Aug-26 R
-4579 1706/2025 Sincere Mortgage Company Limited 摯易按揭有限公司 7-Sep-26 R
-30.9.2026 頁碼 Page No. : 45 總頁數 Total Pages : 59
+6093 1391/2026 Simple Lend Finance Limited 易辦財務有限公司 26-Aug-27
+4579 1315/2026 Sincere Mortgage Company Limited 摯易按揭有限公司 7-Sep-27
+6144 596/2026 Sincerity Finance Limited 忠誠借貸有限公司 4-May-27
+6390 840/2026 Sino Cloud Credit Limited 雲信信貸有限公司 11-May-27
+3212 1258/2026 Sino Credit Limited 中浩物業信貸有限公司 28-Jun-27
+6493 895/2026 Sino Finance (HK) Limited 信置財務有限公司 21-May-27
+3829 1262/2026 Sino Investment Limited 中浩投資發展有限公司 24-Jul-27
+2119 713/2026 Sino Resources (Hong Kong) Limited 華資(香港)有限公司 25-Mar-27
+5709 960/2026 Sino Sky Trend Limited 中華天基有限公司 23-Jun-27
+3575 674/2026 Sino Wealth Finance Limited 華裕財務有限公司 22-Nov-26
+31.10.2026 頁碼 Page No. : 45 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-6144 596/2026 Sincerity Finance Limited 忠誠借貸有限公司 4-May-27
-6390 840/2026 Sino Cloud Credit Limited 雲信信貸有限公司 11-May-27
-3212 1255/2025 Sino Credit Limited 中浩物業信貸有限公司 28-Jun-26 R
-3829 1257/2025 Sino Investment Limited 中浩投資發展有限公司 24-Jul-26 R
-2119 713/2026 Sino Resources (Hong Kong) Limited 華資(香港)有限公司 25-Mar-27
-5709 960/2026 Sino Sky Trend Limited 中華天基有限公司 23-Jun-27
-3575 674/2026 Sino Wealth Finance Limited 華裕財務有限公司 22-Nov-26
-6603 0820/2025 Sinochem Hong Kong (Group) Company 中化香港(集團)有限公司 8-Jul-26 R
+6603 1276/2026 Sinochem Hong Kong (Group) Company 中化香港(集團)有限公司 8-Jul-27
 Limited
 3391 83/2026 SinoPac Capital (Asia) Limited 永豐金資本(亞洲)有限公司 18-Jan-27
-5988 1196/2026 SinoPac Capital International (HK) Limited 永豐金資本國際(香港)有限公司 25-Aug-27
+5988 1206/2026 SinoPac Capital International (HK) Limited 永豐金資本國際(香港)有限公司 25-Aug-27
 1803 1743/2025 Sinopec Century Bright Capital Investment 中國石化盛駿國際投資有限公司 7-Sep-26 R
 Limited
 6637 1367/2025 Sinotransport (HK) Crossborder System 中創跨服(香港)科技有限公司 21-Oct-26 R
@@ -1846,36 +1839,36 @@ Technology Limited
 6735 1006/2026 Six Fortune Finance Limited 陸順財務有限公司 18-Aug-27
 5912 1181/2026 SK Credit Finance Limited 6-Jun-27
 5795 1712/2025 Sky Billion Hong Kong Investment Limited 天億香港投資有限公司 8-Oct-26 R
-4558 1446/2025 Sky City Capital Limited 天誠資本有限公司 25-Aug-26 R
+4558 1360/2026 Sky City Capital Limited 天誠資本有限公司 25-Aug-27
 5883 345/2026 Sky Credit Mortgage Limited 天譽信貸有限公司 19-Jan-27
-6608 0929/2025 Sky Gifts 888 Capital Limited 天賀888資本有限公司 30-Jul-26 R
-4618 7/2026 Sky High Finance Company Limited 雲鼎財務有限公司 7-Nov-26
-3858 1559/2025 Sky Million Credit Company Limited 天億物業信貸有限公司 4-Sep-26 R
+6608 1370/2026 Sky Gifts 888 Capital Limited 天賀888資本有限公司 30-Jul-27
+4618 7/2026 Sky High Finance Company Limited 雲鼎財務有限公司 7-Nov-26 R
+3858 1263/2026 Sky Million Credit Company Limited 天億物業信貸有限公司 4-Sep-27
 4514 399/2026 Sky Power Finance Limited 力天財務有限公司 23-Feb-27
 3977 339/2026 Sky Properties Advisors Limited 恆天物業咨詢有限公司 22-Jan-27
 6557 367/2026 Sky Rich Capital Limited 天富資本有限公司 18-Feb-27
 4704 622/2026 Sky Rich Finance Limited 天達財務有限公司 16-Feb-27
-5249 1901/2025 Sky Star Credit Limited 天星信貸有限公司 11-Dec-26
-6532 125/2026 Sky Win Finance Limited 天盈財務有限公司 19-Nov-26
+5249 1901/2025 Sky Star Credit Limited 天星信貸有限公司 11-Dec-26 R
+6532 125/2026 Sky Win Finance Limited 天盈財務有限公司 19-Nov-26 R
 6129 1876/2025 Skyee Hongkong Company Limited 收款易香港有限公司 5-Oct-26 R
 3837 1665/2025 Skyline Credit Limited 信嘉財務有限公司 26-Aug-26 R
-4172 1517/2025 Skymart Global Limited 天進國際集團有限公司 6-Aug-26 R
-3429 1917/2025 Sliver Brighter Limited 銀興有限公司 9-Oct-26
+4172 1337/2026 Skymart Global Limited 天進國際集團有限公司 6-Aug-27
+3429 1917/2025 Sliver Brighter Limited 銀興有限公司 9-Oct-26 R
 5134 1756/2025 Smart Boy Financial Limited 醒目仔信貸有限公司 13-Sep-26 R
 6298 462/2026 Smart Cash Credit Limited 千賀信貸有限公司 11-Feb-27
-30.9.2026 頁碼 Page No. : 46 總頁數 Total Pages : 59
+4549 237/2026 Smart Choice Mortgage Limited 智選物業按揭有限公司 7-Dec-26
+5206 1806/2025 Smart Credit Capital Limited 智貸資本有限公司 11-Oct-26 R
+4611 1827/2025 Smart Credit Management Limited 俐冠有限公司 6-Oct-26 R
+3497 395/2026 Smart Team Finance Limited 俊滙財務有限公司 24-Jan-27
+4555 1400/2026 Smart Time International Limited 聯泰國際有限公司 25-Aug-27
+6399 1135/2026 Smartmoney Financial Company Limited 盈富金融有限公司 30-May-27
+3561 868/2026 SME Credit Company Limited 中小企財務有限公司 25-Jun-27
+31.10.2026 頁碼 Page No. : 46 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-4549 237/2026 Smart Choice Mortgage Limited 智選物業按揭有限公司 7-Dec-26
-5206 1806/2025 Smart Credit Capital Limited 智貸資本有限公司 11-Oct-26
-4611 1827/2025 Smart Credit Management Limited 俐冠有限公司 6-Oct-26 R
-3497 395/2026 Smart Team Finance Limited 俊滙財務有限公司 24-Jan-27
-4555 1547/2025 Smart Time International Limited 聯泰國際有限公司 25-Aug-26 R
-6399 1209/2026 Smartmoney Financial Company Limited 盈富金融有限公司 30-May-27
-3561 868/2026 SME Credit Company Limited 中小企財務有限公司 25-Jun-27
 6193 743/2026 SME Expert Credit Limited 中小企專業信貸有限公司 3-May-27
 4057 919/2026 SN Finance Limited 盛諾財務有限公司 21-Apr-27
 5289 71/2026 Snap Credit International Limited 迅立信貸(國際)有限公司 15-Jan-27
@@ -1885,7 +1878,7 @@ Licence No. Date
 981 803/2026 Sojitz (Hong Kong) Limited 双日(香港)有限公司 5-May-27
 5601 592/2026 Song Finance Limited 貸爽財務有限公司 14-Mar-27
 6363 617/2026 Sonrich Capital Limited 弘海資本有限公司 23-Feb-27
-6527 15/2026 Sotheby's Financial Services Hong Kong 29-Oct-26
+6527 15/2026 Sotheby's Financial Services Hong Kong 29-Oct-26 R
 Limited
 4987 1549/2025 South East Consortium Limited 東南聯合企業有限公司 24-Aug-26 R
 2878 206/2026 South Wind Finance Limited 南風財務有限公司 13-Dec-26
@@ -1897,26 +1890,26 @@ Limited
 4889 1125/2026 SPDB International Finance Limited 浦銀國際財務有限公司 17-Jun-27
 6729 932/2026 Spectrum Digital Limited 1-Sep-27
 3711 323/2026 Speed Services Company Limited 快意服務有限公司 20-Feb-27
-3452 1937/2025 Speedy Finance Limited 迅領財務有限公司 6-Nov-26
+3452 1937/2025 Speedy Finance Limited 迅領財務有限公司 6-Nov-26 R
 6094 1457/2025 Speedy FinTech Limited 迅領金融科技有限公司 26-Aug-26 R
 3605 602/2026 Speedy Force Limited 迅捷有限公司 16-Feb-27
 6178 444/2026 Speedy Global Finance Limited 迅捷環球金融有限公司 10-Feb-27
 3086 1747/2025 Splendor Credit Finance Limited 匯智信貸財務有限公司 8-Sep-26 R
-4975 1197/2026 Springwaters Finance Limited 泓瑞源財務有限公司 10-Aug-27
+4975 1198/2026 Springwaters Finance Limited 泓瑞源財務有限公司 10-Aug-27
 4278 85/2026 Sprint Asset Management Limited 新銳資產管理有限公司 12-Nov-26 R
-30.9.2026 頁碼 Page No. : 47 總頁數 Total Pages : 59
-放債人牌照號碼 牌照屆滿日
-檔案號碼 英文名稱 中文名稱 備註 #
-Money Lender's Licence Expiry
-MLR No. English Name Chinese Name Remarks
-Licence No. Date
 6231 1148/2026 Sprout Credit (Asia) Limited 26-May-27
 1648 188/2026 SPS Credit Limited 新寶城授信有限公司 22-Nov-26
 2492 1010/2026 Standard Land Finance Limited 均地財務有限公司 20-May-27
 6710 558/2026 Standing Success Limited 26-May-27
 5623 646/2026 Star C International Limited 星創國際實業有限公司 29-Apr-27
-5718 1552/2025 Star Charm Development Company Limited 星晴發展有限公司 20-Aug-26 R
+5718 1386/2026 Star Charm Development Company Limited 星晴發展有限公司 20-Aug-27
 6463 515/2026 Star My Credit Limited 星馬信貸有限公司 6-Feb-27
+31.10.2026 頁碼 Page No. : 47 總頁數 Total Pages : 59
+放債人牌照號碼 牌照屆滿日
+檔案號碼 英文名稱 中文名稱 備註 #
+Money Lender's Licence Expiry
+MLR No. English Name Chinese Name Remarks
+Licence No. Date
 6061 1574/2025 Star Rich International Capital Limited 星富國際資本有限公司 17-Aug-26 R
 4088 1823/2025 Star World International Enterprise Limited 星際國際實業有限公司 4-Oct-26 R
 6578 841/2026 Starkad Limited 17-Apr-27
@@ -1926,13 +1919,13 @@ Licence No. Date
 5520 1410/2025 Storchen Credit Limited 瑞鷹信貸有限公司 5-Sep-26 R
 6533 295/2026 Strategy House Capital Limited 策略家資本有限公司 12-Dec-26
 6724 822/2026 Stream Credit Limited 澄川信貸有限公司 14-Jul-27
-6538 223/2026 Streamline Credit Limited 至易信貸有限公司 28-Nov-26
-6541 1203/2026 Stvble Credit Limited 24-Sep-27
+6538 223/2026 Streamline Credit Limited 至易信貸有限公司 28-Nov-26 R
+6541 1209/2026 Stvble Credit Limited 24-Sep-27
 5174 1611/2025 Success Credit Service Limited 實德信貸財務有限公司 4-Sep-26 R
 4024 1176/2026 Sui Hing Finance Limited 瑞興財務有限公司 27-Jun-27
 6697 496/2026 Summit Finance Limited 鼎誠財務有限公司 14-May-27
 6004 1031/2026 Sun Fast Credit Finance Co., Limited 新暉信貸財務有限公司 15-Jun-27
-4247 25/2026 Sun Fung Capital Limited 新峰投資(亞洲)有限公司 22-Oct-26
+4247 25/2026 Sun Fung Capital Limited 新峰投資(亞洲)有限公司 22-Oct-26 R
 2786 714/2026 Sun Fung Finance Co., Limited 新豐財務有限公司 15-Apr-27
 5400 723/2026 Sun Ho Finance Limited 新豪(財務)有限公司 12-Apr-27
 4080 869/2026 Sun Hung Kai Credit Limited 新鴻基信貸有限公司 7-May-27
@@ -1943,32 +1936,33 @@ Licence No. Date
 4451 717/2026 Sunny Fortune Development Limited 朗瑞發展有限公司 5-Apr-27
 6461 352/2026 Sunny Sight Finance Limited 6-Feb-27
 5741 1572/2025 Sunny Team Finance Limited 滙朗財務有限公司 11-Aug-26 R
-30.9.2026 頁碼 Page No. : 48 總頁數 Total Pages : 59
-放債人牌照號碼 牌照屆滿日
-檔案號碼 英文名稱 中文名稱 備註 #
-Money Lender's Licence Expiry
-MLR No. English Name Chinese Name Remarks
-Licence No. Date
 3033 22/2026 Sunnyman Finance Limited 新利文財務有限公司 18-Nov-26
-5483 1409/2025 Sunpro Investments Limited 11-Jul-26 R
+5483 1342/2026 Sunpro Investments Limited 11-Jul-27
 3661 1869/2025 Sunrise Property Credit Limited 日昇物業信貸有限公司 21-Nov-26 R
 4317 640/2026 Sunshine Gold International Limited 金太陽國際有限公司 27-Mar-27
 6602 1080/2026 Sunshine Holdings International Limited 晨光國際控股有限公司 3-Jul-27
 6658 1840/2025 Sunwoda Treasury (Hong Kong) Limited 欣旺達財資(香港)有限公司 6-Jan-27
 5451 701/2026 Super Easy Finance Limited 易華為信貸有限公司 21-May-27
+31.10.2026 頁碼 Page No. : 48 總頁數 Total Pages : 59
+放債人牌照號碼 牌照屆滿日
+檔案號碼 英文名稱 中文名稱 備註 #
+Money Lender's Licence Expiry
+MLR No. English Name Chinese Name Remarks
+Licence No. Date
 4937 115/2026 Super Future (HK) Limited 勝景(香港)有限公司 5-Dec-26
 4695 273/2026 Super Glory Consultants Limited 卓浩顧問有限公司 7-Feb-27
 5135 1550/2025 Super Smart Finance Limited 智易貸財務有限公司 2-Aug-26 R
 6516 1577/2025 Super Star Finance Limited 星陽財務有限公司 26-Sep-26 R
-4254 1943/2025 Super Target Finance Limited 錦標財務有限公司 3-Nov-26
+4254 1943/2025 Super Target Finance Limited 錦標財務有限公司 3-Nov-26 R
 5192 1522/2025 Superb Mortgage Limited 金興隆按揭有限公司 4-Oct-26 R
-3218 1421/2025 Superior Assets Limited 至尊資產有限公司 9-Aug-26 R
+3218 1354/2026 Superior Assets Limited 至尊資產有限公司 9-Aug-27
 5942 891/2026 Superior Rich Finance Limited 帝豐財務有限公司 1-Jun-27
-4600 1496/2025 Sure Fortune Investment Limited 裕保投資有限公司 4-Oct-26 R
+4600 1381/2026 Sure Fortune Investment Limited 裕保投資有限公司 4-Oct-27
 4295 133/2026 Sure Wave Finance Limited 佳灝財務有限公司 24-Nov-26 R
 4217 1777/2025 Surewin Credit Limited 瑞和物業按揭有限公司 22-Sep-26 R
 5842 249/2026 Surplus Credit Limited 尚盈信貸有限公司 1-Dec-26
 5191 1872/2025 Swiss Finance Limited 瑞士信貸有限公司 9-Oct-26 R
+6449 222/2026 SynCredit Limited 星月信貸有限公司 14-Dec-26
 639 1347/2025 Tai Land Finance Company Limited 大地財務有限公司 26-Aug-26 R
 1734 1009/2026 Tai Wo Honest Financial Limited 泰和盛金融有限公司 3-May-27
 5372 757/2026 Tak Cheung (Hong Kong) Asset Management 德彰(香港)資產管理有限公司 28-Mar-27
@@ -1978,25 +1972,25 @@ Limited
 6498 1108/2026 Talent Credit Company Limited 天賦信貸有限公司 28-May-27
 5243 102/2026 Tat Sing Finance Limited 達誠信貸有限公司 15-Nov-26
 5012 612/2026 TCL Finance (Hong Kong) Co., Limited 13-Mar-27
-4494 0702/2025 Team Credit Limited 滙海信貸有限公司 12-Jun-26 R
+4494 1267/2026 Team Credit Limited 滙海信貸有限公司 12-Jun-27
 5951 875/2026 Tech One Capital Limited 科一金融有限公司 13-Apr-27
 6097 1615/2025 Telecom King Credit Limited 電訊數碼財務有限公司 31-Aug-26 R
-2537 1986/2025 Telstar Finance Company Limited 迅達財務有限公司 1-Dec-26
+2537 1986/2025 Telstar Finance Company Limited 迅達財務有限公司 1-Dec-26 R
 6101 1616/2025 Temke Investment Group Limited 9-Sep-26 R
-30.9.2026 頁碼 Page No. : 49 總頁數 Total Pages : 59
-放債人牌照號碼 牌照屆滿日
-檔案號碼 英文名稱 中文名稱 備註 #
-Money Lender's Licence Expiry
-MLR No. English Name Chinese Name Remarks
-Licence No. Date
 5801 315/2026 Ten Finance Limited 大安財務有限公司 23-Apr-27
 4745 775/2026 Tencent Finance Limited 騰信財務有限公司 6-Apr-27
 6518 1878/2025 Tevau Technology Limited 10-Oct-26 R
 3296 168/2026 TF Advances Limited 31-Jan-27
 6547 493/2026 TH Wealth Management Company Limited 21-Jan-27
+6258 1372/2026 Thai Shing Enterprise Limited 泰承企業有限公司 22-Oct-27
+31.10.2026 頁碼 Page No. : 49 總頁數 Total Pages : 59
+放債人牌照號碼 牌照屆滿日
+檔案號碼 英文名稱 中文名稱 備註 #
+Money Lender's Licence Expiry
+MLR No. English Name Chinese Name Remarks
+Licence No. Date
 5970 538/2026 Thankyou Finance Limited 天嬌財務有限公司 29-Apr-27
 5469 1070/2026 The Core Finance Company Limited 核聚財務有限公司 23-Jul-27
-2846 1157/2025 The Hong Kong Federation of Youth Groups 香港青年協會 28-Jun-26 R
 3546 867/2026 The One Credit Limited 唯一信用貸款有限公司 30-May-27
 5997 1168/2026 The Prestigious Credit Limited 名門信貸有限公司 3-Jun-27
 3130 1838/2025 The Society of Rehabilitation And Crime 香港善導會 6-Jan-27
@@ -2013,45 +2007,45 @@ Prevention, Hong Kong
 3595 636/2026 Time Credit Limited 友邦信貸有限公司 5-May-27
 5941 537/2026 Time Is Loan Limited 迪亞氏信貸有限公司 1-Apr-27
 5077 958/2026 Time's Capital Holdings Limited 時代資本控股有限公司 8-May-27
-5823 52/2026 TiMoney Financial Company Limited 恆信信貸有限公司 5-Nov-26
-6284 1271/2025 Tin Fung Investment (Hong Kong) Limited 天豐投資(香港)有限公司 6-Sep-26 R
+5823 52/2026 TiMoney Financial Company Limited 恆信信貸有限公司 5-Nov-26 R
+6284 1298/2026 Tin Fung Investment (Hong Kong) Limited 天豐投資(香港)有限公司 6-Sep-27
 6347 294/2026 Tin Lok Limited 天諾環球有限公司 17-Jan-27
 6627 1309/2025 Tin Yuet Finance Limited 天悅金融有限公司 9-Oct-26 R
 4722 642/2026 Tiptop Credit Limited 鼎豐信貸有限公司 14-Mar-27
-5486 1500/2025 T-Money Finance Limited 信匯信貸有限公司 23-Jul-26 R
-6274 1346/2025 TMS & Pros Company Limited 9-Aug-26 R
+5486 1385/2026 T-Money Finance Limited 信匯信貸有限公司 23-Jul-27
+6274 1247/2026 TMS & Pros Company Limited 9-Aug-27
 3744 414/2026 Today Is Finance Limited 今是財務有限公司 1-Apr-27
 501 540/2026 Tomson Investment Limited 湯臣投資有限公司 7-Mar-27
-850 1909/2025 Tonwell Investment Company (Hong Kong) 香港東華企業有限公司 22-Oct-26
+850 1909/2025 Tonwell Investment Company (Hong Kong) 香港東華企業有限公司 22-Oct-26 R
 Limited
-30.9.2026 頁碼 Page No. : 50 總頁數 Total Pages : 59
+5863 344/2026 Top 1 Credit Limited 首席信貸有限公司 24-Dec-26
+2587 1256/2026 Top Billion Finance Limited 億峰財務有限公司 10-Aug-27
+4383 504/2026 Top Credit (Asia) Limited 第一借貸(亞洲)有限公司 28-Jan-27
+4324 1992/2025 Top Credit Finance Limited 領先信用財務有限公司 24-Dec-26 R
+5382 758/2026 Top One Finance Limited 領峯財務有限公司 2-Apr-27
+3721 1397/2025 Top One International (Hong Kong) Limited 首富國際(香港)有限公司 21-Sep-26 R
+31.10.2026 頁碼 Page No. : 50 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-5863 344/2026 Top 1 Credit Limited 首席信貸有限公司 24-Dec-26
-2587 1418/2025 Top Billion Finance Limited 億峰財務有限公司 10-Aug-26 R
-4383 504/2026 Top Credit (Asia) Limited 第一借貸(亞洲)有限公司 28-Jan-27
-4324 1992/2025 Top Credit Finance Limited 領先信用財務有限公司 24-Dec-26
-5382 758/2026 Top One Finance Limited 領峯財務有限公司 2-Apr-27
-3721 1397/2025 Top One International (Hong Kong) Limited 首富國際(香港)有限公司 21-Sep-26 R
 4216 1776/2025 Top Power Finance Limited 高力財務有限公司 22-Sep-26 R
 6203 761/2026 Top Sane Asset Limited 頂升資產有限公司 14-Apr-27
 5414 684/2026 Top Tier Capital Company Limited 優譽資本有限公司 7-May-27
 5317 661/2026 Top Trendy Enterprise Limited 潮流企業有限公司 7-Mar-27
 6713 500/2026 Topex Financial Limited 鼎卓財務有限公司 14-May-27
 5309 197/2026 Topful Capital Limited 宏達金融有限公司 31-Jan-27
-4795 1284/2025 Topgold Universal Limited 金泰環球有限公司 1-Aug-26 R
+4795 1316/2026 Topgold Universal Limited 金泰環球有限公司 1-Aug-27
 2816 319/2026 Topway Credit Limited 統滙信貸有限公司 23-Dec-26
 5385 457/2026 Topwell International Finance Limited 鼎好國際財務有限公司 2-Apr-27
 5660 981/2026 Total Express Asset Credit Company Limited 全通資產信用有限公司 7-May-27
 4169 1492/2025 Total Express Capital Strategy Limited 全通資本策略有限公司 4-Aug-26 R
 3847 1221/2026 Total Success Investment Limited 泰興投資有限公司 9-Jun-27
 2915 1217/2026 Toyo Finance And Credit Limited 東洋財務信貸有限公司 22-Aug-27
-3031 1959/2025 Trade Capital Finance Limited 申滙權資有限公司 13-Nov-26
+3031 1959/2025 Trade Capital Finance Limited 申滙權資有限公司 13-Nov-26 R
 5947 574/2026 Treasure Credit Limited 三和信貸有限公司 1-Apr-27
-4123 1205/2026 Treasure Like Holdings Limited 16-Jun-27
+4123 1193/2026 Treasure Like Holdings Limited 16-Jun-27
 2474 694/2026 Treasure Spot Finance Company Limited 江庫財務有限公司 17-Mar-27
 4721 681/2026 Trefoil Partners Limited 三才夥伴有限公司 14-Mar-27
 3214 972/2026 Trilane Management Consultant Limited 駿凌商業顧問有限公司 26-Apr-27
@@ -2061,20 +2055,20 @@ Licence No. Date
 6198 779/2026 Triton Prime Capital Limited 三本立資本有限公司 21-Apr-27
 6393 1105/2026 Triumphant Credit Limited 凱峰信貸有限公司 18-May-27
 5303 290/2026 True Credit Limited 忠信金融有限公司 31-Jan-27
-3857 1466/2025 Trueway International Mortgage Limited 駿滙國際按揭有限公司 18-Sep-26 R
-6605 0927/2025 Truffle Capital Limited 松露資本有限公司 12-Aug-26 R
-30.9.2026 頁碼 Page No. : 51 總頁數 Total Pages : 59
-放債人牌照號碼 牌照屆滿日
-檔案號碼 英文名稱 中文名稱 備註 #
-Money Lender's Licence Expiry
-MLR No. English Name Chinese Name Remarks
-Licence No. Date
+3857 1341/2026 Trueway International Mortgage Limited 駿滙國際按揭有限公司 18-Sep-27
+6605 1277/2026 Truffle Capital Limited 松露資本有限公司 12-Aug-27
 2592 1213/2026 Trustful Finance Limited 立信財務有限公司 29-Aug-27
 3552 951/2026 Trustworthy Finance Limited 友信財務有限公司 18-Jun-27
 1701 1769/2025 Truthful Finance Company Limited 泰富財務有限公司 22-Sep-26 R
 2272 190/2026 Tse's Finance Limited 謝氏財務有限公司 4-Dec-26 R
 688 579/2026 Tsun Fat Finance Company Limited 晉發財務有限公司 3-May-27
-6646 1533/2025 TT Credit Limited 13-Nov-26
+6646 1533/2025 TT Credit Limited 13-Nov-26 R
+31.10.2026 頁碼 Page No. : 51 總頁數 Total Pages : 59
+放債人牌照號碼 牌照屆滿日
+檔案號碼 英文名稱 中文名稱 備註 #
+Money Lender's Licence Expiry
+MLR No. English Name Chinese Name Remarks
+Licence No. Date
 5506 1128/2026 Tung Choi & Associate (HK) Holding Limited 東彩企業(香港)控股有限公司 15-Aug-27
 2506 1580/2025 Tung Hing Finance Company Limited 東興財務有限公司 7-Sep-26 R
 6177 879/2026 Turbo Finance Group Limited 置匯信貸集團有限公司 12-Apr-27
@@ -2096,32 +2090,30 @@ Licence No. Date
 2973 1720/2025 Union Finance (Hong Kong) Company 匯駿財務有限公司 4-Oct-26 R
 Limited
 4697 569/2026 Union Finance Limited 匯和財務有限公司 9-Feb-27
-4928 137/2026 Union Rise Finance Limited 聯陞財務有限公司 24-Oct-26
+4928 137/2026 Union Rise Finance Limited 聯陞財務有限公司 24-Oct-26 R
 6005 839/2026 Unionprofit Finance Limited 聯盈財務有限公司 15-Jun-27
 5267 1946/2025 Unique Credit Limited 非凡信貸有限公司 18-Dec-26 R
 1268 843/2026 United Asia Finance Limited 亞洲聯合財務有限公司 31-May-27
 6404 1021/2026 United Planning Company Limited 聯合策劃有限公司 13-Jun-27
 4740 505/2026 United Worth Finance Limited 匯銀財務有限公司 28-Mar-27
 6721 764/2026 Unity Credit Limited 聯合信貸有限公司 2-Jul-27
-30.9.2026 頁碼 Page No. : 52 總頁數 Total Pages : 59
+3420 1866/2025 Universal (Asia) Credit Limited 環聯(亞洲)信貸有限公司 25-Sep-26 R
+5103 10/2026 Universal Credit (HK) Limited 信譽環球(香港)有限公司 1-Nov-26 R
+4346 943/2026 Universal Finance (HK) Limited 環球財務(香港)有限公司 14-May-27
+3150 1155/2026 Universal Prestige Finance Company Limited 環球信譽財務有限公司 18-Jun-27
+4678 480/2026 Universal Technologies Credit Limited 環球科技信貸有限公司 17-Jan-27
+5530 1784/2025 Unloq International Company Limited 12-Sep-26 R
+31.10.2026 頁碼 Page No. : 52 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-3420 1866/2025 Universal (Asia) Credit Limited 環聯(亞洲)信貸有限公司 25-Sep-26 R
-5103 10/2026 Universal Credit (HK) Limited 信譽環球(香港)有限公司 1-Nov-26
-4346 943/2026 Universal Finance (HK) Limited 環球財務(香港)有限公司 14-May-27
-3150 1155/2026 Universal Prestige Finance Company Limited 環球信譽財務有限公司 18-Jun-27
-4678 480/2026 Universal Technologies Credit Limited 環球科技信貸有限公司 17-Jan-27
-6316 1979/2025 Universe Credits Limited 宇宙信貸有限公司 27-Oct-26
-4742 1302/2025 Universe Reach Limited 東都有限公司 9-Oct-26
-5530 1784/2025 Unloq International Company Limited 12-Sep-26 R
 6621 1305/2025 Unoson Fin-tech Limited 滙漢臣金融科技有限公司 9-Oct-26 R
 2545 451/2026 UOB Kay Hian Finance Limited 大華繼顯財務有限公司 10-Feb-27
 5456 909/2026 Up Way Finance Limited 金榮信貸有限公司 13-Jun-27
 5600 309/2026 US Financial & Investment Limited 美國金融投資有限公司 17-Dec-26
-5990 1208/2025 Useful Finance Limited 御豐信貸有限公司 1-Jun-26 R
+5990 1323/2026 Useful Finance Limited 御豐信貸有限公司 1-Jun-27
 4040 809/2026 UTD Fortune (Hong Kong) Limited 匯信財富有限公司 31-Mar-27
 5202 1551/2025 UTGL Finance Limited 11-Oct-26 R
 6622 1113/2026 Utopia Green Limited 8-Sep-27
@@ -2129,6 +2121,7 @@ Licence No. Date
 4732 914/2026 VAAV Limited 領維有限公司 30-Jul-27
 5783 1948/2025 Value Asset Services Limited 連城資產服務有限公司 22-Sep-26 R
 6733 1039/2026 Vanguard Financial Service Limited 先鋒信貸財務有限公司 25-Aug-27
+4957 1417/2026 Vanke Property Mortgage Limited 29-Oct-27
 5966 859/2026 Vanquisher Credit Limited 滙萾信貸有限公司 27-Apr-27
 2943 393/2026 Vast Orient Limited 東鵬有限公司 6-Mar-27
 5052 1968/2025 Vast Success (Hong Kong) Finance Company 博成(香港)信貸財務有限公司 13-Nov-26
@@ -2143,25 +2136,25 @@ Limited
 3439 1678/2025 Victory Finance Company Limited 勝利財務有限公司 25-Oct-26 R
 4210 1667/2025 View Finance Limited 景達財務有限公司 15-Sep-26 R
 3142 728/2026 Vinson Finance Limited 仁信財務有限公司 27-May-27
-30.9.2026 頁碼 Page No. : 53 總頁數 Total Pages : 59
+3092 1677/2025 Vision Credit Limited 維信理財有限公司 6-Oct-26 R
+5849 1831/2025 Vision Finance Group Limited 睿智金融集團有限公司 8-Dec-26 R
+5641 1014/2026 Vivi Finance Limited 六六財務有限公司 5-May-27
+3817 1310/2026 VMS Credit Limited 鼎珮信貸有限公司 17-Jul-27
+6670 1956/2025 Vow Power Credit Limited 願力信貸有限公司 22-Jan-27
+5436 104/2026 Voyage Investment Management Limited 啟航投資管理有限公司 12-Oct-26 R
+5587 241/2026 VP Finance Limited 柏盈財務有限公司 10-Dec-26
+31.10.2026 頁碼 Page No. : 53 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-3092 1677/2025 Vision Credit Limited 維信理財有限公司 6-Oct-26 R
-5849 1831/2025 Vision Finance Group Limited 睿智金融集團有限公司 8-Dec-26
-5641 1014/2026 Vivi Finance Limited 六六財務有限公司 5-May-27
-3817 1333/2025 VMS Credit Limited 鼎珮信貸有限公司 17-Jul-26 R
-6670 1956/2025 Vow Power Credit Limited 願力信貸有限公司 22-Jan-27
-5436 104/2026 Voyage Investment Management Limited 啟航投資管理有限公司 12-Oct-26
-5587 241/2026 VP Finance Limited 柏盈財務有限公司 10-Dec-26
 5169 1944/2025 Vteam Novamondo Finance Limited 天逸諾華世界金融有限公司 10-Nov-26 R
-5523 1451/2025 W Star Finance Limited 永星信貸有限公司 5-Sep-26 R
-3856 1282/2025 Wah Choi Company Limited 華彩有限公司 2-Sep-26 R
-4283 1897/2025 Wah Chu Finance Limited 華鑄信貸有限公司 17-Nov-26
+5523 1322/2026 W Star Finance Limited 永星信貸有限公司 5-Sep-27
+3856 1237/2026 Wah Choi Company Limited 華彩有限公司 2-Sep-27
+4283 1897/2025 Wah Chu Finance Limited 華鑄信貸有限公司 17-Nov-26 R
 5826 106/2026 Wah Fung Capital Company Limited 華豐資產有限公司 5-Nov-26 R
-5736 1453/2025 Wah Link Investments Limited 銳領投資有限公司 4-Aug-26 R
+5736 1364/2026 Wah Link Investments Limited 銳領投資有限公司 4-Aug-27
 570 578/2026 Wah Sun Finance Limited 華新財務有限公司 4-Mar-27
 1819 314/2026 Wahsheung Finance Limited 華商財務有限公司 9-Apr-27
 5850 250/2026 Wahwei Credit Limited 華唯信貸有限公司 8-Dec-26
@@ -2174,160 +2167,158 @@ Licence No. Date
 3672 1962/2025 Way Union Finance Limited 偉聯財務有限公司 10-Dec-26
 3236 1702/2025 Wealth Asia Credits Limited 國富物業信貸有限公司 8-Sep-26 R
 6485 1034/2026 Wealth Capital (HK) Limited 創富資本(香港)有限公司 14-May-27
-5089 1201/2026 Wealth Compass Limited 裕康盈有限公司 24-May-27
+5089 1126/2026 Wealth Compass Limited 裕康盈有限公司 24-May-27
 6528 1717/2025 Wealth Connect Limited 富亨通財務有限公司 31-Oct-26 R
 5020 508/2026 Wealth Fortune Finance Company Limited 盈富信貸財務有限公司 16-Feb-27
 4195 44/2026 Wealth Gold Finance Limited 裕金信貸有限公司 3-Nov-26
 6606 0877/2025 Wealth Group (HK) Limited 創富集團(香港)有限公司 17-Jul-26 R
 4087 677/2026 Wealth Investment Holding (Group) Limited 滙富投資控股(集團)有限公司 12-May-27
-3008 1349/2025 Wealth Lee Finance Limited 惠利財務有限公司 3-Jul-26 R
+3008 1352/2026 Wealth Lee Finance Limited 惠利財務有限公司 3-Jul-27
 4809 1405/2025 Wealth Link Capital Management Limited 富通資本策劃有限公司 18-Jul-26 R
-30.9.2026 頁碼 Page No. : 54 總頁數 Total Pages : 59
+3654 39/2026 Wealth Link Credit Company Limited 富通信貸有限公司 12-Nov-26
+5489 1318/2025 Wealth Reach Finance Limited 盈進財務有限公司 23-Jul-26 R
+6077 1229/2026 Wealth Rich (Asia) Finance Limited 創富(亞洲)財務有限公司 17-Aug-27
+6096 1326/2026 Wealthpro Asset Limited 富寶資產有限公司 31-Aug-27
+1553 634/2026 Wealthy (Far East) Limited 匯裕(遠東)有限公司 27-May-27
+5278 1348/2026 Wealthy Credit Limited 楹富信貸有限公司 12-Jun-27
+4264 1870/2025 Wealthy Credit Services Limited 富昇信貸有限公司 5-Nov-26 R
+31.10.2026 頁碼 Page No. : 54 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-3654 39/2026 Wealth Link Credit Company Limited 富通信貸有限公司 12-Nov-26
-5489 1318/2025 Wealth Reach Finance Limited 盈進財務有限公司 23-Jul-26 R
-6077 1229/2026 Wealth Rich (Asia) Finance Limited 創富(亞洲)財務有限公司 17-Aug-27
-6096 1345/2025 Wealthpro Asset Limited 富寶資產有限公司 31-Aug-26 R
-1553 634/2026 Wealthy (Far East) Limited 匯裕(遠東)有限公司 27-May-27
-5278 0703/2025 Wealthy Credit Limited 楹富信貸有限公司 12-Jun-26 R
-4264 1870/2025 Wealthy Credit Services Limited 富昇信貸有限公司 5-Nov-26 R
 4546 1561/2025 Wealthy Finance Group Limited 盈富財務集團有限公司 9-Aug-26 R
-4236 1544/2025 Wealthy Link Finance Limited 富創財務有限公司 8-Oct-26
-6051 1479/2025 Wealthy Vision Finance Limited 富途信貸有限公司 3-Aug-26 R
+4236 1544/2025 Wealthy Link Finance Limited 富創財務有限公司 8-Oct-26 R
+6051 1389/2026 Wealthy Vision Finance Limited 富途信貸有限公司 3-Aug-27
 3971 565/2026 Welab Limited 20-Jan-27
 3526 771/2026 Welend Limited 衛盈智信(香港)有限公司 16-Apr-27
 1262 864/2026 Well & Well Finance Limited 福而偉財務有限公司 26-Apr-27
 5910 593/2026 Well Being Capital Limited 華寶金融有限公司 11-Feb-27
-3216 1177/2025 Well Century International Limited 佳元國際有限公司 14-Jun-26 R
+3216 1235/2026 Well Century International Limited 佳元國際有限公司 14-Jun-27
 3965 1175/2026 Well Done (HK) Finance Limited 井淼財務有限公司 20-Jun-27
 5798 105/2026 Well Fortune Consultant Services Limited 盈進顧問服務有限公司 20-Oct-26 R
-5796 1454/2025 Well Improve Finance Company Limited 佳進財務有限公司 8-Oct-26
 3329 848/2026 Well Success Finance Limited 益成財務有限公司 17-Apr-27
 3271 166/2026 Wellgain (Asia) Finance Co., Limited 宏利(亞洲)財務有限公司 15-Nov-26
 4758 907/2026 Wellstone Credit Finance Limited 利高達信貸財務有限公司 27-Apr-27
 6521 1792/2025 Wengo Credit Limited 宏高信貸有限公司 3-Oct-26 R
 6687 163/2026 Weton Credit Limited 滙通信貸有限公司 10-Mar-27
 1777 1152/2026 Wide Profit Finance Limited 世發財務有限公司 25-Jul-27
-5492 1337/2025 Wifilend Limited 快貸有限公司 23-Jul-26 R
+5492 1402/2026 Wifilend Limited 快貸有限公司 23-Jul-27
 3808 1895/2025 Wiki Capital Finance Limited 維基資本有限公司 6-Oct-26 R
-5118 1019/2025 Wilson International Capital Limited 滙生國際資本有限公司 26-Jun-26 R
-4656 1995/2025 Wilton Capital Group Limited 滙通資本投資有限公司 15-Dec-26
+5118 1362/2026 Wilson International Capital Limited 滙生國際資本有限公司 26-Jun-27
+4656 1995/2025 Wilton Capital Group Limited 滙通資本投資有限公司 15-Dec-26 R
 6680 76/2026 Win Chun (Hong Kong) Limited 宏峻(香港)有限公司 12-Feb-27
 6048 1211/2025 Win Win Credit Limited 雙贏信貸有限公司 3-Aug-26 R
 6049 1614/2025 Win Win Finance Limited 淇勝財務有限公司 24-Aug-26 R
 1548 1096/2026 Winchesto Finance Company Limited 17-May-27
 6555 257/2026 Wind Finance Limited 風來財務有限公司 11-Feb-27
-30.9.2026 頁碼 Page No. : 55 總頁數 Total Pages : 59
-放債人牌照號碼 牌照屆滿日
-檔案號碼 英文名稱 中文名稱 備註 #
-Money Lender's Licence Expiry
-MLR No. English Name Chinese Name Remarks
-Licence No. Date
 3514 654/2026 Winever Credit Limited 滙盈信貸有限公司 14-Mar-27
-5477 1336/2025 Winfield Credit Limited 盈輝信貸有限公司 4-Jul-26 R
+5477 1320/2026 Winfield Credit Limited 盈輝信貸有限公司 4-Jul-27
 5984 1183/2026 Winful Credit Limited 迎富信貸有限公司 25-May-27
 2564 80/2026 Wing Fung Credit Limited 永豐信貸有限公司 18-Nov-26
 6575 896/2026 Wing Ming Garment Factory Limited 永明貿易製衣廠有限公司 17-Apr-27
 2803 1215/2026 Wing Wui Finance Limited 永滙財務有限公司 25-Aug-27
 5996 983/2026 Wing Yam International Limited 永鑫國際有限公司 24-Feb-27
 6469 669/2026 Wing Ying Credit Company Limited 永盈信貸有限公司 5-Mar-27
+31.10.2026 頁碼 Page No. : 55 總頁數 Total Pages : 59
+放債人牌照號碼 牌照屆滿日
+檔案號碼 英文名稱 中文名稱 備註 #
+Money Lender's Licence Expiry
+MLR No. English Name Chinese Name Remarks
+Licence No. Date
 3953 235/2026 Wings Alternative Financing Limited 永時財務有限公司 26-Feb-27
 4234 282/2026 Wings Capital Finance Limited 熊日資本策略有限公司 17-Dec-26
 3768 620/2026 Wings Credit Limited 永時信用財務有限公司 8-May-27
 3696 233/2026 Wings Finance Limited 永時信貸有限公司 6-Feb-27
-3952 234/2026 Wings Financial Capital Limited 永時金融資本有限公司 18-Dec-26
+3952 234/2026 Wings Financial Capital Limited 永時金融資本有限公司 18-Dec-26 R
 3767 585/2026 Wings Mortgage Limited 永時按揭有限公司 29-Apr-27
 6727 899/2026 WinHorizon Finance Limited 萬鴻財務有限公司 28-Jul-27
 1747 903/2026 Winland Finance Limited 永倫財務有限公司 23-May-27
+6745 1301/2026 Winner Credit Limited 永勝信貸有限公司 13-Oct-27
 3940 436/2026 Winner Trend Investment Limited 達勝投資有限公司 20-Jan-27
 3215 1025/2026 Winners Finance Limited 易信集團有限公司 17-May-27
-3626 1919/2025 Winning Wealth Management Limited 運籌財富管理有限公司 8-Oct-26
+3626 1919/2025 Winning Wealth Management Limited 運籌財富管理有限公司 8-Oct-26 R
 6420 1527/2025 Winrich Finance Limited 宏富金融有限公司 5-Sep-26 R
 4980 287/2026 Wins Finance Limited 永利信貸有限公司 6-Feb-27
 6288 1879/2025 Winshine Finance Limited 盈熙財務有限公司 13-Jan-27
 3448 169/2026 Winson Credit (HK) Limited 雲盛信貸有限公司 22-Nov-26
-6020 1431/2025 Winston Finance Limited 永豐貸財務有限公司 6-Jul-26 R
+6020 1387/2026 Winston Finance Limited 永豐貸財務有限公司 6-Jul-27
 4743 796/2026 Wintech Finance Limited 永達財務有限公司 28-Mar-27
 254 224/2026 Winton Financial Limited 運通泰財務有限公司 29-Dec-26
-5727 1474/2025 Wisdom Joyce Limited 喜曉有限公司 20-Aug-26 R
+5727 1296/2026 Wisdom Joyce Limited 喜曉有限公司 20-Aug-27
 1596 1794/2025 Wise Pacific Investment Limited 冠暉投資有限公司 13-Sep-26 R
 6599 1059/2026 Wishful Credit Limited 盈信貸有限公司 26-Jun-27
 2859 1511/2025 Wo Sum Finance Development Co. 和森財務發展公司 23-Aug-26 R
 971 185/2026 Wocom Financial Services Company Limited 宏高融資有限公司 1-Dec-26
 593 788/2026 Wocom Securities Limited 宏高證券有限公司 7-Apr-27
 6667 1882/2025 Wonder Capital Management Limited 13-Jan-27
-30.9.2026 頁碼 Page No. : 56 總頁數 Total Pages : 59
+4485 1090/2026 Wonder International Finance Limited 華德國際財務有限公司 19-May-27
+6088 1523/2025 WonderLend Limited 奇跡信貸有限公司 26-Aug-26 R
+3710 604/2026 Woodhill Investments Limited 林山投資有限公司 20-Feb-27
+4592 1780/2025 World Base Development Limited 僑基發展有限公司 22-Sep-26 R
+2605 1912/2025 World Phoenix Finance Services Limited 世匯財務有限公司 9-Nov-26 R
+5755 1857/2025 World Super Capital Limited 維亮資本有限公司 8-Sep-26 R
+5370 756/2026 World Win Finance Limited 寰球財務有限公司 28-Mar-27
+31.10.2026 頁碼 Page No. : 56 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-4485 1090/2026 Wonder International Finance Limited 華德國際財務有限公司 19-May-27
-6088 1523/2025 WonderLend Limited 奇跡信貸有限公司 26-Aug-26 R
-3710 604/2026 Woodhill Investments Limited 林山投資有限公司 20-Feb-27
-4592 1780/2025 World Base Development Limited 僑基發展有限公司 22-Sep-26 R
-2605 1912/2025 World Phoenix Finance Services Limited 世匯財務有限公司 9-Nov-26
-5755 1857/2025 World Super Capital Limited 維亮資本有限公司 8-Sep-26 R
-5370 756/2026 World Win Finance Limited 寰球財務有限公司 28-Mar-27
 6055 276/2026 Worldwide Capital Limited 環球資本有限公司 28-Nov-26
 3200 412/2026 Worldwide Financial Limited 衛恒財務有限公司 7-Apr-27
 4094 994/2026 Worthy Sky International Limited 敬天國際有限公司 26-May-27
 5528 856/2026 Woso Finance Limited 禾信財務有限公司 5-May-27
 3275 374/2026 WT Finance Company Limited 宏泰財務有限公司 5-Jan-27
 4713 680/2026 X8 Finance Limited 7-Mar-27
-6510 1174/2025 XCMG Treasury Management (Hong Kong) 徐工香港財資管理有限公司 20-Aug-26 R
+6510 1413/2026 XCMG Treasury Management (Hong Kong) 徐工香港財資管理有限公司 20-Aug-27
 Limited
-5110 1227/2025 XFB FinTech Company Limited 小房包金融科技有限公司 21-Jun-26 R
-6523 1998/2025 Xingang Art Trade Co., Limited 新港藝貿易有限公司 15-Oct-26
+5110 1242/2026 XFB FinTech Company Limited 小房包金融科技有限公司 21-Jun-27
 6427 297/2026 Xtransfer Lending Services Limited 信匯寶借貸服務有限公司 2-Apr-27
 6446 1907/2025 XUXI Digits (HONGKONG) Limited 旭溪數字科技(香港)有限公司 12-Dec-26 R
 5468 1051/2026 Y H Finance Limited 源興財務有限公司 4-Jul-27
 5927 595/2026 Yacht Easy International Limited 船太易國際有限公司 11-Mar-27
 6141 1833/2025 Yam Fung Finance Limited 鑫灃財務有限公司 23-Dec-26 R
-4530 1226/2025 Yanjing Finance Limited 燕京財務有限公司 20-Jun-26 R
+4530 1292/2026 Yanjing Finance Limited 燕京財務有限公司 20-Jun-27
 5240 90/2026 Yat Sum Business Investment Limited 15-Nov-26
 1093 1459/2025 Yatlee Investments Limited 英浩投資有限公司 19-Sep-26 R
 5517 1382/2025 Yau Yuen Investments Limited 有源投資有限公司 22-Aug-26 R
-6161 409/2026 Yedpay Prime Limited 11-Jan-27
 4998 507/2026 Yellow River Consultants Services Limited 黃河顧問服務有限公司 22-Feb-27
-2048 1984/2025 Yelsen Finance Holdings Limited 日順財務金融集團有限公司 24-Oct-26
+2048 1984/2025 Yelsen Finance Holdings Limited 日順財務金融集團有限公司 24-Oct-26 R
 4062 1064/2026 YES Capital Limited 一資本有限公司 21-May-27
 6302 1877/2025 Yes Cashing Capital Limited 沐鑫資本有限公司 20-Sep-26 R
 3989 566/2026 Yes Choice Universal Investment Co., Limited 標準環球投資有限公司 5-Feb-27
 5254 172/2026 Yes Credit Limited 泰樂信貸有限公司 4-Dec-26
-3074 1395/2025 Yes Lady Finance Company Limited 發達太太財務有限公司 7-Jul-26 R
-30.9.2026 頁碼 Page No. : 57 總頁數 Total Pages : 59
+3074 1353/2026 Yes Lady Finance Company Limited 發達太太財務有限公司 7-Jul-27
+3075 1528/2025 Yes Man Finance Company Limited 發達先生財務有限公司 13-Nov-26
+659 1697/2025 Yeung Chi Shing Finance Company Limited 楊志誠財務有限公司 15-Sep-26 R
+1496 225/2026 Yicko Finance Limited 益高財務有限公司 7-Dec-26
+4037 528/2026 Yik Fung Finance Company Limited 億豐財務有限公司 19-Mar-27
+6405 1208/2026 Yin Hao Finance Limited 銀灝財務有限公司 4-Jul-27
+6165 1103/2026 Yintech Enterprise (HK) Company Limited 銀科企業有限公司 22-Jul-27
+234 264/2026 Yiu Fung Finance Company Limited 耀豐財務有限公司 11-Dec-26
+5800 1593/2025 YLS Group Holding Company Limited 好易投集團控股有限公司 14-Oct-26 R
+6383 648/2026 Yonganda Finance Limited 永安達金融服務有限公司 9-May-27
+31.10.2026 頁碼 Page No. : 57 總頁數 Total Pages : 59
 放債人牌照號碼 牌照屆滿日
 檔案號碼 英文名稱 中文名稱 備註 #
 Money Lender's Licence Expiry
 MLR No. English Name Chinese Name Remarks
 Licence No. Date
-3075 1528/2025 Yes Man Finance Company Limited 發達先生財務有限公司 13-Nov-26
-659 1697/2025 Yeung Chi Shing Finance Company Limited 楊志誠財務有限公司 15-Sep-26 R
-1496 225/2026 Yicko Finance Limited 益高財務有限公司 7-Dec-26
-4037 528/2026 Yik Fung Finance Company Limited 億豐財務有限公司 19-Mar-27
-6405 1206/2026 Yin Hao Finance Limited 銀灝財務有限公司 4-Jul-27
-6165 1103/2026 Yintech Enterprise (HK) Company Limited 銀科企業有限公司 22-Jul-27
-234 264/2026 Yiu Fung Finance Company Limited 耀豐財務有限公司 11-Dec-26
-5800 1593/2025 YLS Group Holding Company Limited 好易投集團控股有限公司 14-Oct-26 R
-6383 648/2026 Yonganda Finance Limited 永安達金融服務有限公司 9-May-27
 5510 1672/2025 Yongjun Finance Company Limited 永峻財務有限公司 27-Aug-26 R
 6159 366/2026 Yoov Capital Limited 優科資本有限公司 28-Dec-26
 5605 291/2026 Youxtouch Finance Limited 煜達信貸有限公司 17-Dec-26
 3457 3/2026 Youyu Finance Limited 有魚金融有限公司 20-Nov-26
 5955 877/2026 YT Global Limited 添因有限公司 13-Apr-27
-4900 9/2026 YTL Consultants Limited 維太智庫有限公司 2-Nov-26
+4900 9/2026 YTL Consultants Limited 維太智庫有限公司 2-Nov-26 R
 171 184/2026 Yu Fung Company Limited 裕豐有限公司 5-Feb-27
-6650 1623/2025 Yu Fung Finance Limited 譽豐財務有限公司 27-Nov-26
+6650 1623/2025 Yu Fung Finance Limited 譽豐財務有限公司 27-Nov-26 R
 172 298/2026 Yu Tai Hing Company Limited 裕泰興有限公司 4-Mar-27
-5652 1386/2025 Yuan Dynasty Credit Limited 元朝信貸有限公司 23-Oct-26
+5652 1386/2025 Yuan Dynasty Credit Limited 元朝信貸有限公司 23-Oct-26 R
 4055 729/2026 Yuanta Finance (Hong Kong) Limited 元大香港財務有限公司 16-Apr-27
 5914 704/2026 Yuanta Futures (HK) Co., Limited 元大期貨(香港)有限公司 11-Feb-27
-5148 1565/2025 Yuanyin Finance Limited 原銀金融信貸有限公司 2-Aug-26 R
+5148 1347/2026 Yuanyin Finance Limited 原銀金融信貸有限公司 2-Aug-27
 955 1885/2025 Yue Xiu Finance Company Limited 越秀財務有限公司 6-Oct-26 R
 4587 304/2026 Yue Xiu Investment Consultants Limited 越秀投資咨詢有限公司 15-Dec-26
 5621 944/2026 Yuesheng Capital Limited 粵盛資本有限公司 29-Apr-27
@@ -2335,27 +2326,25 @@ Licence No. Date
 4804 1013/2026 YuFeng Credit Limited 裕豐第一信貸有限公司 4-Jul-27
 5591 248/2026 Yuk Sing Finance Limited 旭昇財務有限公司 28-Nov-26
 6504 986/2026 Yun Wah Credit Company Limited 潤華信用貸款有限公司 2-Jul-27
-6654 1739/2025 Yuvarra Limited 16-Dec-26
+6654 1739/2025 Yuvarra Limited 16-Dec-26 R
 2934 562/2026 Yvonne Credit Service Co., Limited 易還財務有限公司 22-Feb-27
 5054 721/2026 YY Credit Limited 億源信貸有限公司 17-Apr-27
 6684 162/2026 Zainti Credit Services Limited 10-Mar-27
-30.9.2026 頁碼 Page No. : 58 總頁數 Total Pages : 59
-放債人牌照號碼 牌照屆滿日
-檔案號碼 英文名稱 中文名稱 備註 #
-Money Lender's Licence Expiry
-MLR No. English Name Chinese Name Remarks
-Licence No. Date
 6218 962/2026 ZCH Group Limited 絡萊集團有限公司 17-May-27
-6265 1413/2025 Zebra Credit Limited 26-Jul-26 R
-6294 34/2026 Zen Lending Services (Hong Kong) Limited 禪境信貸服務(香港)有限公司 11-Oct-26
+6265 1409/2026 Zebra Credit Limited 26-Jul-27
 3398 1084/2026 Zenith Limited 7-May-27
 6635 1366/2025 Zenways Capital Limited 正威資本有限公司 21-Oct-26 R
 1930 768/2026 Zero Credit Limited 零在信貸有限公司 10-Apr-27
 4060 773/2026 Zero Finance Hong Kong Limited 零在金融香港有限公司 21-Apr-27
 6181 511/2026 Zero2IPO Credit Finance Limited 清科信貸財務有限公司 22-Feb-27
 5300 403/2026 Zetl Limited 12-Jan-27
-6624 1306/2025 ZH Financing Limited 中昊融資有限公司 9-Oct-26
 5613 365/2026 Zhong Jia Investment Consultants Limited 中加投資顧問有限公司 28-Dec-26
+31.10.2026 頁碼 Page No. : 58 總頁數 Total Pages : 59
+放債人牌照號碼 牌照屆滿日
+檔案號碼 英文名稱 中文名稱 備註 #
+Money Lender's Licence Expiry
+MLR No. English Name Chinese Name Remarks
+Licence No. Date
 4319 45/2026 Zhong Neng Finance Limited 中能財務有限公司 15-Dec-26
 4756 836/2026 Zhongcai Finance Limited 中財財務有限公司 27-Apr-27
 6322 1151/2026 Zhongchuang HK Advisors Limited 眾創香港顧問有限公司 15-Sep-27
@@ -2366,4 +2355,4 @@ Licence No. Date
 6466 516/2026 Zircon Credit Service Limited 卓銳信貸服務有限公司 20-Feb-27
 4162 1139/2026 Ziven Credit Limited 冠泓信貸有限公司 4-Aug-27
 5352 739/2026 ZQ Capital Hong Kong Limited 倍哲資本香港有限公司 26-Mar-27
-30.9.2026 頁碼 Page No. : 59 總頁數 Total Pages : 59
+31.10.2026 頁碼 Page No. : 59 總頁數 Total Pages : 59
